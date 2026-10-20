@@ -1,0 +1,6 @@
+Campaign,Campaign Type,Networks,Budget,Bid Strategy Type,Targeting method,Exclusion method,Campaign Status
+Search - Brand,Search,Google search,40.00,Manual CPC,Location of presence,Location of presence,Enabled
+Search - Crew Scheduling,Search,Google search;Search Partners;Display Network,250.00,Target CPA,Location of presence or Area of interest,Location of presence,Enabled
+Search - Field Service,Search,Google search;Search Partners,200.00,Manual CPC,Location of presence or Area of interest,Location of presence,Enabled
+Search - Competitors,Search,Google search;Search Partners,60.00,Maximize clicks,Location of presence,Location of presence,Enabled
+PMax - All Products,Performance Max,,120.00,Maximize conversions,Location of presence or Area of interest,Location of presence,Enabled

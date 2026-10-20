@@ -1,0 +1,11 @@
+Keyword status report
+"September 21, 2026 - October 20, 2026"
+Keyword,Match type,Campaign,Ad group,Status,Impr.,Clicks,Cost,Conversions
+crew scheduling software,Exact match,Search - Crew Scheduling,Crew scheduling - exact,Eligible,5150,380,"3,420.00",28.00
+crew scheduling app,Phrase match,Search - Crew Scheduling,Crew scheduling - phrase,Eligible,4400,348,"2,905.00",21.00
+crew scheduling,Phrase match,Search - Crew Scheduling,Crew scheduling - phrase,Eligible,5380,437,"3,140.00",4.00
+field service software,Phrase match,Search - Field Service,Field service software - phrase,Eligible,7200,540,"4,455.00",20.00
+technician scheduling software,Phrase match,Search - Field Service,Field service software - phrase,Low search volume,0,0,0.00,0.00
+dispatch software,Broad match,Search - Field Service,Dispatch software - broad,Eligible,7800,630,"4,920.00",13.00
+fernhill,Exact match,Search - Brand,Brand,Eligible,950,222,266.00,19.00
+fernhill,Phrase match,Search - Brand,Brand,Eligible,800,185,230.00,7.00

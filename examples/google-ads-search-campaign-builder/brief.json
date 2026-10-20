@@ -1,0 +1,430 @@
+{
+  "campaignName": "Crew scheduling - Search - US",
+  "dailyBudget": 120,
+  "cpcBid": 6.13,
+  "finalUrl": "https://www.fernhill-crew.example/crew-scheduling",
+  "locations": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "conversionActionNames": [
+    "Demo request"
+  ],
+  "negativeKeywords": [
+    {
+      "text": "jobs",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "careers",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "career",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "salary",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "hiring",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "internship",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "resume",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "course",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "courses",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "certification",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "free",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "template",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "templates",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "excel",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "pdf",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "definition",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "meaning",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "reddit",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "login",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "what is",
+      "matchType": "PHRASE"
+    },
+    {
+      "text": "spreadsheet",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "how to",
+      "matchType": "PHRASE"
+    },
+    {
+      "text": "airline",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "film",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "flight",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "cabin",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "trucking",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "jobber",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "servicetitan",
+      "matchType": "BROAD"
+    },
+    {
+      "text": "housecall pro",
+      "matchType": "PHRASE"
+    }
+  ],
+  "adGroups": [
+    {
+      "name": "Crew scheduling software - exact and phrase",
+      "cpcBid": 5.25,
+      "keywords": [
+        {
+          "text": "crew scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew scheduling software",
+          "matchType": "PHRASE"
+        },
+        {
+          "text": "crew scheduling app",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew scheduling app",
+          "matchType": "PHRASE"
+        },
+        {
+          "text": "crew scheduling",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew scheduling tool",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "best crew scheduling app",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew scheduling software pricing",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew scheduling software for small business",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew planning software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew management software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "crew dispatch software",
+          "matchType": "EXACT"
+        }
+      ],
+      "negativeKeywords": [
+        {
+          "text": "construction crew scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "painting crew scheduling app",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "landscape crew scheduling app",
+          "matchType": "EXACT"
+        }
+      ],
+      "ads": [
+        {
+          "headlines": [
+            "Crew Scheduling Software",
+            "Crew Scheduling App for Teams",
+            "Schedule Every Crew in Minutes",
+            "Drag and Drop Crew Calendar",
+            "Text Alerts Sent to Your Crews",
+            "GPS Clock-In on Every Job",
+            "Syncs With QuickBooks",
+            "Used by 1,200 Contractors",
+            "Plans From $49 a Month",
+            "Book a 20 Minute Demo",
+            "Fernhill Crew Scheduling",
+            "No More Scheduling by Phone",
+            "See Who Is Where, Live"
+          ],
+          "descriptions": [
+            "Build next week's crew schedule in minutes and send it to every phone in a single click.",
+            "Used by 1,200 contractors. GPS clock-in and QuickBooks sync come with every plan.",
+            "Drag crews onto jobs, text changes instantly, and see who is on site in real time.",
+            "Plans from $49 a month. Book a 20 minute demo and see your own schedule built live."
+          ],
+          "path1": "scheduling",
+          "path2": "crews"
+        },
+        {
+          "headlines": [
+            "Crew Scheduling Software",
+            "Stop Chasing Crews by Phone",
+            "Crew Scheduling Made Simple",
+            "A Calendar for All Your Crews",
+            "Last Minute Changes? Text All",
+            "Every Crew Knows Where to Go",
+            "Know Who Clocked In and Where",
+            "QuickBooks Sync Built In",
+            "Trusted by 1,200 Contractors",
+            "From $49 a Month",
+            "Get a 20 Minute Demo",
+            "Fernhill for Field Crews"
+          ],
+          "descriptions": [
+            "Tired of group texts? Put every crew, job and schedule change on a single calendar.",
+            "Crews get a text the moment a job moves. GPS clock-in shows who arrived and when.",
+            "Jobs sync to QuickBooks, so the office stops typing the same data twice.",
+            "1,200 contractors schedule with Fernhill. See it on your own jobs in a 20 minute demo."
+          ],
+          "path1": "scheduling",
+          "path2": "software"
+        }
+      ]
+    },
+    {
+      "name": "Construction crew scheduling - exact and phrase",
+      "cpcBid": 6,
+      "keywords": [
+        {
+          "text": "construction crew scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "construction crew scheduling",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "construction crew scheduling",
+          "matchType": "PHRASE"
+        },
+        {
+          "text": "construction scheduling app",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "construction scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "scheduling software for construction crews",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "roofing crew scheduling",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "painting crew scheduling app",
+          "matchType": "EXACT"
+        }
+      ],
+      "ads": [
+        {
+          "headlines": [
+            "Construction Crew Scheduling",
+            "Construction Scheduling App",
+            "Schedule Construction Crews",
+            "Drag and Drop Crew Calendar",
+            "Text Job Changes to Crews",
+            "GPS Clock-In on Every Site",
+            "Syncs With QuickBooks",
+            "Used by 1,200 Contractors",
+            "Plans From $49 a Month",
+            "Book a 20 Minute Demo",
+            "Fernhill for Construction",
+            "All Sites in a Single Calendar"
+          ],
+          "descriptions": [
+            "Put every construction crew and site on a drag and drop calendar, then text changes fast.",
+            "GPS clock-in shows who reached each site and when. Jobs sync to QuickBooks.",
+            "Used by 1,200 contractors to plan crews across job sites without the phone calls.",
+            "Plans from $49 a month. Book a 20 minute demo built around your own crews and sites."
+          ],
+          "path1": "construction",
+          "path2": "crews"
+        },
+        {
+          "headlines": [
+            "Construction Crew Scheduling",
+            "Stop Juggling Crews by Text",
+            "Crew Calendar for Contractors",
+            "Move a Crew, Everyone Knows",
+            "See Who Is on Each Site",
+            "Clock-In With GPS Built In",
+            "QuickBooks Sync Included",
+            "Trusted by 1,200 Contractors",
+            "From $49 a Month",
+            "Get a 20 Minute Demo",
+            "Fernhill Crew Scheduling",
+            "Built for General Contractors"
+          ],
+          "descriptions": [
+            "Rain delay or change order? Move the crew on the calendar and every phone gets a text.",
+            "Stop rebuilding the schedule in spreadsheets. Drag crews to sites and publish it.",
+            "GPS clock-in and QuickBooks sync mean fewer calls to the field and less retyping.",
+            "1,200 contractors plan crews with Fernhill. See your schedule in a 20 minute demo."
+          ],
+          "path1": "construction",
+          "path2": "scheduling"
+        }
+      ]
+    },
+    {
+      "name": "Landscaping crew scheduling - exact and phrase",
+      "cpcBid": 4.6,
+      "keywords": [
+        {
+          "text": "landscaping crew scheduling",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "landscaping crew scheduling",
+          "matchType": "PHRASE"
+        },
+        {
+          "text": "lawn care scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "lawn care scheduling software",
+          "matchType": "PHRASE"
+        },
+        {
+          "text": "landscape crew scheduling app",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "landscaping scheduling software",
+          "matchType": "EXACT"
+        },
+        {
+          "text": "snow removal crew scheduling",
+          "matchType": "EXACT"
+        }
+      ],
+      "ads": [
+        {
+          "headlines": [
+            "Landscaping Crew Scheduling",
+            "Lawn Care Scheduling Software",
+            "Schedule Every Mowing Crew",
+            "Drag and Drop Crew Calendar",
+            "Text Route Changes to Crews",
+            "GPS Clock-In at Every Property",
+            "Syncs With QuickBooks",
+            "Used by 1,200 Contractors",
+            "Plans From $49 a Month",
+            "Book a 20 Minute Demo",
+            "Fernhill for Landscapers",
+            "Snow Crews Scheduled Too"
+          ],
+          "descriptions": [
+            "Plan landscaping and lawn care crews on a drag and drop calendar, then text today's jobs.",
+            "GPS clock-in shows when each crew reached a property. Jobs sync to QuickBooks.",
+            "Rain moves the week? Drag the jobs, and every crew gets the new schedule by text.",
+            "Plans from $49 a month. Book a 20 minute demo with your own crews and properties."
+          ],
+          "path1": "landscaping",
+          "path2": "crews"
+        },
+        {
+          "headlines": [
+            "Landscaping Crew Scheduling",
+            "Lawn Care Crew Scheduling App",
+            "Rain Day? Move Jobs Fast",
+            "A Calendar for Every Crew",
+            "Crews Get Jobs by Text",
+            "Know When Crews Arrive",
+            "QuickBooks Sync Included",
+            "Trusted by 1,200 Contractors",
+            "From $49 a Month",
+            "Get a 20 Minute Demo",
+            "Fernhill Crew Scheduling",
+            "Mowing to Snow Removal"
+          ],
+          "descriptions": [
+            "Stop texting each crew by hand. Fernhill sends the day's jobs to every phone.",
+            "See which crews clocked in at which property, with GPS, without calling around.",
+            "From mowing routes to snow removal, schedule every season's crews in a single place.",
+            "1,200 contractors schedule with Fernhill. Plans from $49 a month. Book a demo."
+          ],
+          "path1": "lawn-care",
+          "path2": "scheduling"
+        }
+      ]
+    }
+  ]
+}
