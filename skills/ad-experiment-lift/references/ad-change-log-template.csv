@@ -1,0 +1,3 @@
+logged_on,change_date,platform,level,entity,type,change,hypothesis,metric,expected,window_days,read_on,verdict
+2026-01-12,2026-01-13,LinkedIn Ads,ad set,Example ad set,test,"Replaced 2 feature-led ads with 2 outcome-led ads",Buyers respond to the outcome more than the feature list,cost per conversion,-15%,14,2026-02-03,
+2026-01-20,2026-01-20,Google Ads,campaign,Example campaign,change,Daily budget $100 to $130,,,,,,
