@@ -1,0 +1,4 @@
+conversion_id,name,data_source,rule,status,last_signal,click_window_days,view_window_days,attribution_model,ad_sets_attached
+9100201,Demo request - thank you page,Insight Tag,URL contains /demo/thank-you,Active,2026-10-18,90,90,Last touch - Each ad set,402115001;402115002;402115006
+9100202,All site page views,Insight Tag,Any page on northwind-analytics.example,Active,2026-10-18,90,90,Last touch - Each ad set,402115006;402115007
+9100203,Demo request (old site),Insight Tag,URL contains /demo-thanks,No recent activity,2026-09-08,30,7,Last touch - Each ad set,402115001
