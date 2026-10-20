@@ -1,0 +1,36 @@
+{
+  "name": "adwarp",
+  "owner": {
+    "name": "Stan Rymkiewicz"
+  },
+  "metadata": {
+    "description": "Paid ads skills for LinkedIn Ads and Google Ads, from Adwarp (https://adwarp.dev)",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "paid-ads-skills",
+      "description": "LinkedIn Ads and Google Ads audits, performance reviews, pause rules, audience sizing, account-based ad plans, search campaign briefs, weekly reports, lift and pacing. Works from a CSV export or live through Adwarp.",
+      "source": "./",
+      "strict": false,
+      "homepage": "https://adwarp.dev",
+      "repository": "https://github.com/adwarp-dev/paid-ads-skills",
+      "license": "MIT",
+      "keywords": ["linkedin-ads", "google-ads", "paid-ads", "ppc", "performance-marketing", "adwarp"],
+      "skills": [
+        "./skills/linkedin-ads-audit",
+        "./skills/linkedin-ads-performance-review",
+        "./skills/linkedin-ads-pause-rules",
+        "./skills/linkedin-audience-sizing",
+        "./skills/linkedin-abm-builder",
+        "./skills/linkedin-ad-library-teardown",
+        "./skills/google-ads-account-audit",
+        "./skills/google-ads-search-campaign-builder",
+        "./skills/google-ads-search-terms",
+        "./skills/paid-media-weekly-report",
+        "./skills/ad-experiment-lift",
+        "./skills/ad-budget-pacing"
+      ]
+    }
+  ]
+}
