@@ -1,0 +1,13 @@
+Ad Set Performance Report (in UTC)
+"Report Start: 9/21/2026, 12:00 AM"
+"Report End: 10/18/2026, 11:59 PM"
+"Date Generated: 10/20/2026, 9:12 AM"
+"Account Name: Northwind Analytics (made-up example data, not a real account)"
+
+Start Date (in UTC),Account Name,Currency,Campaign Name,Campaign ID,Ad Set Name,Ad Set ID,Ad Set Status,Ad Set Objective,Cost Type,Daily Budget,Total Spent,Impressions,Clicks,Click Through Rate,Average CPM,Average CPC,Landing Page Clicks,Conversions,Post-Click Conversions,View-Through Conversions,Conversion Rate,Cost per Conversion,Leads,Cost per Lead,Reach,Average Frequency
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,3948.07,63818,431,0.0068,61.86,9.16,401,25,15,10,0.0580,157.92,0,0,23578,2.71
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,100.00,2693.93,38304,200,0.0052,70.33,13.47,185,8,4,4,0.0400,336.74,0,0,12071,3.17
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,Data Teams US Guide,402115003,Active,Website visits,CPC,80.00,998.24,26435,244,0.0092,37.76,4.09,227,0,0,0,0.0000,0,0,0,13487,1.96
+9/21/2026,Northwind Analytics,USD,NA | ABM | Q4 2026,618400102,LG | ABM Tier 1 | Company List | Global,402115004,Active,Lead generation,CPM,80.00,2054.93,22926,139,0.0061,89.63,14.78,0,0,0,0,0.0000,0,18,114.16,2924,7.84
+9/21/2026,Northwind Analytics,USD,NA | Retargeting | Always On,618400103,WC | Retarget | Site Visitors 90d | Global,402115006,Active,Website conversions,CPM,25.00,680.49,15159,132,0.0087,44.89,5.16,123,14,6,8,0.1061,48.61,0,0,6767,2.24
+9/21/2026,Northwind Analytics,USD,NA | Retargeting | Always On,618400103,Retargeting - pricing page,402115007,Active,Website conversions,CPM,30.00,799.20,16734,142,0.0085,47.76,5.63,132,16,9,7,0.1127,49.95,0,0,2015,8.30

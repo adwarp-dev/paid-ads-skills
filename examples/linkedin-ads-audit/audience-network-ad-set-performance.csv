@@ -1,0 +1,15 @@
+Audience Network Ad Set Performance Report (in UTC)
+"Report Start: 9/19/2026, 12:00 AM"
+"Report End: 10/18/2026, 11:59 PM"
+"Date Generated: 10/20/2026, 9:13 AM"
+"Account Name: Northwind Analytics (made-up example data, not a real account)"
+
+Start Date (in UTC),Account Name,Currency,Campaign Name,Ad Set Name,Ad Set ID,Network,Total Spent,Impressions,Clicks,Conversions
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,WC | Ops Leaders | US | Demo,402115001,On LinkedIn,4150.21,67029,454,26
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,WC | Finance Leaders | US | Demo,402115002,On LinkedIn,2039.88,24186,111,8
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,WC | Finance Leaders | US | Demo,402115002,Audience Network,793.28,16124,98,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,Data Teams US Guide,402115003,On LinkedIn,683.87,13393,108,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,Data Teams US Guide,402115003,Audience Network,368.23,14510,150,0
+9/19/2026,Northwind Analytics,USD,NA | ABM | Q4 2026,LG | ABM Tier 1 | Company List | Global,402115004,On LinkedIn,2158.85,24075,145,0
+9/19/2026,Northwind Analytics,USD,NA | Retargeting | Always On,WC | Retarget | Site Visitors 90d | Global,402115006,On LinkedIn,713.42,15906,139,14
+9/19/2026,Northwind Analytics,USD,NA | Retargeting | Always On,Retargeting - pricing page,402115007,On LinkedIn,837.66,17544,149,17
