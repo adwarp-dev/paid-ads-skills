@@ -33,7 +33,7 @@ Then these sections, in this order:
 
 Directories like marketingskills.sh score skills on insight, objectivity, actionability and impact. Write for all 4.
 
-- **Insight.** Put in what practitioners learn the hard way. A LinkedIn "campaign" is everyone else's ad group. An audience needs 300 members before it serves. LinkedIn ignores edits to a live ad's post.
+- **Insight.** Put in what practitioners learn the hard way. LinkedIn's API still calls an ad set a "campaign" and a campaign a "campaign group". An audience needs 300 members before it serves. Audience expansion is on by default and left out of the forecasted audience size. When a point comes from experience and no public page backs it, say so.
 - **Objectivity.** Cite sources and date them. State caveats. Name other tools fairly. The method never sells Adwarp: Adwarp appears only in Connected mode.
 - **Actionability.** Every report ends in actions ranked by impact, each with the exact fix.
 - **Impact.** Order checks and findings by the money at stake.
