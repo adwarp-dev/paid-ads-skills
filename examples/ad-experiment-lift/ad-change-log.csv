@@ -1,0 +1,6 @@
+logged_on,change_date,platform,level,entity,type,change,hypothesis,metric,expected,window_days,read_on,verdict
+2026-09-21,2026-09-22,LinkedIn Ads,ad set,Ops Directors - Demo,test,"Replaced 2 feature-led ads with 2 outcome-led ads (same images, new headline and intro text)",Directors respond to the result (hours saved a week) more than to a feature list,cost per conversion,-15%,14,2026-10-13,
+2026-09-28,2026-09-29,Google Ads,campaign,Search - Fleet Software,test,Final URL from /features to /fleet-demo (3-field form instead of 7),A shorter form turns more clicks into demo requests,conversion rate,+20%,14,2026-10-20,
+2026-10-01,2026-10-01,Google Ads,campaign,Search - Route Planning,change,Max CPC bids +15% on 4 keywords,,,,,,
+2026-10-05,2026-10-06,LinkedIn Ads,ad set,Finance VPs - Demo,test,"Added 6 finance job titles to targeting (audience about 38,000 to 61,000)",Wider titles lower cost per conversion without hurting lead quality,cost per conversion,-10%,14,2026-10-27,
+2026-10-09,2026-10-09,LinkedIn Ads,ad set,Finance VPs - Demo,change,Daily budget $150 to $210,,,,,,

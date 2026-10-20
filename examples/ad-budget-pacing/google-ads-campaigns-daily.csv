@@ -1,0 +1,68 @@
+Campaign report (made-up example data)
+"September 1, 2026 - September 16, 2026"
+Day,Campaign,Campaign status,Currency code,Cost,Impr.,Clicks,CTR,Avg. CPC,Conversions,Cost / conv.
+2026-09-01,"Search - Brand",Enabled,USD,"39.13","335",43,12.84%,0.91,1.00,"39.13"
+2026-09-01,"Search - Competitor Terms",Enabled,USD,"37.97","376",12,3.19%,3.16,1.00,"37.97"
+2026-09-01,"Search - HR Platform",Enabled,USD,"80.77","982",35,3.56%,2.31,1.00,"80.77"
+2026-09-01,"Search - Payroll Software",Enabled,USD,"174.57","1,611",71,4.41%,2.46,3.00,"58.19"
+2026-09-02,"Search - Brand",Enabled,USD,"37.78","274",36,13.14%,1.05,1.00,"37.78"
+2026-09-02,"Search - Competitor Terms",Enabled,USD,"36.41","402",14,3.48%,2.60,1.00,"36.41"
+2026-09-02,"Search - HR Platform",Enabled,USD,"99.68","1,219",44,3.61%,2.27,1.00,"99.68"
+2026-09-02,"Search - Payroll Software",Enabled,USD,"154.85","1,651",56,3.39%,2.77,2.00,"77.43"
+2026-09-03,"Search - Brand",Enabled,USD,"34.32","301",39,12.96%,0.88,1.00,"34.32"
+2026-09-03,"Search - Competitor Terms",Enabled,USD,"28.62","332",9,2.71%,3.18,0.00,0.00
+2026-09-03,"Search - HR Platform",Enabled,USD,"86.49","1,088",35,3.22%,2.47,1.00,"86.49"
+2026-09-03,"Search - Payroll Software",Enabled,USD,"151.10","1,555",50,3.22%,3.02,1.00,"151.10"
+2026-09-04,"Search - Brand",Enabled,USD,"32.32","249",37,14.86%,0.87,1.00,"32.32"
+2026-09-04,"Search - Competitor Terms",Enabled,USD,"30.93","310",8,2.58%,3.87,0.00,0.00
+2026-09-04,"Search - HR Platform",Enabled,USD,"78.76","875",33,3.77%,2.39,1.00,"78.76"
+2026-09-04,"Search - Payroll Software",Enabled,USD,"133.05","1,349",46,3.41%,2.89,1.00,"133.05"
+2026-09-05,"Search - Brand",Enabled,USD,"20.22","143",21,14.69%,0.96,0.00,0.00
+2026-09-05,"Search - Competitor Terms",Enabled,USD,"17.56","189",5,2.65%,3.51,0.00,0.00
+2026-09-05,"Search - HR Platform",Enabled,USD,"54.77","652",24,3.68%,2.28,0.00,0.00
+2026-09-05,"Search - Payroll Software",Enabled,USD,"90.34","888",33,3.72%,2.74,1.00,"90.34"
+2026-09-06,"Search - Brand",Enabled,USD,"20.85","156",23,14.74%,0.91,0.00,0.00
+2026-09-06,"Search - Competitor Terms",Enabled,USD,"20.94","210",8,3.81%,2.62,0.00,0.00
+2026-09-06,"Search - HR Platform",Enabled,USD,"57.97","721",24,3.33%,2.42,0.00,0.00
+2026-09-06,"Search - Payroll Software",Enabled,USD,"92.73","983",37,3.76%,2.51,1.00,"92.73"
+2026-09-07,"Search - Brand",Enabled,USD,"33.68","324",38,11.73%,0.89,1.00,"33.68"
+2026-09-07,"Search - Competitor Terms",Enabled,USD,"34.14","354",11,3.11%,3.10,0.00,0.00
+2026-09-07,"Search - HR Platform",Enabled,USD,"102.29","1,205",39,3.24%,2.62,1.00,"102.29"
+2026-09-07,"Search - Payroll Software",Enabled,USD,"180.11","1,795",62,3.45%,2.91,3.00,"60.04"
+2026-09-08,"Search - Brand",Enabled,USD,"37.70","262",41,15.65%,0.92,1.00,"37.70"
+2026-09-08,"Search - Competitor Terms",Enabled,USD,"30.95","377",9,2.39%,3.44,1.00,"30.95"
+2026-09-08,"Search - HR Platform",Enabled,USD,"97.46","1,201",38,3.16%,2.56,1.00,"97.46"
+2026-09-08,"Search - Payroll Software",Enabled,USD,"183.47","1,554",58,3.73%,3.16,2.00,"91.74"
+2026-09-09,"Search - Brand",Enabled,USD,"33.48","302",39,12.91%,0.86,1.00,"33.48"
+2026-09-09,"Search - Competitor Terms",Enabled,USD,"36.57","369",13,3.52%,2.81,0.00,0.00
+2026-09-09,"Search - HR Platform",Enabled,USD,"87.78","1,013",32,3.16%,2.74,1.00,"87.78"
+2026-09-09,"Search - Payroll Software",Enabled,USD,"176.28","1,809",77,4.26%,2.29,1.00,"176.28"
+2026-09-10,"Search - Brand",Enabled,USD,"37.78","255",32,12.55%,1.18,2.00,"18.89"
+2026-09-10,"Search - Competitor Terms",Enabled,USD,"33.09","393",12,3.05%,2.76,0.00,0.00
+2026-09-10,"Search - HR Platform",Enabled,USD,"78.61","1,110",42,3.78%,1.87,1.00,"78.61"
+2026-09-10,"Search - Payroll Software",Enabled,USD,"171.79","1,641",67,4.08%,2.56,1.00,"171.79"
+2026-09-11,"Search - Brand",Enabled,USD,"28.97","239",25,10.46%,1.16,1.00,"28.97"
+2026-09-11,"Search - Competitor Terms",Enabled,USD,"31.15","340",10,2.94%,3.11,0.00,0.00
+2026-09-11,"Search - HR Platform",Enabled,USD,"84.02","973",29,2.98%,2.90,1.00,"84.02"
+2026-09-11,"Search - Payroll Software",Enabled,USD,"130.19","1,628",50,3.07%,2.60,1.00,"130.19"
+2026-09-12,"Search - Brand",Enabled,USD,"21.84","190",15,7.89%,1.46,1.00,"21.84"
+2026-09-12,"Search - Competitor Terms",Enabled,USD,"18.28","192",7,3.65%,2.61,0.00,0.00
+2026-09-12,"Search - HR Platform",Enabled,USD,"46.96","614",21,3.42%,2.24,1.00,"46.96"
+2026-09-12,"Search - Payroll Software",Enabled,USD,"102.08","880",35,3.98%,2.92,1.00,"102.08"
+2026-09-13,"Search - Brand",Enabled,USD,"23.46","206",25,12.14%,0.94,0.00,0.00
+2026-09-13,"Search - Competitor Terms",Enabled,USD,"18.23","246",5,2.03%,3.65,0.00,0.00
+2026-09-13,"Search - HR Platform",Enabled,USD,"51.26","567",26,4.59%,1.97,0.00,0.00
+2026-09-13,"Search - Payroll Software",Enabled,USD,"95.72","1,066",36,3.38%,2.66,2.00,"47.86"
+2026-09-14,"Search - Brand",Enabled,USD,"36.13","264",41,15.53%,0.88,1.00,"36.13"
+2026-09-14,"Search - Competitor Terms",Enabled,USD,"35.29","325",14,4.31%,2.52,0.00,0.00
+2026-09-14,"Search - HR Platform",Enabled,USD,"86.60","968",40,4.13%,2.17,1.00,"86.60"
+2026-09-14,"Search - Payroll Software",Enabled,USD,"177.29","1,901",76,4.00%,2.33,3.00,"59.10"
+2026-09-15,"Search - Brand",Enabled,USD,"42.32","318",34,10.69%,1.24,1.00,"42.32"
+2026-09-15,"Search - Competitor Terms",Enabled,USD,"33.25","405",11,2.72%,3.02,0.00,0.00
+2026-09-15,"Search - HR Platform",Enabled,USD,"88.80","1,138",31,2.72%,2.86,1.00,"88.80"
+2026-09-15,"Search - Payroll Software",Enabled,USD,"173.58","1,966",66,3.36%,2.63,1.00,"173.58"
+2026-09-16,"Search - Brand",Enabled,USD,"40.02","282",31,10.99%,1.29,1.00,"40.02"
+2026-09-16,"Search - Competitor Terms",Enabled,USD,"36.62","380",12,3.16%,3.05,0.00,0.00
+2026-09-16,"Search - HR Platform",Enabled,USD,"97.78","1,174",27,2.30%,3.62,1.00,"97.78"
+2026-09-16,"Search - Payroll Software",Enabled,USD,"162.85","1,723",80,4.64%,2.04,3.00,"54.28"
+Total: Campaigns,,,USD,"4,630.00","48,800",2100,4.30%,2.20,57.00,"81.23"
