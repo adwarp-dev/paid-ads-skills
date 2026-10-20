@@ -1,0 +1,26 @@
+Ad Performance Report (made-up example data)
+Account: Northwind Analytics (a fictional company)
+Report Start: 2026-09-21
+Report End: 2026-10-18
+Every name and number in this file is made up. Column names in a real export may differ.
+
+Campaign Name,Ad Set Name,Ad ID,Ad Name,Ad Status,Impressions,Clicks,Average CTR,Total Spent,Conversions
+Demand Q4,Finance leaders,100000101,Close the books 3 days faster,Active,9800,62,0.63%,470.00,4
+Demand Q4,Finance leaders,100000102,CFO dashboard tour,Active,8200,23,0.28%,395.00,0
+Demand Q4,Finance leaders,100000103,Month-end checklist,Active,6100,19,0.31%,300.00,1
+Demand Q4,Finance leaders,100000104,Variance alerts,Active,1200,3,0.25%,58.00,0
+Demand Q4,Finance leaders,100000105,Audit-ready reports,Active,5400,30,0.56%,260.00,2
+Demand Q4,Operations leaders,100000201,Inventory forecast demo,Active,7600,21,0.28%,360.00,2
+Demand Q4,Operations leaders,100000202,Ops weekly digest,Active,6900,18,0.26%,330.00,0
+Demand Q4,Operations leaders,100000203,Supplier scorecards,Active,4300,26,0.60%,205.00,1
+Demand Q4,Operations leaders,100000204,Stockout cost calculator,Active,3100,9,0.29%,150.00,0
+Demand Q4,Data teams,100000301,Metrics that match your warehouse,Active,5900,44,0.75%,290.00,3
+Demand Q4,Data teams,100000302,Warehouse cost audit,Active,12500,44,0.35%,900.00,3
+Demand Q4,Data teams,100000303,SQL to board slides,Active,2600,6,0.23%,125.00,0
+Retargeting Q4,Site visitors 90 days,100000401,Customer story: Lindqvist Foods,Active,4200,38,0.90%,230.00,6
+Retargeting Q4,Site visitors 90 days,100000402,Pricing explained,Active,3900,27,0.69%,215.00,5
+Retargeting Q4,Site visitors 90 days,100000403,Free trial reminder,Active,3500,10,0.29%,190.00,0
+Retargeting Q4,Webinar registrants,100000501,Webinar replay,Active,2100,5,0.24%,120.00,0
+Retargeting Q4,Webinar registrants,100000502,Webinar slides,Paused,1900,7,0.37%,105.00,0
+ABM Halvorsen Logistics,Halvorsen decision makers,100000601,Route-level margins for Halvorsen,Active,1350,4,0.30%,95.00,0
+ABM Halvorsen Logistics,Halvorsen decision makers,100000602,Peer benchmark for Halvorsen,Active,1420,9,0.63%,100.00,1

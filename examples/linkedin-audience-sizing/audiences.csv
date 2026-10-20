@@ -1,0 +1,5 @@
+# Made-up example data for linkedin-audience-sizing. Northwind Analytics and Halvorsen Logistics are fictional, and no estimate is a real LinkedIn count.
+audience,goal,monthly_budget_usd,account_cpm_usd
+Halvorsen Logistics decision makers,1:1 account-based,600,85
+Finance leaders at mid-market software companies,Persona demand,6000,70
+Video viewers,Retargeting,1200,45
