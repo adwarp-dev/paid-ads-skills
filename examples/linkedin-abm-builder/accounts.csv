@@ -1,0 +1,14 @@
+account_name,domain,linkedin_company_url,tier,owner,landing_page_url,hq_country,trigger_note
+Brightwater Foods,brightwaterfoods.example,https://www.linkedin.com/company/example-brightwater-foods,1,AE West,https://ledgerloom.example/for/brightwater-foods,United States,Opened 2 new distribution centers this year
+Halvorsen Freight,halvorsenfreight.example,https://www.linkedin.com/company/example-halvorsen-freight,1,AE Central,https://ledgerloom.example/for/halvorsen-freight,United States,Carrier invoices doubled after an acquisition
+Copperline Manufacturing,copperlinemfg.example,https://www.linkedin.com/company/example-copperline-manufacturing,1,AE Central,,United States,Moving to a new ERP next quarter
+Juniper Ridge Health Supply,juniperridgesupply.example,,2,AE East,,United States,New controller started in the summer
+Orchard Lane Retail Group,orchardlaneretail.example,https://www.linkedin.com/company/example-orchard-lane-retail,1,AE East,https://ledgerloom.example/for/orchard-lane-retail,United States,Hiring 4 accounts payable specialists
+Tidewater Marine Parts,tidewatermarine.example,https://www.linkedin.com/company/example-tidewater-marine-parts,2,AE East,,United States,Late payment fees mentioned in a public supplier dispute
+Kestrel Packaging,kestrelpackaging.example,https://www.linkedin.com/company/example-kestrel-packaging,2,AE West,,Canada,Finance team split across Toronto and Chicago
+Summit Valley Distributors,summitvalleydist.example,https://www.linkedin.com/company/example-summit-valley-distributors,1,AE West,https://ledgerloom.example/for/summit-valley,United States,Asked for a demo last year and went quiet
+Pinecrest Tools,pinecresttools.example,https://www.linkedin.com/company/example-pinecrest-tools,2,AE Central,,United States,Small finance team running paper checks
+Redfern Cold Storage,redferncold.example,https://www.linkedin.com/company/example-redfern-cold-storage,3,AE West,,United States,Adding a third warehouse
+Little Fern Bakery Supply,littlefernsupply.example,,3,AE West,,United States,Owner-led finance team of 6
+Ashgrove Industrial,ashgroveindustrial.example,https://www.linkedin.com/company/example-ashgrove-industrial,1,AE Central,https://ledgerloom.example/for/ashgrove-industrial,United States,Accounts payable shared services center in Columbus Ohio
+Marlow Instruments,marlowinstruments.example,https://www.linkedin.com/company/example-marlow-instruments,3,AE East,,United States,Finance run by an outsourced bookkeeper

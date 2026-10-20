@@ -1,0 +1,17 @@
+# Made-up example data for linkedin-audience-sizing. Northwind Analytics and Halvorsen Logistics are fictional, and no estimate is a real LinkedIn count.
+audience,step,op,facet,values,estimate
+Halvorsen Logistics decision makers,0,include,Location,Norway; United States,
+Halvorsen Logistics decision makers,0,include,Company name,Halvorsen Logistics,6800
+Halvorsen Logistics decision makers,1,include,Job function,Finance; Operations; Information Technology; Sales,2450
+Halvorsen Logistics decision makers,2,include,Seniority,VP; CXO,260
+Halvorsen Logistics decision makers,3,add,Seniority,Director,610
+Finance leaders at mid-market software companies,0,include,Location,United States; Canada,186000000
+Finance leaders at mid-market software companies,1,include,Job function,Finance; Accounting,8900000
+Finance leaders at mid-market software companies,2,include,Seniority,Director; VP; CXO,1240000
+Finance leaders at mid-market software companies,3,include,Industry,Software Development; IT Services and IT Consulting,97000
+Finance leaders at mid-market software companies,4,include,Company size,"201-500; 501-1,000; 1,001-5,000",41000
+Finance leaders at mid-market software companies,5,exclude,Matched audiences,Customer company list; Competitor company list; Northwind employees,38500
+Finance leaders at mid-market software companies,6,add,Industry,"Technology, Information and Internet",52000
+Video viewers,0,include,Location,United States; Canada,
+Video viewers,0,include,Video audience,"Watched 50% or more of 3 product videos, 30-day lookback",240
+Video viewers,1,replace,Video audience,"Watched 50% or more of 3 product videos, 90-day lookback",680

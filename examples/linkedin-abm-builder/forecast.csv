@@ -1,0 +1,29 @@
+account_name,step,change,functions,seniorities,locations,est_audience
+Brightwater Foods,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,640
+Halvorsen Freight,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,910
+Copperline Manufacturing,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,2300
+Copperline Manufacturing,narrow-1,Drop Manager seniority,Finance; Accounting; Operations,Director; VP; CXO,United States,960
+Juniper Ridge Health Supply,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,340
+Juniper Ridge Health Supply,widen-1,Add Senior seniority,Finance; Accounting; Operations,Senior; Manager; Director; VP; CXO,United States,455
+Orchard Lane Retail Group,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,1450
+Orchard Lane Retail Group,narrow-1,Drop Manager seniority,Finance; Accounting; Operations,Director; VP; CXO,United States,610
+Tidewater Marine Parts,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,520
+Kestrel Packaging,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States; Canada,430
+Summit Valley Distributors,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,780
+Pinecrest Tools,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,260
+Pinecrest Tools,widen-1,Add Senior seniority,Finance; Accounting; Operations,Senior; Manager; Director; VP; CXO,United States,330
+Pinecrest Tools,widen-2,Add Purchasing function,Finance; Accounting; Operations; Purchasing,Senior; Manager; Director; VP; CXO,United States,405
+Redfern Cold Storage,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,150
+Redfern Cold Storage,widen-1,Add Senior seniority,Finance; Accounting; Operations,Senior; Manager; Director; VP; CXO,United States,205
+Redfern Cold Storage,widen-2,Add Purchasing function,Finance; Accounting; Operations; Purchasing,Senior; Manager; Director; VP; CXO,United States,260
+Little Fern Bakery Supply,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,90
+Little Fern Bakery Supply,widen-1,Add Senior seniority,Finance; Accounting; Operations,Senior; Manager; Director; VP; CXO,United States,130
+Little Fern Bakery Supply,widen-2,Add Purchasing function,Finance; Accounting; Operations; Purchasing,Senior; Manager; Director; VP; CXO,United States,170
+Cluster: Cold chain food suppliers,merge,Redfern Cold Storage + Little Fern Bakery Supply in 1 ad set,Finance; Accounting; Operations; Purchasing,Senior; Manager; Director; VP; CXO,United States,420
+Ashgrove Industrial,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,6800
+Ashgrove Industrial,narrow-1,Drop Manager seniority,Finance; Accounting; Operations,Director; VP; CXO,United States,2600
+Ashgrove Industrial,narrow-2,Drop Operations function,Finance; Accounting,Director; VP; CXO,United States,1350
+Ashgrove Industrial,narrow-3,Location to Ohio where the shared services center sits,Finance; Accounting,Director; VP; CXO,Ohio (United States),880
+Marlow Instruments,base,Buying group default,Finance; Accounting; Operations,Manager; Director; VP; CXO,United States,40
+Marlow Instruments,widen-1,Add Senior seniority,Finance; Accounting; Operations,Senior; Manager; Director; VP; CXO,United States,55
+Marlow Instruments,widen-2,Add Purchasing function,Finance; Accounting; Operations; Purchasing,Senior; Manager; Director; VP; CXO,United States,70
