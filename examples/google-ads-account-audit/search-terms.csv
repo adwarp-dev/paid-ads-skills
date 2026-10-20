@@ -1,0 +1,25 @@
+Search terms report
+"September 21, 2026 - October 20, 2026"
+Search term,Match type,Added/Excluded,Campaign,Ad group,Keyword,Impr.,Clicks,Cost,Conversions
+fernhill,Exact match,Added,Search - Brand,Brand,fernhill,"1,200",270,315.00,21.00
+fernhill software,Phrase match,Added,Search - Brand,Brand,fernhill software,600,140,168.00,8.00
+crew scheduling software,Exact match,Added,Search - Crew Scheduling,Crew scheduling - exact,crew scheduling software,"5,100",352,"2,110.00",21.00
+crew scheduling softwares,Exact match (close variant),None,Search - Crew Scheduling,Crew scheduling - exact,crew scheduling software,600,44,270.00,2.00
+crew scheduling app,Phrase match,Added,Search - Crew Scheduling,Crew scheduling - phrase,crew scheduling app,"3,900",270,"1,380.00",10.00
+crew scheduling jobs,Phrase match,None,Search - Crew Scheduling,Crew scheduling - phrase,crew scheduling,900,70,420.00,0.00
+airline crew scheduling,Phrase match,None,Search - Crew Scheduling,Crew scheduling - phrase,crew scheduling,800,60,330.00,0.00
+crew scheduling for construction,Phrase match,None,Search - Crew Scheduling,Crew scheduling - phrase,crew scheduling,700,50,290.00,3.00
+crew management software free,Phrase match,None,Search - Crew Scheduling,Crew scheduling - phrase,crew management software,500,38,205.00,0.00
+crew scheduling app pricing,Phrase match,None,Search - Crew Scheduling,Crew scheduling - phrase,crew scheduling app,300,24,150.00,2.00
+field service software,Phrase match,Added,Search - Field Service,Field service software - phrase,field service software,"4,000",270,"1,610.00",12.00
+field service software for small business,Phrase match,None,Search - Field Service,Field service software - phrase,field service software,800,60,360.00,3.00
+field service technician jobs,Phrase match (close variant),None,Search - Field Service,Field service software - phrase,field service software,900,75,380.00,0.00
+dispatch software,Broad match,Added,Search - Field Service,Dispatch software - broad,dispatch software,"2,600",190,"1,120.00",6.00
+truck dispatch software,Broad match,None,Search - Field Service,Dispatch software - broad,dispatch software,"1,000",80,470.00,0.00
+dispatch software for hvac,Broad match,None,Search - Field Service,Dispatch software - broad,dispatch software,500,36,210.00,2.00
+free scheduling app,Broad match,None,Search - Field Service,Dispatch software - broad,scheduling software,900,60,380.00,0.00
+employee scheduling software,Broad match,None,Search - Field Service,Dispatch software - broad,scheduling software,800,50,260.00,1.00
+jobber login,Broad match,None,Search - Competitors,Competitors,jobber alternative,900,70,350.00,0.00
+jobber pricing,Broad match,None,Search - Competitors,Competitors,jobber alternative,600,45,260.00,0.00
+servicetitan login,Broad match,None,Search - Competitors,Competitors,servicetitan competitors,800,60,310.00,0.00
+servicetitan alternatives,Broad match,None,Search - Competitors,Competitors,servicetitan competitors,500,40,230.00,0.00

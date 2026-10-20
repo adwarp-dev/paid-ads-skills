@@ -1,0 +1,8 @@
+Conversion actions summary
+"September 21, 2026 - October 20, 2026"
+Conversion action,Action optimization,Source,Category,Count,Status,Conversions,All conv.
+Demo request (Google tag),Primary,Website,Submit lead form,Every,Recording conversions,88.00,88.00
+GA4 generate_lead,Primary,Google Analytics (GA4),Submit lead form,One,Recording conversions,31.00,31.00
+Calendly link click,Primary,Website,Outbound click,One,Recording conversions,16.00,16.00
+Pricing page view,Secondary,Website,Page view,One,Recording conversions,0.00,412.00
+Phone calls from ads,Secondary,Call from ads,Phone call lead,One,No recent conversions,0.00,0.00

@@ -1,0 +1,14 @@
+Ad report
+"September 21, 2026 - October 20, 2026"
+Campaign,Ad group,Ad type,Status,Ad strength,Impr.,Clicks,Cost,Conversions
+Search - Brand,Brand,Responsive search ad,Enabled,Excellent,"1,300",300,360.00,20.00
+Search - Brand,Brand,Responsive search ad,Enabled,Good,800,170,200.00,11.00
+Search - Crew Scheduling,Crew scheduling - exact,Responsive search ad,Enabled,Good,"3,900",270,"1,610.00",15.00
+Search - Crew Scheduling,Crew scheduling - exact,Responsive search ad,Enabled,Average,"2,300",160,970.00,9.00
+Search - Crew Scheduling,Crew scheduling - phrase,Responsive search ad,Enabled,Poor,"13,400",930,"4,240.00",23.00
+Search - Crew Scheduling,Crew app - phrase,Responsive search ad,Enabled,Average,300,22,160.00,1.00
+Search - Field Service,Field service software - phrase,Responsive search ad,Enabled,Good,"4,100",280,"1,690.00",11.00
+Search - Field Service,Field service software - phrase,Responsive search ad,Enabled,Good,"2,740",192,"1,136.00",8.00
+Search - Field Service,Dispatch software - broad,Responsive search ad,Enabled,Average,"8,100",540,"3,064.00",11.00
+Search - Field Service,Dispatch software - broad,Responsive search ad,Disapproved,Average,0,0,0.00,0.00
+Search - Competitors,Competitors,Responsive search ad,Enabled,Poor,"5,200",350,"1,790.00",0.00
