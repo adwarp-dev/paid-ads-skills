@@ -51,7 +51,10 @@ Run the skill on the made-up data in `examples/` in at least 1 agent (Claude Cod
 
 ```bash
 node scripts/check-skills.mjs
+node scripts/build-readmes.mjs
 ```
+
+The second command writes the `README.md` in each skill folder from its `SKILL.md`, so GitHub shows a summary on the folder page. Don't edit those READMEs by hand; CI fails when one is out of date.
 
 ## Pull requests
 
