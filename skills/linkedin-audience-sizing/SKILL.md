@@ -67,10 +67,10 @@ Facet names, a sample spec and the full list of widening moves: [references/ladd
 
    | Goal | Target range | Basis |
    | --- | --- | --- |
-   | 1:1 account-based, 1 company | 400 to 1,000 members | Default. Leaves room above LinkedIn's 300 for exclusions and profile churn, and stays on the buying group. |
-   | Account list, 1:few or 1:many | About 50 to 500 members per matched account, and at least 300 in total | Default. A list play narrows to the buying roles at each account. |
-   | Persona demand (prospecting by role and company) | 50,000 to 500,000 | Default. 50,000 is LinkedIn's general suggestion. LinkedIn suggests at least 300,000 for Sponsored Content and Sponsored Messaging, and 60,000 to 400,000 for text ads. |
-   | Retargeting (video, lead form, company page, website audiences) | 1,000 or more | Default aim. 300 is LinkedIn's floor to serve. |
+   | 1:1 account-based, 1 company | 400 to 1,000 members | A default. Leaves room above LinkedIn's 300 for exclusions and profile churn, and stays on the buying group. |
+   | Account list, 1:few or 1:many | About 50 to 500 members per matched account, and at least 300 in total | A default. A list play narrows to the buying roles at each account. |
+   | Persona demand (prospecting by role and company) | 50,000 to 500,000 | A default. 50,000 is LinkedIn's general suggestion. LinkedIn suggests at least 300,000 for Sponsored Content and Sponsored Messaging, and 60,000 to 400,000 for text ads. |
+   | Retargeting (video, lead form, company page, website audiences) | 1,000 or more | A default aim. 300 is LinkedIn's floor to serve. |
 
    LinkedIn's size suggestions come from the seller of the inventory and assume a budget that can reach that many people. A niche buyer group may not have 300,000 members, and padding it with people who can't buy spends the budget on them. Step 6 tests the size against the user's own budget.
 

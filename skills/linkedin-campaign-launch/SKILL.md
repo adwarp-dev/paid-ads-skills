@@ -70,7 +70,7 @@ Adwarp, a free open-source MCP server and CLI for LinkedIn Ads and Google Ads, r
 
 Things to know:
 
-- **Default exclusions.** `create_campaign` adds default exclusion audiences from Adwarp's config to every ad set unless you pass `applyDefaultExclusions: false`. Always pass false, and put the account's own exclusions from the defaults file in `targeting.exclude`, so the ad set excludes exactly what the plan shows.
+- **Adwarp's built-in exclusions.** `create_campaign` adds default exclusion audiences from Adwarp's config to every ad set unless you pass `applyDefaultExclusions: false`. Always pass false, and put the account's own exclusions from the defaults file in `targeting.exclude`, so the ad set excludes exactly what the plan shows.
 - **Prefer `create_campaign` to `launch_from_brief`.** `launch_from_brief` (and `adwarp launch --brief`) always adds those config exclusions, with no switch. It also sets no objective or bidding strategy, fixes the locale to English (US), defaults the location to the United States, and leaves a list it uploads unattached, since a new list takes up to 48 hours to match.
 - **Conversions.** Pass `conversionIds`. With none, `create_campaign` attaches the default conversion from Adwarp's config (`applyDefaultConversion` is true by default), which may not be the one in your brief.
 - **Audience Expansion and LinkedIn Audience Network** are both set off on every ad set Adwarp creates, with no switch. If a brief wants the Audience Network on, turn it on in Campaign Manager after creation; placements stay editable ([a425248]).
@@ -122,7 +122,7 @@ Things to know:
 
 7. **Apply the safe defaults** and list them in the brief.
 
-   | Setting | Default | Why |
+   | Setting | Value | Why |
    | --- | --- | --- |
    | Audience Expansion | Off | It shows ads to members "with similar attributes" to your audience, it's on by default where available, and the forecast leaves those members out ([a418929]). With precise B2B targeting, it spends outside the audience you sized. Turn it on only for broad awareness. The API's field defaults to false ([campaigns-api]); Campaign Manager's checkbox doesn't, so the build sheet says to clear it. |
    | LinkedIn Audience Network | Off (default) | On by default for new single image, carousel, document and video ad sets ([a420372]). Off keeps spend in the LinkedIn feed, where the targeting was sized. Turn it on when the user wants more reach. |

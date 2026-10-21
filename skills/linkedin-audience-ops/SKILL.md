@@ -99,12 +99,12 @@ Things to know:
    | 4 | Failed | Status Failed | A problem with the list or the partner push ([a795242]) |
    | 5 | Expired | Not edited or used in an active or draft ad set for 90 days. Its data is gone, it can't be added to an ad set, and an ad set holding it can't be reactivated | [a422355], [a795242] |
    | 6 | Archived | Not used in an ad set or modified for 30 days | [a795242] |
-   | 7 | Expiring soon | Not used or edited for 60 to 89 days | Default, 30 days ahead of LinkedIn's 90 |
-   | 8 | Stale | Last upload older than its cadence: monthly for exclusion lists and lists in live ad sets, quarterly for the rest | Default |
+   | 7 | Expiring soon | Not used or edited for 60 to 89 days | default, 30 days ahead of LinkedIn's 90 |
+   | 8 | Stale | Last upload older than its cadence: monthly for exclusion lists and lists in live ad sets, quarterly for the rest | default |
    | 9 | Thin match | Match rate shows "<5%" (fewer than 300 matched), or is under half the median of the same list type in this account | "<5%" is LinkedIn's display ([a420595]); half the median is a default |
-   | 10 | Saturated | Impressions in the last 28 days divided by the last audience count is over 8, and weekly CTR fell 2 weeks running | Default bands, shared with `linkedin-audience-sizing` |
-   | 11 | Unused | Ready, `role` none, in no active or draft ad set | Default |
-   | 12 | Superseded | An older copy of a refreshed list still exists | Default |
+   | 10 | Saturated | Impressions in the last 28 days divided by the last audience count is over 8, and weekly CTR fell 2 weeks running | default bands, shared with `linkedin-audience-sizing` |
+   | 11 | Unused | Ready, `role` none, in no active or draft ad set | default |
+   | 12 | Superseded | An older copy of a refreshed list still exists | default |
 
    Retargeting audiences (website, video, lead form, Page) fill themselves, so skip checks 8 and 9 for them. A website audience showing "Website: no signal" after 24 hours needs its URL rule and Insight Tag checked ([a795242]).
 

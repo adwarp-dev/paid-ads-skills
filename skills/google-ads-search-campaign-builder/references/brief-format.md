@@ -10,7 +10,7 @@ The JSON brief matches the input of Adwarp's `gads_launch_search_campaign` tool 
 | `dailyBudget` | Yes | Number above 0, in the account currency | 150 means 150 of the account currency |
 | `finalUrl` | Yes | URL | Landing page for ads that don't set their own |
 | `adGroups` | Yes | Array, 1 or more | See below |
-| `cpcBid` | No | Number above 0 | Default max CPC for ad groups without their own |
+| `cpcBid` | No | Number above 0 | The max CPC for ad groups that don't set their own |
 | `budgetName` | No | String | Defaults to the campaign name |
 | `locations` | No | Array of ISO country codes (US, GB) or geo target constant ids | Defaults to US |
 | `languages` | No | Array of ISO language codes | Defaults to en |

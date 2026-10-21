@@ -40,7 +40,7 @@ A change log with the hypothesis written before the change, plus daily performan
 | `hypothesis` | Why it should work. Tests only. |
 | `metric` | The 1 primary metric. Tests only. |
 | `expected` | Direction and size, like `-15%`. Tests only. |
-| `window_days` | Days in each window. Default 14. |
+| `window_days` | Days in each window, 14 by default. |
 | `read_on` | Earliest read date (Method step 2). |
 | `verdict` | Filled in after the read. |
 
@@ -99,7 +99,7 @@ Things to know:
    - **Why:** the reason it should work, in 1 sentence.
    - **The metric:** exactly 1 primary metric. CTR, CPC, conversion rate, cost per conversion, or conversions per $1,000. Everything else is context.
    - **The expected effect:** direction and size, like "cost per conversion -15%". A test with no expected size can't fail, so it can't teach anything.
-   - **The read window:** N days on each side, a multiple of 7 so both windows hold the same weekdays. Default 14.
+   - **The read window:** N days on each side, a multiple of 7 so both windows hold the same weekdays. 14 by default.
    - **The read date:** change date + N + a lag buffer. Defaults: 7 days for conversion metrics, 2 days for CTR and CPC.
 
    Then check the volume. Project each window's impressions, clicks and conversions from the last N days. If a window won't reach the floors in step 6, lengthen the window (28 days), test a higher-volume metric (CTR instead of cost per conversion), or test on a bigger entity. `references/stats.md` has the arithmetic for how much volume a given effect needs.
@@ -112,7 +112,7 @@ Things to know:
    - **After:** C+1 to C+N. The change day is left out because it mixes both versions.
    - **Before:** C-N to C-1.
    - **Placebo:** C-2N to C-N-1. It measures how much 2 back-to-back windows differ with no change at all.
-   - For changes that take time to settle, such as a new Google bid strategy, start the after window S days later (C+1+S to C+N+S). Default S = 0; 7 for bid strategy changes, following Google's settling guidance for experiments.
+   - For changes that take time to settle, such as a new Google bid strategy, start the after window S days later (C+1+S to C+N+S). S is 0 by default, and 7 for bid strategy changes, following Google's settling guidance for experiments.
    - If the after window isn't complete yet, the read is interim, and the verdict is inconclusive.
 
 5. **Compute each window.** Sum spend, impressions, clicks and conversions; derive CTR, CPC, conversion rate (conversions / clicks), cost per conversion and CPM from the sums. The change for each metric is after / before - 1.
