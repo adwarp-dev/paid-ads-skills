@@ -1,0 +1,17 @@
+Ad Set Performance Report (in UTC)
+"Report Start: 9/20/2026, 12:00 AM"
+"Report End: 10/19/2026, 11:59 PM"
+"Date Generated: 10/20/2026, 8:41 AM"
+"Account Name: Northwind Analytics (made-up example data, not a real account)"
+
+Start Date (in UTC),Account Name,Currency,Campaign Name,Campaign ID,Ad Set Name,Ad Set ID,Ad Set Status,Ad Set Objective,Cost Type,Daily Budget,Total Spent,Impressions,Clicks,Click Through Rate,Average CPM,Average CPC,Landing Page Clicks,Conversions,Post-Click Conversions,View-Through Conversions,Conversion Rate,Cost per Conversion,Leads,Lead Form Opens,Cost per Lead,Reach,Average Frequency
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,4410.00,73000,496,0.0068,60.41,8.89,458,28,22,6,0.0565,157.50,0,0,0,26400,2.77
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,3510.00,49900,258,0.0052,70.34,13.60,240,7,5,2,0.0271,501.43,0,0,0,17900,2.79
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,1100.00,13500,114,0.0084,81.48,9.65,105,3,3,0,0.0263,366.67,0,0,0,6100,2.21
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,2950.00,49900,400,0.0080,59.12,7.38,0,0,0,0,0.0000,0,41,290,71.95,19800,2.52
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,1780.00,38400,472,0.0123,46.35,3.77,447,0,0,0,0.0000,0,0,0,0,21300,1.80
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,2640.00,38400,250,0.0065,68.75,10.56,231,0,0,0,0.0000,0,0,0,0,14200,2.70
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,610.00,7200,73,0.0101,84.72,8.36,0,0,0,0,0.0000,0,5,38,122.00,4300,1.67
+9/20/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,1480.00,21600,156,0.0072,68.52,9.49,145,14,6,8,0.0897,105.71,0,0,0,2510,8.61
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,1650.00,14500,105,0.0072,113.79,15.71,97,6,4,2,0.0571,275.00,0,0,0,3900,3.72
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,950.00,8800,58,0.0066,107.95,16.38,52,1,1,0,0.0172,950.00,0,0,0,2700,3.26

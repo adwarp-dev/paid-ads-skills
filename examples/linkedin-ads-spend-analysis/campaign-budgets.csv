@@ -1,0 +1,7 @@
+# Filled by hand from Campaign Manager (campaign settings), because performance exports don't carry campaign-level budgets.
+# Made-up example data for the fictional Northwind Analytics account.
+Campaign Name,Campaign ID,Dynamic Group Budget,Campaign Daily Budget,Currency
+NA | Demand | Q4 2026,618400101,Off,,USD
+NA | Competitor Takeout | Q4 2026,618400102,Off,,USD
+NA | Retargeting | Q4 2026,618400103,Off,,USD
+NA | ABM | Tier 1 | Q4 2026,618400104,On,90.00,USD

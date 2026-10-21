@@ -1,0 +1,32 @@
+Ad Performance Report (in UTC)
+"Report Start: 9/20/2026, 12:00 AM"
+"Report End: 10/19/2026, 11:59 PM"
+"Date Generated: 10/20/2026, 8:41 AM"
+"Account Name: Northwind Analytics (made-up example data, not a real account)"
+
+Start Date (in UTC),Account Name,Currency,Campaign Name,Campaign ID,Ad Set Name,Ad Set ID,Ad ID,Ad Name,Ad Status,Ad Format,Total Spent,Impressions,Clicks,Click Through Rate,Average CPM,Average CPC,Landing Page Clicks,Conversions,Post-Click Conversions,View-Through Conversions,Leads,Lead Form Opens,Lead Form Completion Rate
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,771001,Ops | Pain: manual reporting | Demo | Image,Active,Single image,1240.00,19800,127,0.0064,62.63,9.76,118,9,7,2,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,771002,Ops | Proof: 31% faster month-end | Demo | Image,Active,Single image,1050.00,17200,121,0.0070,61.05,8.68,112,8,6,2,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,771003,Ops | Pain: spreadsheet chaos | Demo | Image,Active,Single image,720.00,12900,52,0.0040,55.81,13.85,47,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,771004,Ops | Demo: 60-second product tour | Demo | Video,Active,Video,1400.00,23100,196,0.0085,60.61,7.14,181,11,9,2,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,772000,Fin | Offer: close checklist | Guide | Image,Paused,Single image,210.00,3100,14,0.0045,67.74,15.00,13,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,772001,Fin | Pain: the 10-day close | Demo | Image,Active,Single image,1450.00,20300,107,0.0053,71.43,13.55,99,3,2,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,772002,Fin | Proof: CFO quote | Demo | Image,Active,Single image,1150.00,16300,96,0.0059,70.55,11.98,90,3,2,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,772003,Fin | Question: still closing in Excel? | Demo | Image,Active,Single image,700.00,10200,41,0.0040,68.63,17.07,38,1,1,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,774001,IT | Proof: SOC 2 report in a day | Demo | Image,Active,Single image,650.00,7900,70,0.0089,82.28,9.29,64,2,2,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,774002,IT | Pain: shadow dashboards | Demo | Image,Active,Single image,450.00,5600,44,0.0079,80.36,10.23,41,1,1,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,773001,Data | Offer: 2026 analytics benchmark | Guide | Document,Active,Document,1300.00,21500,205,0.0095,60.47,6.34,0,0,0,0,24,168,0.1429
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,773002,Data | Proof: 400 data teams surveyed | Guide | Image,Active,Single image,950.00,15800,131,0.0083,60.13,7.25,0,0,0,0,13,92,0.1413
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,773003,Data | Pain: dashboard sprawl | Guide | Image,Active,Single image,700.00,12600,64,0.0051,55.56,10.94,0,0,0,0,4,30,0.1333
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,775001,Data | Educational: 5 metric mistakes | Blog | Image,Active,Single image,980.00,21000,260,0.0124,46.67,3.77,248,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,775002,Data | Educational: SQL vs semantic layer | Blog | Carousel,Active,Carousel,800.00,17400,212,0.0122,45.98,3.77,199,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,776001,Comp | Comparison: vs legacy BI | Switch | Image,Active,Single image,1160.00,14900,131,0.0088,77.85,8.85,122,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,776002,Comp | Offer: free migration | Switch | Image,Active,Single image,890.00,13700,70,0.0051,64.96,12.71,64,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,776003,Comp | Pain: renewal price hike | Switch | Video,Active,Video,590.00,9800,49,0.0050,60.20,12.04,45,0,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,777001,Comp | Offer: migration checklist | Guide | Document,Active,Document,380.00,4300,52,0.0121,88.37,7.31,0,0,0,0,4,29,0.1379
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,777002,Comp | Comparison: feature matrix | Guide | Image,Active,Single image,230.00,2900,21,0.0072,79.31,10.95,0,0,0,0,1,9,0.1111
+9/20/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,778001,RT | Proof: customer story | Demo | Video,Active,Video,820.00,11900,95,0.0080,68.91,8.63,88,9,4,5,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,778002,RT | Offer: 14-day trial | Trial | Image,Active,Single image,660.00,9700,61,0.0063,68.04,10.82,57,5,2,3,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,779001,ABM | Proof: peer logos | Demo | Image,Active,Single image,900.00,8100,61,0.0075,111.11,14.75,57,4,3,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,779002,ABM | Offer: custom ROI model | Demo | Document,Active,Document,750.00,6400,44,0.0069,117.19,17.05,40,2,1,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,779101,ABM | Educational: rollout playbook | Guide | Document,Active,Document,950.00,8800,58,0.0066,107.95,16.38,52,1,1,0,0,0,0
