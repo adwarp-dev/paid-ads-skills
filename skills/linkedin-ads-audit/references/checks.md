@@ -1,6 +1,6 @@
 # The 28 checks
 
-Each check names what it applies to, the data it reads, the pass, warn and fail rules, how to count spend at risk, where the rule comes from, and the exact fix. "Source" means a public page listed at the bottom. "Default" means a judgment call the user can change; say so in the report when a default decides a result.
+Each check names what it applies to, the data it reads, the pass, warn and fail rules, how to count spend at risk, where the rule comes from, and the exact fix. "Source" means a public page listed at the bottom. "default" means a judgment call the user can change; say so in the report when a default decides a result.
 
 Names follow Campaign Manager as of October 2025: a campaign (formerly campaign group) holds the shared budget and schedule, an ad set (formerly campaign) holds targeting, objective, bid and placements, and an ad sits in an ad set.
 

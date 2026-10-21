@@ -1,0 +1,654 @@
+Email Address,First Name,Last Name,Title,Company,Website,Country,Phone,Lead Status,Owner,Notes
+quinn@emberlynrobotics.example,Quinn,Ferreira,Senior Accountant,Emberlyn Robotics,,Canada,+1 555 0137,Customer,SDR Pool,
+ELIF@INDIGROVEFOODS.EXAMPLE,Elif,Lund,Controller,Indigrove Foods,indigrovefoods.example,USA,+1 555 0165,Customer,SDR Pool,do not call
+cyrus@marigoldiabrands.example,Cyrus,Oduya,Finance Director,Marigoldia Brands,https://www.marigoldiabrands.example/,United States,+1 555 0114,Open,AE Central,
+dana@tidewellmills.example,Dana,Novak,VP Finance,Tidewell Mills,https://www.tidewellmills.example/,USA,+1 555 0127,Working,AE Central,
+dpatel@kestrelbymanufacturing.example,Devin,Patel,Director of FP&A,Kestrelby Manufacturing,https://www.kestrelbymanufacturing.example/,USA,+1 555 0185,Disqualified,AE West,
+toduya@tidewellretail.example,Tara,Oduya,CFO,Tidewell Retail,tidewellretail.example,Canada,+1 555 0129,Customer,AE East,do not call
+dana@sorrelbyrobotics.example,Dana,Marsh,CFO,Sorrelby Robotics,sorrelbyrobotics.example,united states,+1 555 0146,Nurture,AE West,do not call
+  bea@lumenorretail.example ,Bea,Sorensen,Controller,Lumenor Retail,WWW.LUMENORRETAIL.EXAMPLE,US,+1 555 0117,Disqualified,AE East,do not call
+jonas@glacimontpartners.example,Jonas,Achebe,VP Finance,Glacimont Partners,glacimontpartners.example,Canada,+1 555 0149,Nurture,AE West,asked for pricing
+SAMI.UEDA@ROOKHOLLOWCLINICS.EXAMPLE,Sami,Ueda,Revenue Accounting Lead,Rookhollow Clinics,rookhollowclinics.example/contact?ref=crm,CA,+1 555 0145,Open,AE Central,asked for pricing
+cnakamura@tamarelmanufacturing.example,Cyrus,Nakamura,Accounting Manager,Tamarel Manufacturing,,USA,+1 555 0158,Nurture,AE Central,
+ximena.nakamura@tamarelfoods.example,Ximena,Nakamura,Head of Finance Operations,Tamarel Foods,tamarelfoods.example/contact?ref=crm,Canada,+1 555 0121,Working,SDR Pool,asked for pricing
+elif.ueda@willowmerebrands.example,Elif,Ueda,Assistant Controller,Willowmere Brands,willowmerebrands.example/contact?ref=crm,Canada,+1 555 0190,Customer,SDR Pool,
+hugo.brennan@basaltinefreight.example,Hugo,Brennan,Director of FP&A,Basaltine Freight,http://basaltinefreight.example/about-us,USA,+1 555 0159,Open,SDR Pool,do not call
+dkerr@basaltineworks.example,Dana,Kerr,Director of FP&A,Basaltine Works,basaltineworks.example,Canada,+1 555 0136,Working,AE West,
+rosatoivonen16@freemail.example,Rosa,Toivonen,Assistant Controller,Copperfold Freight,WWW.COPPERFOLDFREIGHT.EXAMPLE,Canada,+1 555 0139,Nurture,AE Central,
+lena.ibsen@garnetbyfoods.example,Lena,Ibsen,CFO,Garnetby Foods,http://garnetbyfoods.example/about-us,U.S.,+1 555 0133,Disqualified,AE West,
+elif@sorrelbymanufacturing.example,Elif,Achebe,Accounting Manager,Sorrelby Manufacturing,sorrelbymanufacturing.example,united states,+1 555 0140,Nurture,AE West,
+adimitrov@willowmerelogistics.example,Aldo,Dimitrov,Accounting Manager,Willowmere Logistics,https://www.willowmerelogistics.example/,U.S.,+1 555 0143,Customer,SDR Pool,asked for pricing
+iris@sablecrestsupply.example,Iris,Toivonen,Finance Director,Sablecrest Supply,WWW.SABLECRESTSUPPLY.EXAMPLE,U.S.,+1 555 0183,Working,AE Central,asked for pricing
+,,,VP Finance,Sorrelby Labs,https://www.sorrelbylabs.example/,Canada,+1 555 0174,Customer,AE West,
+jmoreau@emberlynenergy.example,Jonas,Moreau,Finance Director,Emberlyn Energy,http://emberlynenergy.example/about-us,united states,+1 555 0164,Nurture,AE Central,asked for pricing
+ipatel@indigrovefoods.example,Iris,Patel,Director of FP&A,Indigrove Foods,indigrovefoods.example/contact?ref=crm,CA,+1 555 0116,Disqualified,AE East,met at summit
+srahman@indigroveanalytics.example,Sami,Rahman,VP Finance,Indigrove Analytics,https://www.indigroveanalytics.example/,US,+1 555 0164,Disqualified,AE Central,do not call
+devin@fernhollowworks.example,Devin,Sato,Assistant Controller,Fernhollow Works,fernhollowworks.example/contact?ref=crm,CA,+1 555 0157,Customer,SDR Pool,
+elif@kestrelbyrobotics.example,Elif,Jaramillo,VP Finance,Kestrelby Robotics,kestrelbyrobotics.example,United States,+1 555 0111,Customer,AE East,
+lena.oduya@sablecrestsystems.example,Lena,Oduya,Director of FP&A,Sablecrest Systems,http://sablecrestsystems.example/about-us,Canada,+1 555 0128,Disqualified,SDR Pool,
+obrennan@sorrelbypackaging.example,Omar,Brennan,Senior Accountant,Sorrelby Packaging,sorrelbypackaging.example/contact?ref=crm,united states,+1 555 0132,Open,AE East,
+bea.ruiz@meadowfensystems.example,Bea,Ruiz,Accounting Manager,Meadowfen Systems,meadowfensystems.example/contact?ref=crm,U.S.,+1 555 0164,Disqualified,AE West,do not call
+xsato@pebblecovelabs.example,Ximena,Sato,Accounting Manager,Pebblecove Labs,https://www.pebblecovelabs.example/,United States,+1 555 0192,Customer,SDR Pool,
+,,,Head of Finance Operations,Tamarel Brands,http://tamarelbrands.example/about-us,US,+1 555 0187,Customer,SDR Pool,asked for pricing
+blund@sablecrestpartners.example,Bea,Lund,Accounting Manager,Sablecrest Partners,https://www.sablecrestpartners.example/,Canada,+1 555 0122,Working,SDR Pool,asked for pricing
+uma@flintmeresystems.example,Uma,Ibsen,Director of FP&A,Flintmere Systems,flintmeresystems.example/contact?ref=crm,united states,+1 555 0161,Disqualified,AE West,
+devin.brennan@sablecrestpartners.example,Devin,Brennan,Controller,Sablecrest Partners,sablecrestpartners.example,CA,+1 555 0148,Customer,AE East,met at summit
+aldo@umberlytextiles.example,Aldo,Novak,VP Finance,Umberly Textiles,umberlytextiles.example,Canada,+1 555 0162,Customer,AE West,met at summit
+BEASORENSEN40@FREEMAIL.EXAMPLE,Bea,Sorensen,CFO,Amberlow Brands,https://amberlowbrands.example:8443/home,United States,+1 555 0170,Customer,SDR Pool,
+kai@glacimonttextiles.example,Kai,Patel,Controller,Glacimont Textiles,glacimonttextiles.example,united states,+1 555 0163,Customer,AE East,met at summit
+wen.marsh@juniperraclinics.example,Wen,Marsh,Head of Finance Operations,Juniperra Clinics,juniperraclinics.example,U.S.,+1 555 0121,Customer,AE Central,met at summit
+mateo.haddad@emberlynenergy.example,Mateo,Haddad,Finance Director,Emberlyn Energy,,CA,+1 555 0188,Working,SDR Pool,met at summit
+devin.jaramillo@emberlynworks.example,Devin,Jaramillo,VP Finance,Emberlyn Works,emberlynworks.example,United States,+1 555 0162,Nurture,AE Central,
+kai@fernhollowbrands.example,Kai,Pryce,Finance Director,Fernhollow Brands,fernhollowbrands.example,United States,+1 555 0162,Working,AE East,
+lsorensen@amberlowmills.example,Lena,Sorensen,Revenue Accounting Lead,Amberlow Mills,https://www.amberlowmills.example/,Canada,+1 555 0163,Nurture,AE East,do not call
+unknown@,Kai,Novak,Senior Accountant,Flintmere Retail,https://www.flintmereretail.example/,US,+1 555 0166,Nurture,AE East,asked for pricing
+femi.castell@nimbuswellmanufacturing.example,Femi,Castell,Accounting Manager,Nimbuswell Manufacturing,https://www.nimbuswellmanufacturing.example/,U.S.,+1 555 0134,Disqualified,AE West,asked for pricing
+iris@umberlyretail.example,Iris,Jaramillo,Controller,Umberly Retail,,U.S.,+1 555 0172,Customer,AE East,met at summit
+gitaachebe72@freemail.example,Gita,Achebe,VP Finance,Juniperra Outfitters,https://www.juniperraoutfitters.example/,united states,+1 555 0196,Disqualified,AE West,
+ximena.ibsen@kestrelbyanalytics.example,Ximena,Ibsen,Director of FP&A,Kestrelby Analytics,https://www.kestrelbyanalytics.example/,U.S.,+1 555 0132,Working,AE West,
+,Jonas,Marsh,CFO,Kestrelby Packaging,http://kestrelbypackaging.example/about-us,United States,+1 555 0183,Nurture,SDR Pool,do not call
+aldo.haddad@marigoldiaoutfitters.example,Aldo,Haddad,Finance Director,Marigoldia Outfitters,marigoldiaoutfitters.example,USA,+1 555 0178,Disqualified,AE West,met at summit
+omar@marigoldiabrands.example,Omar,Nakamura,Finance Director,Marigoldia Brands,marigoldiabrands.example/contact?ref=crm,United States,+1 555 0190,Nurture,AE East,do not call
+bruiz@sorrelbyrobotics.example,Ben,Ruiz,Senior Accountant,Sorrelby Robotics,sorrelbyrobotics.example,USA,+1 555 0160,Customer,AE East,met at summit
+umoreau@meadowfensystems.example,Uma,Moreau,Revenue Accounting Lead,Meadowfen Systems,meadowfensystems.example,United States,+1 555 0146,Open,SDR Pool,do not call
+omar.okafor@valefennlabs.example,Omar,Okafor,Accounting Manager,Valefenn Labs,valefennlabs.example,united states,+1 555 0123,Customer,SDR Pool,
+qdimitrov@willowmereclinics.example,Quinn,Dimitrov,Controller,Willowmere Clinics,willowmereclinics.example/contact?ref=crm,USA,+1 555 0116,Customer,AE West,
+bquist@garnetbylogistics.example,Bea,Quist,CFO,Garnetby Logistics,garnetbylogistics.example,USA,+1 555 0156,Working,AE Central,do not call
+cyrus@maplewickworks.example,Cyrus,Varga,Head of Finance Operations,Maplewick Works,maplewickworks.example/contact?ref=crm,CA,+1 555 0171,Customer,AE East,asked for pricing
+lena.ibsen@garnetbyfoods.example,Lena,Ibsen,CFO,Garnetby Foods,http://garnetbyfoods.example/about-us,U.S.,+1 555 0133,Nurture,AE West,
+cyrus.lund@harborinepackaging.example,Cyrus,Lund,Assistant Controller,Harborine Packaging,,Canada,+1 555 0132,Working,SDR Pool,
+  omar@larchwickmills.example ,Omar,Ruiz,Controller,Larchwick Mills,larchwickmills.example,united states,+1 555 0194,Working,AE Central,do not call
+omar@garnetbyfoods.example,Omar,Pryce,Director of FP&A,Garnetby Foods,https://www.garnetbyfoods.example/,CA,+1 555 0118,Customer,AE West,
+mateo@flintmereretail.example,Mateo,Dimitrov,Assistant Controller,Flintmere Retail,https://flintmereretail.example:8443/home,U.S.,+1 555 0110,Customer,AE East,met at summit
+iris.lindqvist@indigrovesystems.example,Iris,Lindqvist,Senior Accountant,Indigrove Systems,indigrovesystems.example,US,+1 555 0193,Working,AE West,
+devin@juniperraenergy.example,Devin,Jaramillo,Director of FP&A,Juniperra Energy,juniperraenergy.example,united states,+1 555 0160,Disqualified,AE East,
+devin@quarrifenfoods.example,Devin,Novak,Head of Finance Operations,Quarrifen Foods,quarrifenfoods.example/contact?ref=crm,CA,+1 555 0177,Nurture,AE West,do not call
+carla@cobaltryfreight.example,Carla,Rahman,Director of FP&A,Cobaltry Freight,https://www.cobaltryfreight.example/,CA,+1 555 0142,Customer,AE West,asked for pricing
+ulindqvist@cinderfellpartners.example,Uma,Lindqvist,Director of FP&A,Cinderfell Partners,cinderfellpartners.example/contact?ref=crm,U.S.,+1 555 0148,Disqualified,AE Central,asked for pricing
+  rlindqvist@quillfenanalytics.example ,Rosa,Lindqvist,CFO,Quillfen Analytics,https://quillfenanalytics.example:8443/home,Canada,+1 555 0115,Customer,AE Central,
+carla.toivonen@nimbuswellrobotics.example,Carla,Toivonen,Senior Accountant,Nimbuswell Robotics,http://nimbuswellrobotics.example/about-us,Canada,+1 555 0115,Nurture,AE East,met at summit
+quinn.brennan@driftmoorretail.example,Quinn,Brennan,Controller,Driftmoor Retail,,united states,+1 555 0111,Nurture,AE West,
+gita@marigoldiaclinics.example,Gita,Jaramillo,Assistant Controller,Marigoldia Clinics,marigoldiaclinics.example,USA,+1 555 0170,Customer,AE East,
+elif@bramblecotefoods.example,Elif,Kowal,VP Finance,Bramblecote Foods,,CA,+1 555 0127,Nurture,AE Central,
+priya.nakamura@siltmoorlabs.example,Priya,Nakamura,Head of Finance Operations,Siltmoor Labs,siltmoorlabs.example/contact?ref=crm,united states,+1 555 0113,Customer,AE West,
+,Ben,Varga,Accounting Manager,Fernhollow Clinics,fernhollowclinics.example/contact?ref=crm,CA,+1 555 0110,Customer,SDR Pool,asked for pricing
+omar.kowal@maplewickclinics.example,Omar,Kowal,Finance Director,Maplewick Clinics,https://www.maplewickclinics.example/,Canada,+1 555 0121,Open,SDR Pool,
+priya.moreau@umberlyworks.example,Priya,Moreau,Assistant Controller,Umberly Works,https://www.umberlyworks.example/,USA,+1 555 0183,Open,AE Central,met at summit
+jonas@quarrifenlogistics.example,Jonas,Quist,Director of FP&A,Quarrifen Logistics,quarrifenlogistics.example,U.S.,+1 555 0153,Disqualified,SDR Pool,do not call
+ypryce@valefenntextiles.example,Yusuf,Pryce,Accounting Manager,Valefenn Textiles,https://www.valefenntextiles.example/,US,+1 555 0138,Working,SDR Pool,
+devinrahman62@freemail.example,Devin,Rahman,CFO,Fernhollow Labs,https://www.fernhollowlabs.example/,USA,+1 555 0124,Customer,SDR Pool,do not call
+zoe.ueda@saffronbymanufacturing.example,Zoe,Ueda,Accounting Manager,Saffronby Manufacturing,saffronbymanufacturing.example/contact?ref=crm,U.S.,+1 555 0196,Nurture,AE Central,met at summit
+xsorensen@basaltinemills.example,Ximena,Sorensen,Assistant Controller,Basaltine Mills,http://basaltinemills.example/about-us,Canada,+1 555 0157,Nurture,AE Central,asked for pricing
+,Quinn,Hale,Assistant Controller,Birchwold Robotics,,USA,+1 555 0176,Working,AE West,do not call
+omar.hale@sablecrestfreight.example,Omar,Hale,Revenue Accounting Lead,Sablecrest Freight,,U.S.,+1 555 0130,Open,SDR Pool,
+hugo.marsh@quillfenmanufacturing.example,Hugo,Marsh,Director of FP&A,Quillfen Manufacturing,quillfenmanufacturing.example/contact?ref=crm,USA,+1 555 0133,Open,AE West,
+gita@nimbuswellsupply.example,Gita,Achebe,VP Finance,Nimbuswell Supply,nimbuswellsupply.example,US,+1 555 0146,Customer,AE West,do not call
+tara@maplewickanalytics.example,Tara,Castell,Assistant Controller,Maplewick Analytics,https://www.maplewickanalytics.example/,CA,+1 555 0190,Nurture,SDR Pool,
+cyrusjaramillo86@freemail.example,Cyrus,Jaramillo,CFO,Flintmere Manufacturing,flintmeremanufacturing.example,Canada,+1 555 0166,Working,SDR Pool,asked for pricing
+,Cyrus,Jaramillo,Senior Accountant,Lumenor Textiles,lumenortextiles.example/contact?ref=crm,Canada,+1 555 0133,Open,AE West,
+devinjaramillo89 at freemail.example,Devin,Jaramillo,Revenue Accounting Lead,Fernhollow Logistics,https://www.fernhollowlogistics.example/,USA,+1 555 0119,Nurture,AE West,
+rosa.achebe@wrenhollowclinics.example,Rosa,Achebe,Revenue Accounting Lead,Wrenhollow Clinics,https://wrenhollowclinics.example:8443/home,Canada,+1 555 0161,Working,SDR Pool,asked for pricing
+cyrus.hale@willowmereretail.example,Cyrus,Hale,Finance Director,Willowmere Retail,willowmereretail.example,Canada,+1 555 0165,Working,AE West,asked for pricing
+  elif.marsh@indigrovemills.example ,Elif,Marsh,Assistant Controller,Indigrove Mills,indigrovemills.example/contact?ref=crm,Canada,+1 555 0161,Disqualified,AE West,asked for pricing
+jonas@umberlyretail.example,Jonas,Lindqvist,CFO,Umberly Retail,umberlyretail.example,US,+1 555 0166,Nurture,SDR Pool,
+elif@driftmooroutfitters.example,Elif,Sorensen,Assistant Controller,Driftmoor Outfitters,driftmooroutfitters.example,Canada,+1 555 0178,Open,SDR Pool,
+Cpatel@Hazelcotemills.Example,Cyrus,Patel,Head of Finance Operations,Hazelcote Mills,WWW.HAZELCOTEMILLS.EXAMPLE,CA,+1 555 0174,Working,AE Central,met at summit
+fpatel@nimbuswellmanufacturing.example,Femi,Patel,Assistant Controller,Nimbuswell Manufacturing,nimbuswellmanufacturing.example,united states,+1 555 0125,Nurture,AE Central,
+imoreau@tidewelllabs.example,Iris,Moreau,Director of FP&A,Tidewell Labs,http://tidewelllabs.example/about-us,US,+1 555 0110,Customer,SDR Pool,asked for pricing
+nadia@driftmoorlogistics.example,Nadia,Ferreira,Head of Finance Operations,Driftmoor Logistics,https://www.driftmoorlogistics.example/,united states,+1 555 0153,Open,AE East,
+VIKTOR.LINDQVIST@SILTMOORBRANDS.EXAMPLE,Viktor,Lindqvist,Controller,Siltmoor Brands,,United States,+1 555 0151,Working,AE West,do not call
+carla.lindqvist@willowmerelabs.example,Carla,Lindqvist,Assistant Controller,Willowmere Labs,willowmerelabs.example,U.S.,+1 555 0164,Open,AE West,
+quinn@granmoorretail.example,Quinn,Dimitrov,Senior Accountant,Granmoor Retail,https://www.granmoorretail.example/,US,+1 555 0122,Disqualified,AE Central,met at summit
+,Bea,Sorensen,VP Finance,Oakmere Manufacturing,https://www.oakmeremanufacturing.example/,United States,+1 555 0142,Customer,AE Central,do not call
+yusuf.achebe@cobaltrytextiles.example,Yusuf,Achebe,VP Finance,Cobaltry Textiles,cobaltrytextiles.example/contact?ref=crm,US,+1 555 0185,Customer,AE East,
+ximena@fernhollowfoods.example,Ximena,Okafor,Senior Accountant,Fernhollow Foods,WWW.FERNHOLLOWFOODS.EXAMPLE,united states,+1 555 0172,Disqualified,AE Central,asked for pricing
+sueda@cobaltrytextiles.example,Sami,Ueda,CFO,Cobaltry Textiles,cobaltrytextiles.example,Canada,+1 555 0191,Disqualified,AE West,
+pnakamura@sorrelbypackaging.example,Priya,Nakamura,VP Finance,Sorrelby Packaging,WWW.SORRELBYPACKAGING.EXAMPLE,USA,+1 555 0143,Customer,SDR Pool,
+cyrus@driftmoorsupply.example,Cyrus,Hale,CFO,Driftmoor Supply,https://www.driftmoorsupply.example/,US,+1 555 0127,Nurture,AE East,asked for pricing
+,Omar,Novak,Accounting Manager,Bramblecote Partners,https://bramblecotepartners.example:8443/home,CA,+1 555 0162,Working,AE East,do not call
+inakamura@quarrifenretail.example,Iris,Nakamura,Senior Accountant,Quarrifen Retail,WWW.QUARRIFENRETAIL.EXAMPLE,USA,+1 555 0111,Customer,AE East,
+ben@driftmoorfoods.example,Ben,Patel,Senior Accountant,Driftmoor Foods,https://www.driftmoorfoods.example/,United States,+1 555 0195,Customer,AE West,
+idimitrov@birchwoldenergy.example,Iris,Dimitrov,Assistant Controller,Birchwold Energy,WWW.BIRCHWOLDENERGY.EXAMPLE,United States,+1 555 0188,Working,AE East,do not call
+femi.kowal@bramblecotefoods.example,Femi,Kowal,Accounting Manager,Bramblecote Foods,bramblecotefoods.example/contact?ref=crm,CA,+1 555 0186,Nurture,AE Central,asked for pricing
+lena.achebe@,Lena,Achebe,Assistant Controller,Fernhollow Robotics,fernhollowrobotics.example/contact?ref=crm,CA,+1 555 0139,Working,SDR Pool,
+samicastell99@freemail.example,Sami,Castell,CFO,Harborine Foods,WWW.HARBORINEFOODS.EXAMPLE,Canada,+1 555 0123,Working,SDR Pool,met at summit
+aferreira@valefennbrands.example,Ana,Ferreira,Director of FP&A,Valefenn Brands,valefennbrands.example,CA,+1 555 0196,Disqualified,AE Central,do not call
+ujaramillo@kestrelbyrobotics.example,Uma,Jaramillo,Senior Accountant,Kestrelby Robotics,kestrelbyrobotics.example/contact?ref=crm,CA,+1 555 0123,Nurture,AE East,
+omar.hale@copperfoldenergy.example,Omar,Hale,Assistant Controller,Copperfold Energy,http://copperfoldenergy.example/about-us,U.S.,+1 555 0191,Open,SDR Pool,
+gitaokafor1@freemail.example,Gita,Okafor,Director of FP&A,Meadowfen Textiles,https://www.meadowfentextiles.example/,United States,+1 555 0123,Open,AE West,do not call
+eoduya@quarrifenfreight.example,Elif,Oduya,CFO,Quarrifen Freight,http://quarrifenfreight.example/about-us,U.S.,+1 555 0149,Nurture,AE East,
+uma.sato@copperfoldenergy.example,Uma,Sato,Revenue Accounting Lead,Copperfold Energy,https://www.copperfoldenergy.example/,United States,+1 555 0184,Nurture,AE West,
+wlund@quillfenlabs.example,Wen,Lund,Senior Accountant,Quillfen Labs,quillfenlabs.example,United States,+1 555 0195,Open,SDR Pool,
+ucastell@nimbuswellsupply.example,Uma,Castell,Director of FP&A,Nimbuswell Supply,http://nimbuswellsupply.example/about-us,USA,+1 555 0143,Nurture,AE West,do not call
+ftoivonen@birchwoldtextiles.example,Femi,Toivonen,VP Finance,Birchwold Textiles,http://birchwoldtextiles.example/about-us,USA,+1 555 0144,Working,AE East,
+tara@glacimontsystems.example,Tara,Pryce,Senior Accountant,Glacimont Systems,https://www.glacimontsystems.example/,united states,+1 555 0170,Nurture,SDR Pool,do not call
+nadia.hale@willowmeresupply.example,Nadia,Hale,Head of Finance Operations,Willowmere Supply,https://www.willowmeresupply.example/,USA,+1 555 0142,Open,SDR Pool,
+Mateo.Oduya@Hazelcoteoutfitters.Example,Mateo,Oduya,Finance Director,Hazelcote Outfitters,WWW.HAZELCOTEOUTFITTERS.EXAMPLE,United States,+1 555 0115,Disqualified,AE East,do not call
+DANA@GARNETBYMANUFACTURING.EXAMPLE,Dana,Nakamura,Assistant Controller,Garnetby Manufacturing,garnetbymanufacturing.example,USA,+1 555 0178,Open,AE East,asked for pricing
+quinn@valefennworks.example,Quinn,Haddad,Revenue Accounting Lead,Valefenn Works,https://www.valefennworks.example/,CA,+1 555 0176,Open,AE West,do not call
+hugo.haddad@fernhollowmills.example,Hugo,Haddad,Revenue Accounting Lead,Fernhollow Mills,https://www.fernhollowmills.example/,US,+1 555 0184,Customer,SDR Pool,met at summit
+anadimitrov47@freemail.example,Ana,Dimitrov,Revenue Accounting Lead,Sablecrest Supply,,US,+1 555 0133,Open,AE East,met at summit
+hugo@flintmereenergy.example,Hugo,Lund,Director of FP&A,Flintmere Energy,https://www.flintmereenergy.example/,Canada,+1 555 0123,Customer,AE Central,met at summit
+ksorensen@hazelcotehealth.example,Kai,Sorensen,CFO,Hazelcote Health,hazelcotehealth.example,US,+1 555 0197,Nurture,AE East,
+atoivonen@cobaltryanalytics.example,Ana,Toivonen,Controller,Cobaltry Analytics,cobaltryanalytics.example/contact?ref=crm,united states,+1 555 0120,Disqualified,SDR Pool,
+gkerr@zephyrinelogistics.example,Gita,Kerr,Head of Finance Operations,Zephyrine Logistics,zephyrinelogistics.example,US,+1 555 0146,Disqualified,SDR Pool,met at summit
+ktoivonen@birchwoldenergy.example,Kai,Toivonen,VP Finance,Birchwold Energy,birchwoldenergy.example/contact?ref=crm,United States,+1 555 0155,Customer,AE Central,asked for pricing
+rosa@kestrelbytextiles.example,Rosa,Quist,CFO,Kestrelby Textiles,http://kestrelbytextiles.example/about-us,CA,+1 555 0126,Customer,AE West,asked for pricing
+spatel@marigoldiamanufacturing.example,Sami,Patel,VP Finance,Marigoldia Manufacturing,http://marigoldiamanufacturing.example/about-us,US,+1 555 0123,Nurture,AE East,do not call
+sueda@quillfenfoods.example,Sami,Ueda,Revenue Accounting Lead,Quillfen Foods,quillfenfoods.example/contact?ref=crm,United States,+1 555 0177,Disqualified,SDR Pool,do not call
+tara@onyxbrooklabs.example,Tara,Sato,Controller,Onyxbrook Labs,https://www.onyxbrooklabs.example/,Canada,+1 555 0115,Disqualified,AE West,asked for pricing
+mateo@indigrovesystems.example,Mateo,Pryce,Head of Finance Operations,Indigrove Systems,https://www.indigrovesystems.example/,United States,+1 555 0160,Disqualified,AE East,met at summit
+elif.achebe@juniperralabs.example,Elif,Achebe,Accounting Manager,Juniperra Labs,juniperralabs.example,CA,+1 555 0168,Disqualified,AE Central,
+aldo@cobaltryenergy.example,Aldo,Sorensen,Senior Accountant,Cobaltry Energy,,united states,+1 555 0183,Nurture,AE Central,asked for pricing
+aquist@nimbuswellretail.example,Aldo,Quist,Finance Director,Nimbuswell Retail,https://www.nimbuswellretail.example/,CA,+1 555 0134,Nurture,AE Central,do not call
+yusufkerr14@freemail.example,Yusuf,Kerr,Senior Accountant,Garnetby Labs,http://garnetbylabs.example/about-us,U.S.,+1 555 0141,Nurture,AE West,
+wkerr@zephyrinepartners.example,Wen,Kerr,Director of FP&A,Zephyrine Partners,zephyrinepartners.example/contact?ref=crm,Canada,+1 555 0120,Nurture,AE West,asked for pricing
+kai .novak@nimbuswellrobotics.example,Kai,Novak,VP Finance,Nimbuswell Robotics,https://nimbuswellrobotics.example:8443/home,USA,+1 555 0124,Working,SDR Pool,met at summit
+  sami.castell@meadowfensupply.example ,Sami,Castell,Head of Finance Operations,Meadowfen Supply,https://www.meadowfensupply.example/,U.S.,+1 555 0183,Disqualified,AE Central,
+cdimitrov@quarrifenlogistics.example,Cyrus,Dimitrov,Accounting Manager,Quarrifen Logistics,quarrifenlogistics.example,Canada,+1 555 0113,Working,AE West,
+femi@lumenorretail.example,Femi,Nakamura,CFO,Lumenor Retail,lumenorretail.example,Canada,+1 555 0161,Customer,AE East,do not call
+mateo.haddad@emberlynenergy.example,Mateo,Haddad,Finance Director,Emberlyn Energy,,CA,+1 555 0188,Customer,SDR Pool,met at summit
+tcastell@hazelcoteoutfitters.example,Tara,Castell,Head of Finance Operations,Hazelcote Outfitters,hazelcoteoutfitters.example,USA,+1 555 0195,Customer,AE Central,
+elif@slatewickpackaging.example,Elif,Ruiz,Head of Finance Operations,Slatewick Packaging,slatewickpackaging.example/contact?ref=crm,united states,+1 555 0152,Working,AE Central,
+boduya@garnetbyclinics.example,Bea,Oduya,Controller,Garnetby Clinics,garnetbyclinics.example,united states,+1 555 0148,Customer,AE West,asked for pricing
+ximena.okafor@tidewellmills.example,Ximena,Okafor,VP Finance,Tidewell Mills,tidewellmills.example,U.S.,+1 555 0186,Working,AE West,
+,,,Assistant Controller,Granmoor Works,granmoorworks.example/contact?ref=crm,US,+1 555 0111,Disqualified,AE West,
+  mateo.pryce@fernhollowlabs.example ,Mateo,Pryce,Head of Finance Operations,Fernhollow Labs,http://fernhollowlabs.example/about-us,U.S.,+1 555 0111,Nurture,AE West,
+aueda@rookhollowlabs.example,Ana,Ueda,Senior Accountant,Rookhollow Labs,WWW.ROOKHOLLOWLABS.EXAMPLE,USA,+1 555 0197,Nurture,AE Central,
+onovak@bramblecotepartners.example,Omar,Novak,Accounting Manager,Bramblecote Partners,https://bramblecotepartners.example:8443/home,CA,+1 555 0162,Disqualified,AE East,do not call
+nvarga@kestrelbyanalytics.example,Nadia,Varga,Revenue Accounting Lead,Kestrelby Analytics,kestrelbyanalytics.example/contact?ref=crm,united states,+1 555 0160,Nurture,AE West,asked for pricing
+umarsh@maplewickworks.example,Uma,Marsh,Accounting Manager,Maplewick Works,maplewickworks.example,CA,+1 555 0169,Disqualified,AE Central,
+beamarsh99@freemail.example,Bea,Marsh,VP Finance,Sorrelby Outfitters,WWW.SORRELBYOUTFITTERS.EXAMPLE,U.S.,+1 555 0196,Open,AE Central,
+kvarga@juniperraenergy.example,Kai,Varga,VP Finance,Juniperra Energy,https://www.juniperraenergy.example/,U.S.,+1 555 0180,Nurture,SDR Pool,do not call
+omar@glacimontmanufacturing.example,Omar,Kerr,Finance Director,Glacimont Manufacturing,https://www.glacimontmanufacturing.example/,USA,+1 555 0197,Open,SDR Pool,do not call
+dana.dimitrov@amberlowbrands.example,Dana,Dimitrov,Assistant Controller,Amberlow Brands,amberlowbrands.example,Canada,+1 555 0185,Open,AE West,
+ben.ibsen@umberlytextiles.example,Ben,Ibsen,Senior Accountant,Umberly Textiles,umberlytextiles.example,united states,+1 555 0153,Nurture,AE Central,
+qibsen@valefennclinics.example,Quinn,Ibsen,Revenue Accounting Lead,Valefenn Clinics,WWW.VALEFENNCLINICS.EXAMPLE,CA,+1 555 0180,Nurture,SDR Pool,
+Quinn@Maplewickclinics.Example,Quinn,Varga,Controller,Maplewick Clinics,https://maplewickclinics.example:8443/home,united states,+1 555 0136,Disqualified,AE Central,
+gkowal@larchwickretail.example,Gita,Kowal,Senior Accountant,Larchwick Retail,larchwickretail.example,united states,+1 555 0125,Working,AE Central,do not call
+ana.patel@larchwickworks.example,Ana,Patel,VP Finance,Larchwick Works,https://www.larchwickworks.example/,USA,+1 555 0195,Disqualified,AE West,do not call
+wtoivonen@quarrifenenergy.example,Wen,Toivonen,Revenue Accounting Lead,Quarrifen Energy,https://www.quarrifenenergy.example/,CA,+1 555 0151,Customer,AE East,asked for pricing
+eli f.sato@birchwoldfreight.example,Elif,Sato,Accounting Manager,Birchwold Freight,birchwoldfreight.example,CA,+1 555 0159,Working,SDR Pool,
+qbrennan@driftmoorsystems.example,Quinn,Brennan,Senior Accountant,Driftmoor Systems,driftmoorsystems.example,CA,+1 555 0131,Nurture,AE Central,
+,Ximena,Varga,Accounting Manager,Kestrelby Retail,kestrelbyretail.example,US,+1 555 0132,Disqualified,SDR Pool,asked for pricing
+ximena.marsh@marigoldiaanalytics.example,Ximena,Marsh,Senior Accountant,Marigoldia Analytics,marigoldiaanalytics.example,U.S.,+1 555 0137,Customer,AE East,asked for pricing
+bea.dimitrov@larchwicksystems.example,Bea,Dimitrov,Senior Accountant,Larchwick Systems,larchwicksystems.example/contact?ref=crm,US,+1 555 0129,Disqualified,AE East,
+umapatel45@freemail.example,Uma,Patel,Director of FP&A,Kestrelby Packaging,kestrelbypackaging.example,united states,+1 555 0127,Open,AE East,
+TLUND@MAPLEWICKMANUFACTURING.EXAMPLE,Tara,Lund,Director of FP&A,Maplewick Manufacturing,maplewickmanufacturing.example,US,+1 555 0129,Working,AE West,
+LENA.NAKAMURA@SAFFRONBYANALYTICS.EXAMPLE,Lena,Nakamura,Director of FP&A,Saffronby Analytics,saffronbyanalytics.example/contact?ref=crm,CA,+1 555 0176,Working,AE Central,
+wquist@bramblecotepartners.example,Wen,Quist,Finance Director,Bramblecote Partners,bramblecotepartners.example,US,+1 555 0118,Disqualified,AE East,
+ZOE@SILTMOORFOODS.EXAMPLE,Zoe,Marsh,CFO,Siltmoor Foods,https://www.siltmoorfoods.example/,United States,+1 555 0157,Disqualified,SDR Pool,
+carla@amberlowclinics.example,Carla,Moreau,Revenue Accounting Lead,Amberlow Clinics,https://www.amberlowclinics.example/,US,+1 555 0165,Working,AE West,asked for pricing
+Ilindqvist@Valefennlogistics.Example,Iris,Lindqvist,Accounting Manager,Valefenn Logistics,,U.S.,+1 555 0155,Disqualified,SDR Pool,asked for pricing
+quinn@emberlynenergy.example,Quinn,Toivonen,Director of FP&A,Emberlyn Energy,https://www.emberlynenergy.example/,CA,+1 555 0153,Disqualified,AE East,asked for pricing
+iris@flintmeretextiles.example,Iris,Sorensen,Revenue Accounting Lead,Flintmere Textiles,flintmeretextiles.example,U.S.,+1 555 0121,Disqualified,AE West,asked for pricing
+tara@meadowfensupply.example,Tara,Sato,Director of FP&A,Meadowfen Supply,meadowfensupply.example,U.S.,+1 555 0176,Disqualified,AE East,do not call
+csato@marigoldiarobotics.example,Cyrus,Sato,CFO,Marigoldia Robotics,marigoldiarobotics.example,US,+1 555 0149,Disqualified,AE West,
+rtoivonen@sorrelbyhealth.example,Rosa,Toivonen,VP Finance,Sorrelby Health,https://www.sorrelbyhealth.example/,U.S.,+1 555 0155,Open,AE West,do not call
+mateo.nakamura@quarrifenrobotics.example,Mateo,Nakamura,Accounting Manager,Quarrifen Robotics,quarrifenrobotics.example/contact?ref=crm,USA,+1 555 0151,Working,AE Central,
+kai.novak@glacimontpackaging.example,Kai,Novak,Accounting Manager,Glacimont Packaging,WWW.GLACIMONTPACKAGING.EXAMPLE,united states,+1 555 0113,Working,AE West,asked for pricing
+dokafor@valefennfreight.example,Devin,Okafor,Finance Director,Valefenn Freight,valefennfreight.example,CA,+1 555 0164,Disqualified,AE West,
+omar@meadowfenpartners.example,Omar,Okafor,Revenue Accounting Lead,Meadowfen Partners,meadowfenpartners.example,united states,+1 555 0186,Nurture,AE East,met at summit
+htoivonen@granmoorfoods.example,Hugo,Toivonen,Director of FP&A,Granmoor Foods,https://www.granmoorfoods.example/,U.S.,+1 555 0179,Customer,SDR Pool,
+uma.pryce@quarrifenfreight.example,Uma,Pryce,Head of Finance Operations,Quarrifen Freight,,united states,+1 555 0187,Open,AE East,asked for pricing
+cyrus@maplewickfoods.example,Cyrus,Lindqvist,Director of FP&A,Maplewick Foods,maplewickfoods.example,Canada,+1 555 0129,Nurture,AE Central,
+viktor.ruiz@cobaltryworks.example,Viktor,Ruiz,Revenue Accounting Lead,Cobaltry Works,cobaltryworks.example/contact?ref=crm,US,+1 555 0162,Nurture,AE Central,
+gita.okafor@basaltinetextiles.example,Gita,Okafor,Finance Director,Basaltine Textiles,basaltinetextiles.example,USA,+1 555 0132,Nurture,AE West,asked for pricing
+lena.achebe@pebblecovefoods.example,Lena,Achebe,CFO,Pebblecove Foods,,USA,+1 555 0116,Customer,AE West,
+dokafor@birchwoldrobotics.example,Dana,Okafor,Director of FP&A,Birchwold Robotics,https://www.birchwoldrobotics.example/,U.S.,+1 555 0122,Working,AE West,
+bruiz@basaltinemills.example,Ben,Ruiz,Finance Director,Basaltine Mills,basaltinemills.example,united states,+1 555 0130,Nurture,SDR Pool,
+nadia@cobaltryworks.example,Nadia,Patel,Director of FP&A,Cobaltry Works,https://cobaltryworks.example:8443/home,United States,+1 555 0144,Customer,SDR Pool,asked for pricing
+uquist@willowmereretail.example,Uma,Quist,Director of FP&A,Willowmere Retail,http://willowmereretail.example/about-us,united states,+1 555 0175,Open,AE Central,
+yusuf.oduya@cobaltrylabs.example,Yusuf,Oduya,VP Finance,Cobaltry Labs,,Canada,+1 555 0178,Customer,AE East,
+aldo@glacimonttextiles.example,Aldo,Lindqvist,Director of FP&A,Glacimont Textiles,glacimonttextiles.example/contact?ref=crm,united states,+1 555 0185,Nurture,AE East,asked for pricing
+ncastell@slatewickclinics.example,Nadia,Castell,Head of Finance Operations,Slatewick Clinics,slatewickclinics.example,Canada,+1 555 0137,Disqualified,AE East,asked for pricing
+KAI@EMBERLYNSYSTEMS.EXAMPLE,Kai,Lund,Finance Director,Emberlyn Systems,emberlynsystems.example,US,+1 555 0116,Nurture,SDR Pool,
+kai.varga@juniperralabs.example,Kai,Varga,Accounting Manager,Juniperra Labs,https://www.juniperralabs.example/,united states,+1 555 0145,Customer,SDR Pool,
+tara.marsh@sorrelbypackaging.example,Tara,Marsh,Assistant Controller,Sorrelby Packaging,http://sorrelbypackaging.example/about-us,united states,+1 555 0164,Working,SDR Pool,asked for pricing
+ana.ueda@amberlowfreight.example,Ana,Ueda,Head of Finance Operations,Amberlow Freight,WWW.AMBERLOWFREIGHT.EXAMPLE,united states,+1 555 0146,Customer,AE Central,do not call
+ana@sorrelbyclinics.example,Ana,Mensah,Director of FP&A,Sorrelby Clinics,http://sorrelbyclinics.example/about-us,U.S.,+1 555 0156,Working,AE East,met at summit
+cyrus@maplewicksupply.example,Cyrus,Ibsen,Accounting Manager,Maplewick Supply,maplewicksupply.example,Canada,+1 555 0186,Open,AE West,met at summit
+bentoivonen11@freemail.example,Ben,Toivonen,Revenue Accounting Lead,Granmoor Health,http://granmoorhealth.example/about-us,united states,+1 555 0170,Open,SDR Pool,
+femi@larchwickmills.example,Femi,Okafor,Director of FP&A,Larchwick Mills,larchwickmills.example/contact?ref=crm,US,+1 555 0161,Open,SDR Pool,
+dcastell@slatewickmills.example,Devin,Castell,Revenue Accounting Lead,Slatewick Mills,http://slatewickmills.example/about-us,United States,+1 555 0116,Working,AE West,
+aferreira@sorrelbylabs.example,Ana,Ferreira,Head of Finance Operations,Sorrelby Labs,sorrelbylabs.example,United States,+1 555 0167,Customer,SDR Pool,asked for pricing
+BEA@DRIFTMOORMILLS.EXAMPLE,Bea,Haddad,Finance Director,Driftmoor Mills,,CA,+1 555 0146,Open,AE Central,do not call
+iris.achebe@copperfoldanalytics.example,Iris,Achebe,CFO,Copperfold Analytics,copperfoldanalytics.example/contact?ref=crm,US,+1 555 0156,Nurture,AE Central,
+xachebe@basaltineclinics.example,Ximena,Achebe,VP Finance,Basaltine Clinics,basaltineclinics.example/contact?ref=crm,USA,+1 555 0132,Open,AE West,
+hugo.varga@siltmoorlabs.example,Hugo,Varga,Senior Accountant,Siltmoor Labs,siltmoorlabs.example,USA,+1 555 0124,Disqualified,AE Central,
+itoivonen@flintmerehealth.example,Iris,Toivonen,CFO,Flintmere Health,,U.S.,+1 555 0194,Working,AE West,
+ccastell@birchwoldrobotics.example,Carla,Castell,Revenue Accounting Lead,Birchwold Robotics,http://birchwoldrobotics.example/about-us,Canada,+1 555 0157,Customer,SDR Pool,
+nadia.pryce@thistlemooroutfitters.example,Nadia,Pryce,Finance Director,Thistlemoor Outfitters,thistlemooroutfitters.example,CA,+1 555 0158,Open,AE East,do not call
+femi@slatewicksupply.example,Femi,Okafor,Director of FP&A,Slatewick Supply,https://www.slatewicksupply.example/,Canada,+1 555 0122,Working,AE West,
+omar@kestrelbypackaging.example,Omar,Sorensen,Controller,Kestrelby Packaging,kestrelbypackaging.example,United States,+1 555 0132,Open,AE Central,do not call
+  nadia@lumenormanufacturing.example ,Nadia,Ferreira,Controller,Lumenor Manufacturing,lumenormanufacturing.example,united states,+1 555 0143,Open,AE West,do not call
+quinn.pryce@wrenhollowpackaging.example,Quinn,Pryce,Senior Accountant,Wrenhollow Packaging,https://www.wrenhollowpackaging.example/,CA,+1 555 0161,Disqualified,AE East,met at summit
+sami.kowal@garnetbymanufacturing.example,Sami,Kowal,Controller,Garnetby Manufacturing,,U.S.,+1 555 0182,Disqualified,AE West,asked for pricing
+lena.rahman@driftmoorfreight.example,Lena,Rahman,Accounting Manager,Driftmoor Freight,driftmoorfreight.example,USA,+1 555 0193,Working,AE Central,
+uma@amberlowoutfitters.example,Uma,Mensah,Head of Finance Operations,Amberlow Outfitters,,U.S.,+1 555 0163,Customer,AE East,
+xnakamura@valefennmills.example,Ximena,Nakamura,Accounting Manager,Valefenn Mills,,Canada,+1 555 0157,Customer,AE East,met at summit
+,Cyrus,Hale,Finance Director,Willowmere Retail,willowmereretail.example,Canada,+1 555 0165,Disqualified,AE West,asked for pricing
+dana.ibsen@emberlynsystems.example,Dana,Ibsen,Senior Accountant,Emberlyn Systems,emberlynsystems.example,US,+1 555 0114,Nurture,AE East,do not call
+kai@yarrowbypartners.example,Kai,Nakamura,Assistant Controller,Yarrowby Partners,http://yarrowbypartners.example/about-us,United States,+1 555 0154,Customer,AE Central,met at summit
+quinn.toivonen@garnetbymanufacturing.example,Quinn,Toivonen,Assistant Controller,Garnetby Manufacturing,garnetbymanufacturing.example,US,+1 555 0160,Customer,AE Central,met at summit
+mateo@fernhollowsupply.example,Mateo,Ueda,Head of Finance Operations,Fernhollow Supply,fernhollowsupply.example,united states,+1 555 0120,Customer,AE West,asked for pricing
+KAI.NOVAK@GLACIMONTPACKAGING.EXAMPLE,Kai,Novak,Accounting Manager,Glacimont Packaging,WWW.GLACIMONTPACKAGING.EXAMPLE,united states,+1 555 0113,Working,AE West,asked for pricing
+sami.kerr@umberlylogistics.example,Sami,Kerr,CFO,Umberly Logistics,http://umberlylogistics.example/about-us,US,+1 555 0171,Nurture,AE West,
+ximena.hale@amberlowenergy.example,Ximena,Hale,Accounting Manager,Amberlow Energy,http://amberlowenergy.example/about-us,CA,+1 555 0113,Disqualified,AE East,asked for pricing
+akowal@amberlowbrands.example,Ana,Kowal,Head of Finance Operations,Amberlow Brands,http://amberlowbrands.example/about-us,US,+1 555 0117,Customer,AE East,
+opryce@juniperralabs.example,Omar,Pryce,Assistant Controller,Juniperra Labs,,US,+1 555 0127,Customer,AE West,
+omar.achebe@pebblecovesystems.example,Omar,Achebe,CFO,Pebblecove Systems,pebblecovesystems.example/contact?ref=crm,CA,+1 555 0192,Open,AE East,
+qoduya@tamarelsupply.example,Quinn,Oduya,Head of Finance Operations,Tamarel Supply,tamarelsupply.example,US,+1 555 0186,Customer,AE Central,do not call
+elif.ruiz@slatewickmills.example,Elif,Ruiz,Head of Finance Operations,Slatewick Mills,slatewickmills.example,CA,+1 555 0187,Working,AE East,do not call
+iris@wrenhollowlabs.example,Iris,Nakamura,Finance Director,Wrenhollow Labs,wrenhollowlabs.example/contact?ref=crm,United States,+1 555 0138,Nurture,SDR Pool,
+uma.marsh@tidewellworks.example,Uma,Marsh,Assistant Controller,Tidewell Works,https://www.tidewellworks.example/,U.S.,+1 555 0174,Disqualified,AE Central,do not call
+rosa.kowal@kestrelbymanufacturing.example,Rosa,Kowal,Revenue Accounting Lead,Kestrelby Manufacturing,kestrelbymanufacturing.example/contact?ref=crm,Canada,+1 555 0151,Nurture,SDR Pool,asked for pricing
+quinn@kestrelbymills.example,Quinn,Jaramillo,Accounting Manager,Kestrelby Mills,kestrelbymills.example,United States,+1 555 0171,Open,AE West,
+tmarsh@cobaltryfoods.example,Tara,Marsh,CFO,Cobaltry Foods,,USA,+1 555 0158,Working,AE West,
+lsato@granmoorlogistics.example,Lena,Sato,Finance Director,Granmoor Logistics,granmoorlogistics.example,Canada,+1 555 0184,Disqualified,AE East,
+tara@pebblecovehealth.example,Tara,Pryce,Accounting Manager,Pebblecove Health,pebblecovehealth.example,USA,+1 555 0156,Nurture,AE East,met at summit
+WKOWAL@QUARRIFENSUPPLY.EXAMPLE,Wen,Kowal,CFO,Quarrifen Supply,https://quarrifensupply.example:8443/home,united states,+1 555 0132,Working,AE Central,do not call
+,Zoe,Varga,Controller,Indigrove Supply,http://indigrovesupply.example/about-us,U.S.,+1 555 0174,Customer,AE West,met at summit
+devin.haddad@tamarelpackaging.example,Devin,Haddad,CFO,Tamarel Packaging,WWW.TAMARELPACKAGING.EXAMPLE,united states,+1 555 0182,Nurture,AE East,do not call
+nadia@flintmereenergy.example,Nadia,Mensah,Finance Director,Flintmere Energy,flintmereenergy.example,USA,+1 555 0142,Open,AE West,
+dibsen@copperfoldfoods.example,Dana,Ibsen,Assistant Controller,Copperfold Foods,copperfoldfoods.example,USA,+1 555 0151,Disqualified,SDR Pool,do not call
+aldo@indigrovemills.example,Aldo,Ruiz,Revenue Accounting Lead,Indigrove Mills,https://indigrovemills.example:8443/home,CA,+1 555 0123,Open,AE Central,asked for pricing
+Femi@Valefennfreight.Example,Femi,Ibsen,VP Finance,Valefenn Freight,valefennfreight.example,US,+1 555 0135,Nurture,SDR Pool,
+vmarsh@thistlemoorenergy.example,Viktor,Marsh,Finance Director,Thistlemoor Energy,http://thistlemoorenergy.example/about-us,United States,+1 555 0164,Nurture,AE West,asked for pricing
+ana@glacimontanalytics.example,Ana,Varga,Senior Accountant,Glacimont Analytics,,US,+1 555 0159,Open,AE West,
+jonasachebe5@freemail.example,Jonas,Achebe,Finance Director,Fernhollow Analytics,WWW.FERNHOLLOWANALYTICS.EXAMPLE,CA,+1 555 0121,Working,AE East,met at summit
+,,,Assistant Controller,Willowmere Retail,willowmereretail.example/contact?ref=crm,U.S.,+1 555 0116,Working,AE West,do not call
+beasorensen40@freemail.example,Bea,Sorensen,CFO,Amberlow Brands,https://amberlowbrands.example:8443/home,United States,+1 555 0170,Working,SDR Pool,
+kai@harborinefoods.example,Kai,Moreau,Finance Director,Harborine Foods,https://www.harborinefoods.example/,united states,+1 555 0144,Nurture,AE East,do not call
+ben.rahman@zephyrinemills.example,Ben,Rahman,Senior Accountant,Zephyrine Mills,https://www.zephyrinemills.example/,CA,+1 555 0145,Nurture,AE East,do not call
+sami@siltmoorlogistics.example,Sami,Novak,Controller,Siltmoor Logistics,siltmoorlogistics.example,united states,+1 555 0133,Working,AE Central,
+priya@oakmeremanufacturing.example,Priya,Ueda,Controller,Oakmere Manufacturing,oakmeremanufacturing.example,CA,+1 555 0136,Disqualified,AE Central,do not call
+wquist@driftmoorfoods.example,Wen,Quist,Accounting Manager,Driftmoor Foods,driftmoorfoods.example,USA,+1 555 0120,Open,SDR Pool,
+danahale81@freemail.example,Dana,Hale,Senior Accountant,Bramblecote Labs,bramblecotelabs.example,Canada,+1 555 0193,Working,AE Central,asked for pricing
+ksato@valefennlogistics.example,Kai,Sato,Revenue Accounting Lead,Valefenn Logistics,https://www.valefennlogistics.example/,USA,+1 555 0168,Customer,AE West,met at summit
+quinn@bramblecoteanalytics.example,Quinn,Lindqvist,Senior Accountant,Bramblecote Analytics,https://bramblecoteanalytics.example:8443/home,united states,+1 555 0161,Working,AE West,
+apryce@meadowfensupply.example,Aldo,Pryce,Revenue Accounting Lead,Meadowfen Supply,https://meadowfensupply.example:8443/home,united states,+1 555 0142,Nurture,AE Central,met at summit
+ximena.nakamura@quarrifenclinics.example,Ximena,Nakamura,Accounting Manager,Quarrifen Clinics,WWW.QUARRIFENCLINICS.EXAMPLE,united states,+1 555 0184,Customer,AE West,met at summit
+xkerr@oakmerebrands.example,Ximena,Kerr,Revenue Accounting Lead,Oakmere Brands,oakmerebrands.example/contact?ref=crm,Canada,+1 555 0120,Open,AE East,
+carla.nakamura@birchwoldpartners.example,Carla,Nakamura,Finance Director,Birchwold Partners,birchwoldpartners.example,United States,+1 555 0126,Disqualified,SDR Pool,asked for pricing
+bea.castell@larchwicksystems.example,Bea,Castell,Senior Accountant,Larchwick Systems,https://www.larchwicksystems.example/,United States,+1 555 0122,Disqualified,SDR Pool,asked for pricing
+carla.achebe@wrenhollowmanufacturing.example,Carla,Achebe,Revenue Accounting Lead,Wrenhollow Manufacturing,,united states,+1 555 0185,Working,AE Central,
+omar@amberlowworks.example,Omar,Ferreira,Controller,Amberlow Works,https://www.amberlowworks.example/,US,+1 555 0122,Working,AE Central,
+mateo.sorensen@fernhollowoutfitters.example,Mateo,Sorensen,Finance Director,Fernhollow Outfitters,https://fernhollowoutfitters.example:8443/home,USA,+1 555 0122,Disqualified,AE Central,
+iris.moreau@onyxbrookpackaging.example,Iris,Moreau,Finance Director,Onyxbrook Packaging,,US,+1 555 0174,Nurture,AE East,asked for pricing
+uma@quarrifenfoods.example,Uma,Brennan,VP Finance,Quarrifen Foods,https://www.quarrifenfoods.example/,united states,+1 555 0163,Customer,AE West,
+dana@sorrelbysupply.example,Dana,Ibsen,Assistant Controller,Sorrelby Supply,,united states,+1 555 0131,Open,AE West,
+aldo.rahman@basaltinetextiles.example,Aldo,Rahman,Controller,Basaltine Textiles,basaltinetextiles.example,USA,+1 555 0145,Nurture,AE West,asked for pricing
+kai.brennan@meadowfenfoods.example,Kai,Brennan,Accounting Manager,Meadowfen Foods,,CA,+1 555 0133,Open,AE East,asked for pricing
+dana.dimitrov@kestrelbyanalytics.example,Dana,Dimitrov,Controller,Kestrelby Analytics,kestrelbyanalytics.example,united states,+1 555 0166,Nurture,SDR Pool,do not call
+wen@zephyrineoutfitters.example,Wen,Rahman,Head of Finance Operations,Zephyrine Outfitters,zephyrineoutfitters.example,United States,+1 555 0113,Nurture,AE West,
+zoe@quillfentextiles.example,Zoe,Toivonen,Accounting Manager,Quillfen Textiles,quillfentextiles.example,united states,+1 555 0190,Working,AE Central,asked for pricing
+ckerr@larchwickfreight.example,Cyrus,Kerr,Head of Finance Operations,Larchwick Freight,,United States,+1 555 0115,Disqualified,AE Central,
+ben.haddad@saffronbymanufacturing.example,Ben,Haddad,Head of Finance Operations,Saffronby Manufacturing,WWW.SAFFRONBYMANUFACTURING.EXAMPLE,USA,+1 555 0148,Nurture,AE Central,
+viktor.lindqvist@siltmoorbrands.example,Viktor,Lindqvist,Controller,Siltmoor Brands,,United States,+1 555 0151,Nurture,AE West,do not call
+uma@tidewellclinics.example,Uma,Jaramillo,VP Finance,Tidewell Clinics,https://www.tidewellclinics.example/,United States,+1 555 0192,Customer,AE East,
+Mateo@Juniperrafreight.Example,Mateo,Moreau,Head of Finance Operations,Juniperra Freight,juniperrafreight.example,United States,+1 555 0156,Working,AE East,met at summit
+bachebe@hazelcoterobotics.example,Bea,Achebe,Director of FP&A,Hazelcote Robotics,hazelcoterobotics.example,USA,+1 555 0138,Nurture,AE West,asked for pricing
+bnakamura@quillfenfreight.example,Bea,Nakamura,Revenue Accounting Lead,Quillfen Freight,WWW.QUILLFENFREIGHT.EXAMPLE,U.S.,+1 555 0116,Customer,SDR Pool,asked for pricing
+dsato@willowmeresystems.example,Devin,Sato,Controller,Willowmere Systems,willowmeresystems.example,U.S.,+1 555 0178,Working,AE Central,do not call
+elif@harborinemanufacturing.example,Elif,Marsh,Director of FP&A,Harborine Manufacturing,harborinemanufacturing.example,united states,+1 555 0176,Open,AE Central,
+kai@emberlynsystems.example,Kai,Lund,Finance Director,Emberlyn Systems,emberlynsystems.example,US,+1 555 0116,Nurture,SDR Pool,
+ximena.kowal@tamarelclinics.example,Ximena,Kowal,Accounting Manager,Tamarel Clinics,WWW.TAMARELCLINICS.EXAMPLE,U.S.,+1 555 0128,Nurture,AE Central,do not call
+,,,Assistant Controller,Copperfold Manufacturing,,USA,+1 555 0197,Nurture,AE Central,
+zoe@zephyrinerobotics.example,Zoe,Castell,Accounting Manager,Zephyrine Robotics,https://www.zephyrinerobotics.example/,CA,+1 555 0154,Customer,AE West,
+ELIF@SORRELBYMANUFACTURING.EXAMPLE,Elif,Achebe,Accounting Manager,Sorrelby Manufacturing,sorrelbymanufacturing.example,united states,+1 555 0140,Customer,AE West,
+cnakamura@pebblecoveenergy.example,Carla,Nakamura,Accounting Manager,Pebblecove Energy,,U.S.,+1 555 0130,Nurture,SDR Pool,do not call
+rosa@oakmereclinics.example,Rosa,Mensah,Revenue Accounting Lead,Oakmere Clinics,https://www.oakmereclinics.example/,CA,+1 555 0170,Nurture,AE West,asked for pricing
+ukowal@driftmoorsupply.example,Uma,Kowal,VP Finance,Driftmoor Supply,driftmoorsupply.example,Canada,+1 555 0187,Open,AE West,do not call
+sam i@wrenhollowsystems.example,Sami,Hale,VP Finance,Wrenhollow Systems,https://wrenhollowsystems.example:8443/home,US,+1 555 0123,Working,AE Central,met at summit
+imarsh@indigrovelogistics.example,Iris,Marsh,Accounting Manager,Indigrove Logistics,indigrovelogistics.example/contact?ref=crm,US,+1 555 0167,Disqualified,SDR Pool,
+Aldo.Moreau@Nimbuswellmanufacturing.Example,Aldo,Moreau,Assistant Controller,Nimbuswell Manufacturing,,CA,+1 555 0113,Open,AE West,met at summit
+mateo@sablecrestmanufacturing.example,Mateo,Ferreira,Revenue Accounting Lead,Sablecrest Manufacturing,https://sablecrestmanufacturing.example:8443/home,united states,+1 555 0160,Open,AE West,met at summit
+carla@amberlowtextiles.example,Carla,Dimitrov,Assistant Controller,Amberlow Textiles,https://www.amberlowtextiles.example/,U.S.,+1 555 0184,Working,AE Central,do not call
+sami.ibsen@zephyrinelogistics.example,Sami,Ibsen,Revenue Accounting Lead,Zephyrine Logistics,zephyrinelogistics.example,Canada,+1 555 0141,Open,AE East,
+hugo@garnetbyretail.example,Hugo,Jaramillo,Senior Accountant,Garnetby Retail,garnetbyretail.example,U.S.,+1 555 0183,Nurture,AE Central,met at summit
+zquist@kestrelbyenergy.example,Zoe,Quist,Controller,Kestrelby Energy,kestrelbyenergy.example,United States,+1 555 0112,Open,AE West,met at summit
+taravarga70@freemail.example,Tara,Varga,Controller,Valefenn Labs,,U.S.,+1 555 0164,Nurture,AE West,
+viktor.lindqvist@thistlemoorworks.example,Viktor,Lindqvist,Controller,Thistlemoor Works,thistlemoorworks.example,United States,+1 555 0131,Open,AE Central,met at summit
+knakamura@pebblecovehealth.example,Kai,Nakamura,Controller,Pebblecove Health,http://pebblecovehealth.example/about-us,U.S.,+1 555 0145,Disqualified,SDR Pool,met at summit
+iris@cinderfellpackaging.example,Iris,Toivonen,Revenue Accounting Lead,Cinderfell Packaging,cinderfellpackaging.example/contact?ref=crm,united states,+1 555 0137,Nurture,AE West,
+viktor@onyxbrooklogistics.example,Viktor,Quist,Controller,Onyxbrook Logistics,onyxbrooklogistics.example,CA,+1 555 0164,Working,AE East,
+rmensah@cobaltryenergy.example,Rosa,Mensah,CFO,Cobaltry Energy,https://www.cobaltryenergy.example/,US,+1 555 0175,Open,SDR Pool,asked for pricing
+omar.hale@copperfoldenergy.example,Omar,Hale,Assistant Controller,Copperfold Energy,http://copperfoldenergy.example/about-us,U.S.,+1 555 0191,Open,SDR Pool,
+viktor.moreau@,Viktor,Moreau,Assistant Controller,Indigrove Works,indigroveworks.example/contact?ref=crm,Canada,+1 555 0187,Working,AE East,asked for pricing
+nadiahale74@freemail.example,Nadia,Hale,Assistant Controller,Quarrifen Robotics,https://www.quarrifenrobotics.example/,United States,+1 555 0128,Open,SDR Pool,do not call
+tibsen@pebblecovepackaging.example,Tara,Ibsen,Finance Director,Pebblecove Packaging,pebblecovepackaging.example,Canada,+1 555 0160,Working,AE East,
+quinn.novak@sorrelbyoutfitters.example,Quinn,Novak,Assistant Controller,Sorrelby Outfitters,https://www.sorrelbyoutfitters.example/,CA,+1 555 0192,Disqualified,AE West,
+jonas@indigroverobotics.example,Jonas,Sato,Finance Director,Indigrove Robotics,indigroverobotics.example,Canada,+1 555 0181,Nurture,AE Central,met at summit
+dana@harborinepackaging.example,Dana,Ibsen,Assistant Controller,Harborine Packaging,,united states,+1 555 0134,Nurture,AE Central,met at summit
+gita@marigoldiamanufacturing.example,Gita,Oduya,Accounting Manager,Marigoldia Manufacturing,marigoldiamanufacturing.example,US,+1 555 0147,Disqualified,AE Central,asked for pricing
+hcastell@thistlemooranalytics.example,Hugo,Castell,Controller,Thistlemoor Analytics,thistlemooranalytics.example,CA,+1 555 0124,Working,SDR Pool,asked for pricing
+,,,Controller,Onyxbrook Analytics,,U.S.,+1 555 0137,Open,AE East,asked for pricing
+danarahman27@freemail.example,Dana,Rahman,Head of Finance Operations,Cinderfell Labs,,US,+1 555 0197,Customer,AE Central,met at summit
+dhale at wrenhollowlabs.example,Devin,Hale,Controller,Wrenhollow Labs,,USA,+1 555 0151,Customer,AE Central,met at summit
+,,,Finance Director,Kestrelby Manufacturing,https://www.kestrelbymanufacturing.example/,Canada,+1 555 0138,Nurture,AE Central,
+mateodimitrov46@freemail.example,Mateo,Dimitrov,Accounting Manager,Larchwick Systems,larchwicksystems.example,CA,+1 555 0137,Customer,AE East,met at summit
+jtoivonen@quillfenworks.example,Jonas,Toivonen,Director of FP&A,Quillfen Works,https://www.quillfenworks.example/,Canada,+1 555 0144,Open,AE Central,met at summit
+lena@amberlowrobotics.example,Lena,Kerr,Revenue Accounting Lead,Amberlow Robotics,amberlowrobotics.example,US,+1 555 0140,Disqualified,AE Central,do not call
+CNAKAMURA@PEBBLECOVEENERGY.EXAMPLE,Carla,Nakamura,Accounting Manager,Pebblecove Energy,,U.S.,+1 555 0130,Open,SDR Pool,do not call
+ben@cinderfellmills.example,Ben,Rahman,Senior Accountant,Cinderfell Mills,https://www.cinderfellmills.example/,US,+1 555 0142,Open,AE West,
+mibsen@oakmererobotics.example,Mateo,Ibsen,CFO,Oakmere Robotics,http://oakmererobotics.example/about-us,Canada,+1 555 0168,Customer,AE Central,
+ana.oduya@sorrelbyrobotics.example,Ana,Oduya,Head of Finance Operations,Sorrelby Robotics,https://www.sorrelbyrobotics.example/,U.S.,+1 555 0160,Disqualified,AE East,asked for pricing
+wen.marsh@valefennoutfitters.example,Wen,Marsh,Revenue Accounting Lead,Valefenn Outfitters,valefennoutfitters.example/contact?ref=crm,US,+1 555 0142,Working,AE West,asked for pricing
+ana@tamarelsupply.example,Ana,Rahman,Senior Accountant,Tamarel Supply,tamarelsupply.example,CA,+1 555 0116,Working,AE West,met at summit
+HUGO@GARNETBYRETAIL.EXAMPLE,Hugo,Jaramillo,Senior Accountant,Garnetby Retail,garnetbyretail.example,U.S.,+1 555 0183,Customer,AE Central,met at summit
+lvarga@oakmereoutfitters.example,Lena,Varga,Director of FP&A,Oakmere Outfitters,oakmereoutfitters.example/contact?ref=crm,United States,+1 555 0172,Open,SDR Pool,asked for pricing
+cyrus@driftmoorworks.example,Cyrus,Nakamura,Head of Finance Operations,Driftmoor Works,https://www.driftmoorworks.example/,CA,+1 555 0162,Nurture,AE East,met at summit
+hugo@rookhollowanalytics.example,Hugo,Jaramillo,Senior Accountant,Rookhollow Analytics,rookhollowanalytics.example/contact?ref=crm,CA,+1 555 0182,Nurture,AE East,asked for pricing
+bea@oakmerebrands.example,Bea,Lund,Controller,Oakmere Brands,https://www.oakmerebrands.example/,USA,+1 555 0197,Open,AE Central,asked for pricing
+lena.nakamura@saffronbyanalytics.example,Lena,Nakamura,Director of FP&A,Saffronby Analytics,saffronbyanalytics.example/contact?ref=crm,CA,+1 555 0176,Open,AE Central,
+ben@lumenoroutfitters.example,Ben,Nakamura,Finance Director,Lumenor Outfitters,https://lumenoroutfitters.example:8443/home,united states,+1 555 0185,Working,SDR Pool,asked for pricing
+dana@fernhollowlogistics.example,Dana,Nakamura,CFO,Fernhollow Logistics,https://www.fernhollowlogistics.example/,united states,+1 555 0144,Open,AE West,met at summit
+iris.castell@lumenorretail.example,Iris,Castell,Director of FP&A,Lumenor Retail,https://lumenorretail.example:8443/home,Canada,+1 555 0135,Nurture,AE West,asked for pricing
+rosa@oakmereclinics.example,Rosa,Varga,Accounting Manager,Oakmere Clinics,oakmereclinics.example/contact?ref=crm,Canada,+1 555 0155,Open,AE West,met at summit
+tmarsh@valefennclinics.example,Tara,Marsh,Finance Director,Valefenn Clinics,valefennclinics.example/contact?ref=crm,US,+1 555 0189,Open,AE West,asked for pricing
+ana.moreau@onyxbrookbrands.example,Ana,Moreau,Revenue Accounting Lead,Onyxbrook Brands,https://www.onyxbrookbrands.example/,U.S.,+1 555 0157,Customer,AE West,
+dibsen@marigoldiarobotics.example,Dana,Ibsen,Assistant Controller,Marigoldia Robotics,http://marigoldiarobotics.example/about-us,united states,+1 555 0128,Open,AE West,
+omar.moreau@marigoldiapackaging.example,Omar,Moreau,Director of FP&A,Marigoldia Packaging,,US,+1 555 0148,Customer,AE East,met at summit
+avarga@onyxbrookpartners.example,Aldo,Varga,VP Finance,Onyxbrook Partners,onyxbrookpartners.example,US,+1 555 0199,Nurture,AE West,
+yusuf.dimitrov@basaltinelogistics.example,Yusuf,Dimitrov,Finance Director,Basaltine Logistics,,US,+1 555 0183,Disqualified,AE East,
+,Aldo,Marsh,CFO,Birchwold Foods,birchwoldfoods.example,CA,+1 555 0133,Customer,SDR Pool,do not call
+devinibsen5@freemail.example,Devin,Ibsen,CFO,Larchwick Supply,larchwicksupply.example/contact?ref=crm,Canada,+1 555 0151,Customer,AE East,
+  dana@tidewellmills.example ,Dana,Novak,VP Finance,Tidewell Mills,https://www.tidewellmills.example/,USA,+1 555 0127,Disqualified,AE Central,
+ana@tidewelllabs.example,Ana,Kerr,Accounting Manager,Tidewell Labs,WWW.TIDEWELLLABS.EXAMPLE,USA,+1 555 0183,Working,AE East,
+ximena@tamarelretail.example,Ximena,Marsh,VP Finance,Tamarel Retail,http://tamarelretail.example/about-us,united states,+1 555 0121,Nurture,AE Central,asked for pricing
+priya.ibsen@larchwicktextiles.example,Priya,Ibsen,CFO,Larchwick Textiles,larchwicktextiles.example,United States,+1 555 0182,Customer,AE West,do not call
+mateo@yarrowbytextiles.example,Mateo,Brennan,Assistant Controller,Yarrowby Textiles,yarrowbytextiles.example,US,+1 555 0165,Working,AE Central,met at summit
+kai.moreau@zephyrinemills.example,Kai,Moreau,Senior Accountant,Zephyrine Mills,WWW.ZEPHYRINEMILLS.EXAMPLE,U.S.,+1 555 0128,Nurture,SDR Pool,do not call
+uke rr@fernhollowworks.example,Uma,Kerr,Senior Accountant,Fernhollow Works,fernhollowworks.example/contact?ref=crm,Canada,+1 555 0122,Open,AE Central,asked for pricing
+,Hugo,Varga,Finance Director,Amberlow Clinics,amberlowclinics.example,Canada,+1 555 0170,Open,AE East,
+rmarsh@rookhollowsupply.example,Rosa,Marsh,CFO,Rookhollow Supply,https://www.rookhollowsupply.example/,Canada,+1 555 0183,Nurture,AE East,met at summit
+xruiz@copperfoldfoods.example,Ximena,Ruiz,Finance Director,Copperfold Foods,copperfoldfoods.example,U.S.,+1 555 0131,Disqualified,AE West,do not call
+lena@driftmoorbrands.example,Lena,Novak,Controller,Driftmoor Brands,http://driftmoorbrands.example/about-us,CA,+1 555 0140,Nurture,AE West,asked for pricing
+wen@cobaltryretail.example,Wen,Dimitrov,Finance Director,Cobaltry Retail,cobaltryretail.example,CA,+1 555 0126,Disqualified,AE East,
+zoe@basaltinesupply.example,Zoe,Hale,Controller,Basaltine Supply,http://basaltinesupply.example/about-us,CA,+1 555 0130,Disqualified,AE Central,
+jonas.nakamura@amberlowpartners.example,Jonas,Nakamura,Finance Director,Amberlow Partners,amberlowpartners.example,CA,+1 555 0132,Disqualified,AE East,asked for pricing
+iris.haddad@slatewickpackaging.example,Iris,Haddad,Finance Director,Slatewick Packaging,slatewickpackaging.example/contact?ref=crm,Canada,+1 555 0134,Open,AE West,
+kaimoreau50@freemail.example,Kai,Moreau,Revenue Accounting Lead,Driftmoor Brands,https://driftmoorbrands.example:8443/home,U.S.,+1 555 0155,Working,AE Central,met at summit
+hugo@basaltinebrands.example,Hugo,Sato,Assistant Controller,Basaltine Brands,basaltinebrands.example,US,+1 555 0154,Disqualified,AE East,asked for pricing
+zoe.ueda@saffronbymanufacturing.example,Zoe,Ueda,Accounting Manager,Saffronby Manufacturing,saffronbymanufacturing.example/contact?ref=crm,U.S.,+1 555 0196,Working,AE Central,met at summit
+omar.kowal@maplewickclinics.example,Omar,Kowal,Finance Director,Maplewick Clinics,https://www.maplewickclinics.example/,Canada,+1 555 0121,Disqualified,SDR Pool,
+omar@marigoldiapackaging.example,Omar,Sato,Head of Finance Operations,Marigoldia Packaging,https://www.marigoldiapackaging.example/,CA,+1 555 0181,Working,AE East,asked for pricing
+carla.sorensen@hazelcotelogistics.example,Carla,Sorensen,Controller,Hazelcote Logistics,https://www.hazelcotelogistics.example/,US,+1 555 0171,Open,SDR Pool,asked for pricing
+rosa.mensah@quillfenanalytics.example,Rosa,Mensah,Director of FP&A,Quillfen Analytics,quillfenanalytics.example,USA,+1 555 0152,Nurture,AE Central,do not call
+jonas@wrenhollowclinics.example,Jonas,Ueda,VP Finance,Wrenhollow Clinics,https://www.wrenhollowclinics.example/,U.S.,+1 555 0170,Nurture,SDR Pool,
+cyrus.ibsen@pebblecovesystems.example,Cyrus,Ibsen,CFO,Pebblecove Systems,pebblecovesystems.example,US,+1 555 0158,Working,AE West,asked for pricing
+yusuf.toivonen@quillfenbrands.example,Yusuf,Toivonen,Senior Accountant,Quillfen Brands,quillfenbrands.example,united states,+1 555 0121,Open,SDR Pool,asked for pricing
+Bea.Rahman@Indigroverobotics.Example,Bea,Rahman,CFO,Indigrove Robotics,,united states,+1 555 0181,Working,AE East,asked for pricing
+viktor@garnetbyretail.example,Viktor,Okafor,Senior Accountant,Garnetby Retail,http://garnetbyretail.example/about-us,united states,+1 555 0192,Open,SDR Pool,
+drahman@willowmerepartners.example,Devin,Rahman,Head of Finance Operations,Willowmere Partners,willowmerepartners.example,US,+1 555 0132,Customer,SDR Pool,met at summit
+cyrus.achebe@glacimontfoods.example,Cyrus,Achebe,CFO,Glacimont Foods,https://glacimontfoods.example:8443/home,Canada,+1 555 0119,Nurture,AE East,do not call
+none,Dana,Achebe,Finance Director,Emberlyn Freight,emberlynfreight.example,Canada,+1 555 0140,Disqualified,AE Central,met at summit
+yusuf.ibsen@kestrelbytextiles.example,Yusuf,Ibsen,Finance Director,Kestrelby Textiles,kestrelbytextiles.example/contact?ref=crm,Canada,+1 555 0172,Nurture,AE East,
+hhale@quillfenlabs.example,Hugo,Hale,Assistant Controller,Quillfen Labs,,U.S.,+1 555 0146,Working,AE East,
+mateo@zephyrinerobotics.example,Mateo,Ibsen,Controller,Zephyrine Robotics,WWW.ZEPHYRINEROBOTICS.EXAMPLE,U.S.,+1 555 0161,Nurture,AE Central,
+jsorensen@pebblecovefoods.example,Jonas,Sorensen,Accounting Manager,Pebblecove Foods,WWW.PEBBLECOVEFOODS.EXAMPLE,US,+1 555 0116,Open,AE East,
+cyrus@willowmereanalytics.example,Cyrus,Patel,Controller,Willowmere Analytics,willowmereanalytics.example,US,+1 555 0151,Customer,AE West,
+unknown@,Ximena,Lindqvist,Controller,Sorrelby Textiles,http://sorrelbytextiles.example/about-us,USA,+1 555 0129,Nurture,AE East,asked for pricing
+htoivonen@quillfentextiles.example,Hugo,Toivonen,CFO,Quillfen Textiles,https://www.quillfentextiles.example/,United States,+1 555 0142,Working,SDR Pool,
+n/a,Dana,Nakamura,Head of Finance Operations,Indigrove Outfitters,indigroveoutfitters.example,CA,+1 555 0138,Customer,AE Central,
+gita@bramblecotesupply.example,Gita,Dimitrov,CFO,Bramblecote Supply,https://bramblecotesupply.example:8443/home,U.S.,+1 555 0189,Open,SDR Pool,
+SKERR@WRENHOLLOWENERGY.EXAMPLE,Sami,Kerr,CFO,Wrenhollow Energy,https://www.wrenhollowenergy.example/,CA,+1 555 0173,Customer,AE East,met at summit
+kai.sato@hazelcotemanufacturing.example,Kai,Sato,Head of Finance Operations,Hazelcote Manufacturing,http://hazelcotemanufacturing.example/about-us,U.S.,+1 555 0118,Customer,SDR Pool,do not call
+mateo.sato@rookhollowlogistics.example,Mateo,Sato,Controller,Rookhollow Logistics,,USA,+1 555 0134,Disqualified,SDR Pool,
+yusuf.dimitrov@basaltinelogistics.example,Yusuf,Dimitrov,Finance Director,Basaltine Logistics,,US,+1 555 0183,Nurture,AE East,
+  jonas@marigoldiaoutfitters.example ,Jonas,Ibsen,Accounting Manager,Marigoldia Outfitters,WWW.MARIGOLDIAOUTFITTERS.EXAMPLE,USA,+1 555 0141,Disqualified,AE East,met at summit
+kai@wrenhollowmanufacturing.example,Kai,Mensah,Senior Accountant,Wrenhollow Manufacturing,wrenhollowmanufacturing.example,U.S.,+1 555 0185,Open,AE Central,
+devin.ueda@meadowfenhealth.example,Devin,Ueda,Finance Director,Meadowfen Health,https://www.meadowfenhealth.example/,united states,+1 555 0143,Disqualified,AE Central,met at summit
+tara@indigrovesystems.example,Tara,Ferreira,Head of Finance Operations,Indigrove Systems,https://www.indigrovesystems.example/,United States,+1 555 0198,Nurture,AE West,do not call
+cnakamura@flintmereclinics.example,Cyrus,Nakamura,Accounting Manager,Flintmere Clinics,http://flintmereclinics.example/about-us,United States,+1 555 0124,Disqualified,AE East,met at summit
+  dana@oakmeremills.example ,Dana,Varga,Accounting Manager,Oakmere Mills,oakmeremills.example,United States,+1 555 0131,Open,AE West,met at summit
+quinnlund38@freemail.example,Quinn,Lund,CFO,Onyxbrook Analytics,http://onyxbrookanalytics.example/about-us,united states,+1 555 0131,Nurture,SDR Pool,
+obrennan@sorrelbypackaging.example,Omar,Brennan,Senior Accountant,Sorrelby Packaging,sorrelbypackaging.example/contact?ref=crm,united states,+1 555 0132,Working,AE East,
+priya.rahman@harborinebrands.example,Priya,Rahman,Head of Finance Operations,Harborine Brands,harborinebrands.example,US,+1 555 0127,Nurture,AE Central,asked for pricing
+cyrus.moreau@cobaltryworks.example,Cyrus,Moreau,Senior Accountant,Cobaltry Works,cobaltryworks.example,United States,+1 555 0124,Customer,AE Central,asked for pricing
+KAI.CASTELL@VALEFENNPARTNERS.EXAMPLE,Kai,Castell,VP Finance,Valefenn Partners,valefennpartners.example,USA,+1 555 0120,Customer,AE East,
+carla@amberlowworks.example,Carla,Sato,Senior Accountant,Amberlow Works,,united states,+1 555 0175,Nurture,AE East,do not call
+KAI@SABLECRESTRETAIL.EXAMPLE,Kai,Ruiz,Head of Finance Operations,Sablecrest Retail,sablecrestretail.example/contact?ref=crm,USA,+1 555 0190,Disqualified,AE East,
+elif@cinderfellpackaging.example,Elif,Ruiz,Assistant Controller,Cinderfell Packaging,https://www.cinderfellpackaging.example/,U.S.,+1 555 0188,Customer,AE West,do not call
+tlund@maplewickmanufacturing.example,Tara,Lund,Director of FP&A,Maplewick Manufacturing,maplewickmanufacturing.example,US,+1 555 0129,Working,AE West,
+devin@willowmerepartners.example,Devin,Achebe,Head of Finance Operations,Willowmere Partners,http://willowmerepartners.example/about-us,Canada,+1 555 0153,Nurture,AE Central,met at summit
+yusuf@tidewellretail.example,Yusuf,Jaramillo,CFO,Tidewell Retail,tidewellretail.example,USA,+1 555 0144,Nurture,AE Central,do not call
+bea@copperfoldfreight.example,Bea,Quist,CFO,Copperfold Freight,,USA,+1 555 0171,Working,AE Central,
+carla@juniperraoutfitters.example,Carla,Kerr,Accounting Manager,Juniperra Outfitters,https://www.juniperraoutfitters.example/,United States,+1 555 0186,Disqualified,AE East,do not call
+,Iris,Varga,Controller,Saffronby Energy,https://www.saffronbyenergy.example/,CA,+1 555 0148,Nurture,SDR Pool,
+wen@saffronbyfoods.example,Wen,Oduya,Finance Director,Saffronby Foods,http://saffronbyfoods.example/about-us,USA,+1 555 0152,Open,AE Central,
+aruiz@tamarelfoods.example,Ana,Ruiz,Finance Director,Tamarel Foods,https://tamarelfoods.example:8443/home,US,+1 555 0132,Nurture,AE East,asked for pricing
+none,Aldo,Hale,Head of Finance Operations,Marigoldia Clinics,marigoldiaclinics.example/contact?ref=crm,united states,+1 555 0134,Customer,SDR Pool,
+kai.moreau@zephyrinemills.example,Kai,Moreau,Senior Accountant,Zephyrine Mills,WWW.ZEPHYRINEMILLS.EXAMPLE,U.S.,+1 555 0128,Working,SDR Pool,do not call
+cbrennan@saffronbyenergy.example,Cyrus,Brennan,Finance Director,Saffronby Energy,http://saffronbyenergy.example/about-us,US,+1 555 0166,Nurture,SDR Pool,met at summit
+WEN@SAFFRONBYFOODS.EXAMPLE,Wen,Oduya,Finance Director,Saffronby Foods,http://saffronbyfoods.example/about-us,USA,+1 555 0152,Disqualified,AE Central,
+xvarga@willowmerebrands.example,Ximena,Varga,CFO,Willowmere Brands,https://www.willowmerebrands.example/,USA,+1 555 0199,Disqualified,AE Central,
+Gnakamura@Yarrowbyworks.Example,Gita,Nakamura,Controller,Yarrowby Works,yarrowbyworks.example/contact?ref=crm,United States,+1 555 0158,Working,AE Central,
+blindqvist@nimbuswelloutfitters.example,Bea,Lindqvist,Accounting Manager,Nimbuswell Outfitters,nimbuswelloutfitters.example/contact?ref=crm,United States,+1 555 0118,Nurture,SDR Pool,
+ksorensen@maplewickmanufacturing.example,Kai,Sorensen,Senior Accountant,Maplewick Manufacturing,maplewickmanufacturing.example,U.S.,+1 555 0165,Nurture,AE Central,asked for pricing
+dlindqvist@tidewellpartners.example,Dana,Lindqvist,Accounting Manager,Tidewell Partners,WWW.TIDEWELLPARTNERS.EXAMPLE,CA,+1 555 0170,Customer,AE Central,
+zoe@copperfoldmanufacturing.example,Zoe,Ueda,VP Finance,Copperfold Manufacturing,https://www.copperfoldmanufacturing.example/,U.S.,+1 555 0191,Nurture,AE Central,
+hugo@kestrelbyenergy.example,Hugo,Kowal,Finance Director,Kestrelby Energy,,United States,+1 555 0176,Disqualified,AE West,
+femi@cinderfellclinics.example,Femi,Nakamura,Assistant Controller,Cinderfell Clinics,cinderfellclinics.example/contact?ref=crm,US,+1 555 0170,Customer,AE Central,asked for pricing
+dkerr@maplewicklabs.example,Devin,Kerr,Head of Finance Operations,Maplewick Labs,http://maplewicklabs.example/about-us,US,+1 555 0124,Disqualified,SDR Pool,asked for pricing
+bnovak@yarrowbylogistics.example,Ben,Novak,Director of FP&A,Yarrowby Logistics,https://www.yarrowbylogistics.example/,United States,+1 555 0127,Working,SDR Pool,
+priya@valefennfoods.example,Priya,Patel,Revenue Accounting Lead,Valefenn Foods,valefennfoods.example/contact?ref=crm,CA,+1 555 0164,Customer,AE West,do not call
+psorensen@granmooranalytics.example,Priya,Sorensen,CFO,Granmoor Analytics,granmooranalytics.example,U.S.,+1 555 0131,Open,AE Central,asked for pricing
+DANA.LUND@SILTMOORLOGISTICS.EXAMPLE,Dana,Lund,Head of Finance Operations,Siltmoor Logistics,siltmoorlogistics.example,USA,+1 555 0186,Customer,AE East,met at summit
+eoduya@sablecrestanalytics.example,Elif,Oduya,VP Finance,Sablecrest Analytics,http://sablecrestanalytics.example/about-us,USA,+1 555 0143,Customer,AE East,met at summit
+ana.patel@meadowfenfoods.example,Ana,Patel,Senior Accountant,Meadowfen Foods,,CA,+1 555 0112,Open,AE West,met at summit
+bferreira@indigroveanalytics.example,Bea,Ferreira,Assistant Controller,Indigrove Analytics,indigroveanalytics.example/contact?ref=crm,US,+1 555 0160,Working,AE Central,do not call
+priya.kowal@bramblecotesystems.example,Priya,Kowal,Controller,Bramblecote Systems,,united states,+1 555 0198,Nurture,SDR Pool,
+elif@cinderfellanalytics.example,Elif,Pryce,Controller,Cinderfell Analytics,https://www.cinderfellanalytics.example/,United States,+1 555 0186,Nurture,AE East,do not call
+omar@slatewicklogistics.example,Omar,Ueda,Finance Director,Slatewick Logistics,,CA,+1 555 0172,Disqualified,AE East,asked for pricing
+mateo@amberlowpartners.example,Mateo,Sato,Head of Finance Operations,Amberlow Partners,amberlowpartners.example,US,+1 555 0187,Customer,SDR Pool,asked for pricing
+femi@cinderfellenergy.example,Femi,Achebe,Assistant Controller,Cinderfell Energy,http://cinderfellenergy.example/about-us,US,+1 555 0145,Customer,AE Central,do not call
+zrahman at hazelcotemanufacturing.example,Zoe,Rahman,VP Finance,Hazelcote Manufacturing,hazelcotemanufacturing.example/contact?ref=crm,CA,+1 555 0172,Disqualified,SDR Pool,do not call
+rhaddad@basaltinesystems.example,Rosa,Haddad,Assistant Controller,Basaltine Systems,https://basaltinesystems.example:8443/home,USA,+1 555 0142,Disqualified,SDR Pool,
+cnovak@copperfoldmills.example,Carla,Novak,Head of Finance Operations,Copperfold Mills,WWW.COPPERFOLDMILLS.EXAMPLE,US,+1 555 0168,Nurture,AE Central,met at summit
+tpryce@valefennfoods.example,Tara,Pryce,Senior Accountant,Valefenn Foods,https://www.valefennfoods.example/,CA,+1 555 0192,Customer,AE West,
+mateo.ueda@tidewellsystems.example,Mateo,Ueda,Director of FP&A,Tidewell Systems,http://tidewellsystems.example/about-us,CA,+1 555 0136,Nurture,AE East,do not call
+UMA@VALEFENNFREIGHT.EXAMPLE,Uma,Kowal,Assistant Controller,Valefenn Freight,http://valefennfreight.example/about-us,USA,+1 555 0145,Customer,AE East,met at summit
+viktor@maplewicklabs.example,Viktor,Oduya,Head of Finance Operations,Maplewick Labs,maplewicklabs.example,United States,+1 555 0185,Disqualified,AE West,
+loduya@slatewickoutfitters.example,Lena,Oduya,Controller,Slatewick Outfitters,https://www.slatewickoutfitters.example/,USA,+1 555 0163,Working,AE West,
+hugo@emberlyntextiles.example,Hugo,Ibsen,VP Finance,Emberlyn Textiles,WWW.EMBERLYNTEXTILES.EXAMPLE,Canada,+1 555 0161,Working,AE Central,do not call
+wen@copperfoldlabs.example,Wen,Patel,Head of Finance Operations,Copperfold Labs,copperfoldlabs.example,CA,+1 555 0150,Disqualified,SDR Pool,
+wen.brennan@basaltineworks.example,Wen,Brennan,Finance Director,Basaltine Works,https://www.basaltineworks.example/,united states,+1 555 0116,Customer,AE West,asked for pricing
+elif.okafor@saffronbymanufacturing.example,Elif,Okafor,Controller,Saffronby Manufacturing,,U.S.,+1 555 0144,Customer,AE West,do not call
+dana@hazelcotefoods.example,Dana,Toivonen,Head of Finance Operations,Hazelcote Foods,https://www.hazelcotefoods.example/,US,+1 555 0198,Disqualified,AE East,
+dana.ueda@wrenhollowpackaging.example,Dana,Ueda,Head of Finance Operations,Wrenhollow Packaging,,CA,+1 555 0199,Open,SDR Pool,met at summit
+iris@cobaltryretail.example,Iris,Moreau,Director of FP&A,Cobaltry Retail,cobaltryretail.example,United States,+1 555 0174,Working,AE East,do not call
+devin@quillfenmanufacturing.example,Devin,Lindqvist,Assistant Controller,Quillfen Manufacturing,http://quillfenmanufacturing.example/about-us,Canada,+1 555 0117,Nurture,AE East,asked for pricing
+rosa.okafor@oakmeresystems.example,Rosa,Okafor,Accounting Manager,Oakmere Systems,oakmeresystems.example,USA,+1 555 0157,Nurture,SDR Pool,asked for pricing
+lenaruiz47@freemail.example,Lena,Ruiz,CFO,Onyxbrook Works,onyxbrookworks.example/contact?ref=crm,USA,+1 555 0176,Working,AE East,asked for pricing
+gbrennan@willowmereretail.example,Gita,Brennan,Assistant Controller,Willowmere Retail,willowmereretail.example/contact?ref=crm,U.S.,+1 555 0116,Customer,AE West,do not call
+aldo.marsh@zephyrinelogistics.example,Aldo,Marsh,Revenue Accounting Lead,Zephyrine Logistics,zephyrinelogistics.example/contact?ref=crm,United States,+1 555 0136,Working,AE East,
+lmoreau@wrenhollowanalytics.example,Lena,Moreau,Controller,Wrenhollow Analytics,wrenhollowanalytics.example,United States,+1 555 0146,Disqualified,AE East,met at summit
+jonas.sorensen@wrenhollowanalytics.example,Jonas,Sorensen,Accounting Manager,Wrenhollow Analytics,wrenhollowanalytics.example,USA,+1 555 0141,Open,AE East,
+aldo.nakamura@willowmerepartners.example,Aldo,Nakamura,Accounting Manager,Willowmere Partners,http://willowmerepartners.example/about-us,United States,+1 555 0189,Disqualified,AE East,
+quinn@cobaltryfoods.example,Quinn,Sorensen,Head of Finance Operations,Cobaltry Foods,https://www.cobaltryfoods.example/,CA,+1 555 0121,Disqualified,AE Central,met at summit
+yusuf@sablecrestlabs.example,Yusuf,Quist,Head of Finance Operations,Sablecrest Labs,sablecrestlabs.example,USA,+1 555 0152,Working,AE Central,met at summit
+IRIS.VARGA@WILLOWMERESYSTEMS.EXAMPLE,Iris,Varga,VP Finance,Willowmere Systems,willowmeresystems.example,USA,+1 555 0161,Nurture,SDR Pool,asked for pricing
+hugo.achebe@larchwicktextiles.example,Hugo,Achebe,CFO,Larchwick Textiles,https://www.larchwicktextiles.example/,U.S.,+1 555 0188,Customer,AE West,
+cyruscastell31@freemail.example,Cyrus,Castell,Senior Accountant,Quarrifen Retail,https://www.quarrifenretail.example/,Canada,+1 555 0158,Nurture,AE Central,asked for pricing
+femi@siltmoortextiles.example,Femi,Hale,Head of Finance Operations,Siltmoor Textiles,siltmoortextiles.example/contact?ref=crm,Canada,+1 555 0165,Open,AE East,met at summit
+bea@siltmoorfoods.example,Bea,Lindqvist,Senior Accountant,Siltmoor Foods,siltmoorfoods.example,united states,+1 555 0176,Nurture,AE Central,
+  wen@sorrelbytextiles.example ,Wen,Pryce,CFO,Sorrelby Textiles,sorrelbytextiles.example,U.S.,+1 555 0170,Open,AE West,met at summit
+kai.quist@siltmoortextiles.example,Kai,Quist,Controller,Siltmoor Textiles,https://www.siltmoortextiles.example/,CA,+1 555 0170,Customer,AE Central,
+glindqvist@oakmeremills.example,Gita,Lindqvist,VP Finance,Oakmere Mills,oakmeremills.example,Canada,+1 555 0195,Disqualified,AE Central,met at summit
+gmensah@glacimontpartners.example,Gita,Mensah,Finance Director,Glacimont Partners,https://www.glacimontpartners.example/,United States,+1 555 0176,Disqualified,AE East,
+tara@meadowfentextiles.example,Tara,Mensah,VP Finance,Meadowfen Textiles,meadowfentextiles.example/contact?ref=crm,US,+1 555 0111,Working,AE Central,do not call
+stoivonen@tamarelbrands.example,Sami,Toivonen,VP Finance,Tamarel Brands,WWW.TAMARELBRANDS.EXAMPLE,US,+1 555 0161,Open,SDR Pool,asked for pricing
+ntoivonen@slatewickoutfitters.example,Nadia,Toivonen,Controller,Slatewick Outfitters,http://slatewickoutfitters.example/about-us,United States,+1 555 0171,Open,AE West,
+jonas.nakamura@willowmerelogistics.example,Jonas,Nakamura,Controller,Willowmere Logistics,willowmerelogistics.example,CA,+1 555 0119,Customer,AE East,
+,Rosa,Ruiz,Director of FP&A,Saffronby Retail,https://www.saffronbyretail.example/,US,+1 555 0192,Working,SDR Pool,asked for pricing
+anadimitrov47@freemail.example,Ana,Dimitrov,Revenue Accounting Lead,Sablecrest Supply,,US,+1 555 0133,Working,AE East,met at summit
+mnovak@cobaltryanalytics.example,Mateo,Novak,Senior Accountant,Cobaltry Analytics,cobaltryanalytics.example/contact?ref=crm,Canada,+1 555 0149,Disqualified,AE East,do not call
+lcastell@fernhollowhealth.example,Lena,Castell,Controller,Fernhollow Health,,USA,+1 555 0149,Disqualified,AE West,
+beamoreau79@freemail.example,Bea,Moreau,Director of FP&A,Kestrelby Works,https://www.kestrelbyworks.example/,Canada,+1 555 0157,Working,AE Central,
+ckerr@fernhollowfoods.example,Carla,Kerr,Head of Finance Operations,Fernhollow Foods,https://www.fernhollowfoods.example/,U.S.,+1 555 0186,Open,AE West,
+none,Yusuf,Novak,CFO,Glacimont Partners,glacimontpartners.example,united states,+1 555 0147,Working,AE East,do not call
+priyabrennan95@freemail.example,Priya,Brennan,Senior Accountant,Sorrelby Health,sorrelbyhealth.example,US,+1 555 0172,Nurture,AE West,asked for pricing
+ana@driftmoorlabs.example,Ana,Jaramillo,Finance Director,Driftmoor Labs,https://www.driftmoorlabs.example/,united states,+1 555 0120,Disqualified,AE East,
+jonas@nimbuswelloutfitters.example,Jonas,Toivonen,Finance Director,Nimbuswell Outfitters,nimbuswelloutfitters.example,US,+1 555 0172,Working,AE West,met at summit
+hugo.pryce@sorrelbyfreight.example,Hugo,Pryce,Assistant Controller,Sorrelby Freight,sorrelbyfreight.example/contact?ref=crm,United States,+1 555 0188,Open,AE Central,
+wen@indigroveoutfitters.example,Wen,Toivonen,Director of FP&A,Indigrove Outfitters,https://www.indigroveoutfitters.example/,USA,+1 555 0143,Disqualified,AE East,
+elif@sorrelbylabs.example,Elif,Novak,Finance Director,Sorrelby Labs,http://sorrelbylabs.example/about-us,U.S.,+1 555 0168,Disqualified,SDR Pool,
+doduya@willowmerelabs.example,Devin,Oduya,VP Finance,Willowmere Labs,,U.S.,+1 555 0165,Working,AE East,asked for pricing
+zkowal@tidewellclinics.example,Zoe,Kowal,Head of Finance Operations,Tidewell Clinics,https://www.tidewellclinics.example/,United States,+1 555 0194,Open,AE East,asked for pricing
+tara.lund@oakmeresystems.example,Tara,Lund,Head of Finance Operations,Oakmere Systems,oakmeresystems.example,united states,+1 555 0121,Nurture,AE West,
+nadia.mensah@granmooranalytics.example,Nadia,Mensah,Revenue Accounting Lead,Granmoor Analytics,granmooranalytics.example,Canada,+1 555 0140,Customer,SDR Pool,asked for pricing
+rosa@slatewickfreight.example,Rosa,Achebe,Director of FP&A,Slatewick Freight,slatewickfreight.example,United States,+1 555 0161,Nurture,AE Central,met at summit
+IKOWAL@AMBERLOWOUTFITTERS.EXAMPLE,Iris,Kowal,Head of Finance Operations,Amberlow Outfitters,amberlowoutfitters.example,United States,+1 555 0165,Disqualified,AE East,
+cnakamura@flintmereclinics.example,Cyrus,Nakamura,Accounting Manager,Flintmere Clinics,http://flintmereclinics.example/about-us,United States,+1 555 0124,Customer,AE East,met at summit
+jquist@basaltinelogistics.example,Jonas,Quist,Assistant Controller,Basaltine Logistics,basaltinelogistics.example,united states,+1 555 0150,Customer,SDR Pool,do not call
+cyrus.ruiz@hazelcoterobotics.example,Cyrus,Ruiz,Finance Director,Hazelcote Robotics,https://www.hazelcoterobotics.example/,U.S.,+1 555 0139,Open,SDR Pool,
+cyrus@rookhollowrobotics.example,Cyrus,Patel,Accounting Manager,Rookhollow Robotics,rookhollowrobotics.example,Canada,+1 555 0137,Working,AE West,
+quinn@fernhollowhealth.example,Quinn,Ibsen,Head of Finance Operations,Fernhollow Health,fernhollowhealth.example,United States,+1 555 0111,Disqualified,AE East,asked for pricing
+aldo.rahman@birchwoldfreight.example,Aldo,Rahman,Director of FP&A,Birchwold Freight,https://www.birchwoldfreight.example/,U.S.,+1 555 0116,Open,SDR Pool,met at summit
+devin@glacimontpackaging.example,Devin,Sorensen,Senior Accountant,Glacimont Packaging,glacimontpackaging.example,USA,+1 555 0111,Disqualified,AE West,met at summit
+quinn@slatewickbrands.example,Quinn,Ruiz,Controller,Slatewick Brands,,USA,+1 555 0163,Working,AE West,asked for pricing
+bea.ruiz@juniperrafreight.example,Bea,Ruiz,VP Finance,Juniperra Freight,juniperrafreight.example/contact?ref=crm,Canada,+1 555 0121,Disqualified,AE East,do not call
+quinn@rookhollowclinics.example,Quinn,Oduya,Controller,Rookhollow Clinics,,U.S.,+1 555 0156,Working,SDR Pool,met at summit
+n/a,Gita,Jaramillo,Director of FP&A,Oakmere Manufacturing,http://oakmeremanufacturing.example/about-us,united states,+1 555 0145,Disqualified,AE East,do not call
+ucastell@garnetbyfoods.example,Uma,Castell,Revenue Accounting Lead,Garnetby Foods,garnetbyfoods.example,Canada,+1 555 0196,Customer,AE West,do not call
+ben.rahman@zephyrinesupply.example,Ben,Rahman,Finance Director,Zephyrine Supply,WWW.ZEPHYRINESUPPLY.EXAMPLE,Canada,+1 555 0118,Working,AE West,do not call
+taraueda38@freemail.example,Tara,Ueda,VP Finance,Basaltine Logistics,basaltinelogistics.example,CA,+1 555 0157,Nurture,AE West,do not call
+kai.lund@pebblecovebrands.example,Kai,Lund,Controller,Pebblecove Brands,https://www.pebblecovebrands.example/,United States,+1 555 0112,Nurture,AE East,do not call
+chaddad@quarrifenenergy.example,Cyrus,Haddad,CFO,Quarrifen Energy,https://www.quarrifenenergy.example/,US,+1 555 0170,Open,AE East,
+qokafor@garnetbylogistics.example,Quinn,Okafor,Senior Accountant,Garnetby Logistics,https://www.garnetbylogistics.example/,United States,+1 555 0133,Open,AE West,
+xueda@yarrowbyenergy.example,Ximena,Ueda,Senior Accountant,Yarrowby Energy,https://www.yarrowbyenergy.example/,Canada,+1 555 0141,Nurture,AE West,met at summit
+dana@indigroveoutfitters.example,Dana,Nakamura,Head of Finance Operations,Indigrove Outfitters,indigroveoutfitters.example,CA,+1 555 0138,Working,AE Central,
+unakamura@tidewellfoods.example,Uma,Nakamura,Revenue Accounting Lead,Tidewell Foods,,united states,+1 555 0136,Customer,SDR Pool,
+  tara.kerr@rookhollowmills.example ,Tara,Kerr,VP Finance,Rookhollow Mills,,US,+1 555 0181,Nurture,AE Central,
+rokafor@fernhollowlabs.example,Rosa,Okafor,Revenue Accounting Lead,Fernhollow Labs,,CA,+1 555 0160,Open,SDR Pool,
+tara.pryce@onyxbrookworks.example,Tara,Pryce,Finance Director,Onyxbrook Works,onyxbrookworks.example,CA,+1 555 0133,Open,AE West,asked for pricing
+xruiz@cinderfellfoods.example,Ximena,Ruiz,Head of Finance Operations,Cinderfell Foods,cinderfellfoods.example,US,+1 555 0142,Working,AE East,do not call
+ximena.lund@fernhollowoutfitters.example,Ximena,Lund,Head of Finance Operations,Fernhollow Outfitters,fernhollowoutfitters.example,United States,+1 555 0116,Nurture,SDR Pool,asked for pricing
+rosa@kestrelbyretail.example,Rosa,Haddad,Director of FP&A,Kestrelby Retail,kestrelbyretail.example,U.S.,+1 555 0162,Disqualified,AE Central,
+dkowal@birchwoldpartners.example,Dana,Kowal,Accounting Manager,Birchwold Partners,https://www.birchwoldpartners.example/,USA,+1 555 0143,Nurture,SDR Pool,asked for pricing
+lena@basaltinefreight.example,Lena,Sorensen,Assistant Controller,Basaltine Freight,basaltinefreight.example,United States,+1 555 0174,Working,AE East,
+dkerr@kestrelbylabs.example,Dana,Kerr,VP Finance,Kestrelby Labs,kestrelbylabs.example,US,+1 555 0116,Nurture,SDR Pool,
+sami.okafor@birchwoldmanufacturing.example,Sami,Okafor,Head of Finance Operations,Birchwold Manufacturing,https://www.birchwoldmanufacturing.example/,US,+1 555 0128,Customer,AE West,met at summit
+nadia@saffronbyoutfitters.example,Nadia,Haddad,Controller,Saffronby Outfitters,saffronbyoutfitters.example/contact?ref=crm,United States,+1 555 0119,Nurture,SDR Pool,met at summit
+ZOE@QUILLFENTEXTILES.EXAMPLE,Zoe,Toivonen,Accounting Manager,Quillfen Textiles,quillfentextiles.example,united states,+1 555 0190,Open,AE Central,asked for pricing
+aldo@emberlynworks.example,Aldo,Haddad,Senior Accountant,Emberlyn Works,,United States,+1 555 0126,Disqualified,AE West,
+viktor@umberlyfreight.example,Viktor,Achebe,Controller,Umberly Freight,umberlyfreight.example,USA,+1 555 0157,Open,AE Central,
+MATEO.PRYCE@FERNHOLLOWLABS.EXAMPLE,Mateo,Pryce,Head of Finance Operations,Fernhollow Labs,http://fernhollowlabs.example/about-us,U.S.,+1 555 0111,Nurture,AE West,
+gmarsh@garnetbylogistics.example,Gita,Marsh,VP Finance,Garnetby Logistics,garnetbylogistics.example/contact?ref=crm,united states,+1 555 0175,Customer,SDR Pool,met at summit
+lpryce@birchwoldmanufacturing.example,Lena,Pryce,Assistant Controller,Birchwold Manufacturing,birchwoldmanufacturing.example,USA,+1 555 0149,Working,AE West,met at summit
+bea.kerr@bramblecoteanalytics.example,Bea,Kerr,Controller,Bramblecote Analytics,,USA,+1 555 0161,Open,AE Central,met at summit
+dnovak@fernhollowclinics.example,Devin,Novak,Revenue Accounting Lead,Fernhollow Clinics,fernhollowclinics.example/contact?ref=crm,USA,+1 555 0199,Working,SDR Pool,
+gita.lund@siltmooroutfitters.example,Gita,Lund,Head of Finance Operations,Siltmoor Outfitters,siltmooroutfitters.example,USA,+1 555 0144,Open,SDR Pool,
+priya.lindqvist@sorrelbymanufacturing.example,Priya,Lindqvist,Head of Finance Operations,Sorrelby Manufacturing,https://www.sorrelbymanufacturing.example/,U.S.,+1 555 0185,Working,AE East,
+ana.ferreira@garnetbysystems.example,Ana,Ferreira,Senior Accountant,Garnetby Systems,,U.S.,+1 555 0185,Working,AE East,do not call
+jtoivonen@valefenntextiles.example,Jonas,Toivonen,VP Finance,Valefenn Textiles,valefenntextiles.example,USA,+1 555 0173,Disqualified,AE West,asked for pricing
+bea@willowmeresupply.example,Bea,Ibsen,Director of FP&A,Willowmere Supply,http://willowmeresupply.example/about-us,USA,+1 555 0191,Working,AE West,do not call
+ximena@saffronbyworks.example,Ximena,Toivonen,CFO,Saffronby Works,saffronbyworks.example,Canada,+1 555 0197,Working,AE West,
+Hpatel@Siltmooroutfitters.Example,Hugo,Patel,Revenue Accounting Lead,Siltmoor Outfitters,https://www.siltmooroutfitters.example/,CA,+1 555 0190,Working,AE East,met at summit
+lcastell@rookhollowmanufacturing.example,Lena,Castell,Director of FP&A,Rookhollow Manufacturing,https://www.rookhollowmanufacturing.example/,United States,+1 555 0158,Disqualified,AE East,
+elifferreira81@freemail.example,Elif,Ferreira,Finance Director,Sablecrest Brands,,CA,+1 555 0192,Open,AE Central,
+yusufsorensen64@freemail.example,Yusuf,Sorensen,Head of Finance Operations,Kestrelby Works,kestrelbyworks.example/contact?ref=crm,US,+1 555 0135,Nurture,SDR Pool,met at summit
+ximena@saffronbyworks.example,Ximena,Toivonen,Controller,Saffronby Works,,U.S.,+1 555 0156,Disqualified,AE Central,met at summit
+viktor.jaramillo@valefennmanufacturing.example,Viktor,Jaramillo,Revenue Accounting Lead,Valefenn Manufacturing,valefennmanufacturing.example,CA,+1 555 0196,Nurture,AE Central,asked for pricing
+kaiachebe24@freemail.example,Kai,Achebe,Accounting Manager,Pebblecove Analytics,https://www.pebblecoveanalytics.example/,US,+1 555 0184,Working,AE Central,do not call
+dibsen@umberlyworks.example,Dana,Ibsen,Controller,Umberly Works,umberlyworks.example,USA,+1 555 0115,Disqualified,AE East,
+jonascastell9@freemail.example,Jonas,Castell,Senior Accountant,Flintmere Mills,http://flintmeremills.example/about-us,Canada,+1 555 0158,Open,SDR Pool,
+nadia.oduya@umberlyoutfitters.example,Nadia,Oduya,CFO,Umberly Outfitters,WWW.UMBERLYOUTFITTERS.EXAMPLE,USA,+1 555 0198,Working,SDR Pool,asked for pricing
+Dana.Hale@Basaltinetextiles.Example,Dana,Hale,Assistant Controller,Basaltine Textiles,http://basaltinetextiles.example/about-us,united states,+1 555 0179,Working,AE West,
+ximena.sorensen@onyxbrooklabs.example,Ximena,Sorensen,Head of Finance Operations,Onyxbrook Labs,onyxbrooklabs.example,USA,+1 555 0136,Customer,AE West,do not call
+imoreau@hazelcotemills.example,Iris,Moreau,Finance Director,Hazelcote Mills,,USA,+1 555 0110,Disqualified,AE West,
+jsato@saffronbyworks.example,Jonas,Sato,Senior Accountant,Saffronby Works,https://www.saffronbyworks.example/,CA,+1 555 0116,Open,AE East,do not call
+yruiz@harborinemills.example,Yusuf,Ruiz,VP Finance,Harborine Mills,harborinemills.example/contact?ref=crm,united states,+1 555 0147,Customer,SDR Pool,
+wsato@driftmoorfreight.example,Wen,Sato,Revenue Accounting Lead,Driftmoor Freight,driftmoorfreight.example,U.S.,+1 555 0197,Working,AE Central,
+Dhale@Meadowfentextiles.Example,Dana,Hale,Director of FP&A,Meadowfen Textiles,meadowfentextiles.example,United States,+1 555 0176,Disqualified,AE Central,do not call
+omar@sablecrestanalytics.example,Omar,Okafor,Head of Finance Operations,Sablecrest Analytics,http://sablecrestanalytics.example/about-us,united states,+1 555 0110,Disqualified,AE Central,met at summit
+AKOWAL@AMBERLOWBRANDS.EXAMPLE,Ana,Kowal,Head of Finance Operations,Amberlow Brands,http://amberlowbrands.example/about-us,US,+1 555 0117,Working,AE East,
+zoe@fernhollowsupply.example,Zoe,Haddad,Senior Accountant,Fernhollow Supply,http://fernhollowsupply.example/about-us,USA,+1 555 0110,Disqualified,SDR Pool,
+none,Ximena,Kowal,Controller,Tidewell Works,https://www.tidewellworks.example/,Canada,+1 555 0188,Customer,AE East,do not call
+hbrennan@lumenormanufacturing.example,Hugo,Brennan,Finance Director,Lumenor Manufacturing,,US,+1 555 0149,Customer,AE Central,do not call
+quinn@yarrowbypartners.example,Quinn,Toivonen,VP Finance,Yarrowby Partners,yarrowbypartners.example,united states,+1 555 0140,Nurture,AE West,asked for pricing
+ben.kowal@amberlowpackaging.example,Ben,Kowal,Director of FP&A,Amberlow Packaging,https://www.amberlowpackaging.example/,united states,+1 555 0192,Disqualified,AE Central,asked for pricing
+iris.ibsen@granmoorworks.example,Iris,Ibsen,Finance Director,Granmoor Works,http://granmoorworks.example/about-us,united states,+1 555 0169,Customer,SDR Pool,
+AUEDA@DRIFTMOORWORKS.EXAMPLE,Ana,Ueda,Head of Finance Operations,Driftmoor Works,driftmoorworks.example,Canada,+1 555 0160,Open,SDR Pool,
+GITA.LUND@SILTMOOROUTFITTERS.EXAMPLE,Gita,Lund,Head of Finance Operations,Siltmoor Outfitters,siltmooroutfitters.example,USA,+1 555 0144,Nurture,SDR Pool,
+bea@cobaltryfoods.example,Bea,Quist,CFO,Cobaltry Foods,WWW.COBALTRYFOODS.EXAMPLE,United States,+1 555 0158,Nurture,SDR Pool,met at summit
+none,Dana,Okafor,VP Finance,Saffronby Outfitters,saffronbyoutfitters.example,united states,+1 555 0149,Open,AE West,asked for pricing
+hugo@fernhollowrobotics.example,Hugo,Toivonen,Director of FP&A,Fernhollow Robotics,https://www.fernhollowrobotics.example/,USA,+1 555 0155,Working,AE West,
+Lena@Tidewellpartners.Example,Lena,Lindqvist,Finance Director,Tidewell Partners,tidewellpartners.example/contact?ref=crm,USA,+1 555 0136,Working,AE West,
+elif.varga@tidewellretail.example,Elif,Varga,Head of Finance Operations,Tidewell Retail,tidewellretail.example,united states,+1 555 0185,Working,SDR Pool,do not call
+blindqvist@maplewickclinics.example,Ben,Lindqvist,Head of Finance Operations,Maplewick Clinics,maplewickclinics.example,US,+1 555 0124,Customer,SDR Pool,met at summit
+wen@cinderfellclinics.example,Wen,Marsh,Director of FP&A,Cinderfell Clinics,,United States,+1 555 0139,Open,SDR Pool,asked for pricing
+cyrus.haddad@emberlynrobotics.example,Cyrus,Haddad,Senior Accountant,Emberlyn Robotics,http://emberlynrobotics.example/about-us,US,+1 555 0191,Working,AE Central,
+llund@granmoorhealth.example,Lena,Lund,Head of Finance Operations,Granmoor Health,https://www.granmoorhealth.example/,united states,+1 555 0178,Nurture,AE Central,
+fkowal@thistlemooranalytics.example,Femi,Kowal,Head of Finance Operations,Thistlemoor Analytics,thistlemooranalytics.example/contact?ref=crm,U.S.,+1 555 0176,Disqualified,AE West,met at summit
+VJARAMILLO@SILTMOORTEXTILES.EXAMPLE,Viktor,Jaramillo,Assistant Controller,Siltmoor Textiles,WWW.SILTMOORTEXTILES.EXAMPLE,CA,+1 555 0181,Disqualified,AE East,
+quinn.novak@sablecrestpartners.example,Quinn,Novak,Accounting Manager,Sablecrest Partners,,US,+1 555 0151,Working,AE East,
+omar@larchwickmills.example,Omar,Ruiz,Controller,Larchwick Mills,larchwickmills.example,united states,+1 555 0194,Customer,AE Central,do not call
+jonas.jaramillo@tamarelsupply.example,Jonas,Jaramillo,Assistant Controller,Tamarel Supply,https://www.tamarelsupply.example/,United States,+1 555 0198,Working,SDR Pool,do not call
+femi@harborinesupply.example,Femi,Marsh,Finance Director,Harborine Supply,harborinesupply.example/contact?ref=crm,CA,+1 555 0112,Nurture,AE East,do not call
+ana@driftmoorlabs.example,Ana,Rahman,Finance Director,Driftmoor Labs,driftmoorlabs.example,USA,+1 555 0196,Disqualified,AE Central,do not call
+nlindqvist@harborinesupply.example,Nadia,Lindqvist,Head of Finance Operations,Harborine Supply,https://harborinesupply.example:8443/home,USA,+1 555 0112,Working,SDR Pool,met at summit
+devin.ueda@onyxbrookworks.example,Devin,Ueda,Senior Accountant,Onyxbrook Works,http://onyxbrookworks.example/about-us,united states,+1 555 0197,Customer,SDR Pool,asked for pricing
+devin@harborinebrands.example,Devin,Sorensen,Controller,Harborine Brands,harborinebrands.example,US,+1 555 0136,Open,AE Central,
+dana.ueda@willowmereanalytics.example,Dana,Ueda,Revenue Accounting Lead,Willowmere Analytics,willowmereanalytics.example,USA,+1 555 0173,Working,SDR Pool,met at summit
+,,,Finance Director,Slatewick Clinics,https://www.slatewickclinics.example/,Canada,+1 555 0157,Disqualified,AE Central,met at summit
+ana hale65@freemail.example,Ana,Hale,Accounting Manager,Granmoor Manufacturing,granmoormanufacturing.example,Canada,+1 555 0174,Open,AE East,met at summit
+usato@bramblecotesupply.example,Uma,Sato,Finance Director,Bramblecote Supply,http://bramblecotesupply.example/about-us,CA,+1 555 0148,Open,AE East,
+xbrennan@larchwickfreight.example,Ximena,Brennan,Assistant Controller,Larchwick Freight,https://www.larchwickfreight.example/,United States,+1 555 0195,Working,AE West,
+ana.patel@meadowfenfoods.example,Ana,Patel,Senior Accountant,Meadowfen Foods,,CA,+1 555 0112,Nurture,AE West,met at summit
+aokafor@cinderfelllabs.example,Ana,Okafor,CFO,Cinderfell Labs,cinderfelllabs.example,USA,+1 555 0182,Open,AE East,
+ana@pebblecoveanalytics.example,Ana,Lindqvist,Director of FP&A,Pebblecove Analytics,pebblecoveanalytics.example,USA,+1 555 0116,Working,AE West,
+len a@slatewicksystems.example,Lena,Ferreira,CFO,Slatewick Systems,https://www.slatewicksystems.example/,CA,+1 555 0125,Nurture,SDR Pool,
+elif@sablecrestsupply.example,Elif,Novak,Accounting Manager,Sablecrest Supply,sablecrestsupply.example,united states,+1 555 0188,Open,SDR Pool,
+carla.ruiz@slatewickbrands.example,Carla,Ruiz,VP Finance,Slatewick Brands,slatewickbrands.example,USA,+1 555 0126,Disqualified,AE East,
+Elund@Tamarelfoods.Example,Elif,Lund,Controller,Tamarel Foods,tamarelfoods.example/contact?ref=crm,USA,+1 555 0111,Customer,AE Central,
+YUSUFSORENSEN64@FREEMAIL.EXAMPLE,Yusuf,Sorensen,Head of Finance Operations,Kestrelby Works,kestrelbyworks.example/contact?ref=crm,US,+1 555 0135,Open,SDR Pool,met at summit
+zoe@pebblecovehealth.example,Zoe,Achebe,CFO,Pebblecove Health,,united states,+1 555 0124,Working,AE Central,do not call
+mateo@indigrovelabs.example,Mateo,Ruiz,Assistant Controller,Indigrove Labs,http://indigrovelabs.example/about-us,U.S.,+1 555 0156,Nurture,SDR Pool,asked for pricing
+rosa.dimitrov@rookhollowmills.example,Rosa,Dimitrov,Controller,Rookhollow Mills,https://www.rookhollowmills.example/,U.S.,+1 555 0179,Working,AE West,asked for pricing
+ana.quist@rookhollowanalytics.example,Ana,Quist,Revenue Accounting Lead,Rookhollow Analytics,https://www.rookhollowanalytics.example/,U.S.,+1 555 0173,Open,SDR Pool,do not call
+uhaddad@willowmeresystems.example,Uma,Haddad,Accounting Manager,Willowmere Systems,willowmeresystems.example,United States,+1 555 0166,Customer,AE Central,
+ANA@DRIFTMOORLABS.EXAMPLE,Ana,Rahman,Finance Director,Driftmoor Labs,driftmoorlabs.example,USA,+1 555 0196,Open,AE Central,do not call
+carla@larchwickworks.example,Carla,Kowal,Accounting Manager,Larchwick Works,https://www.larchwickworks.example/,US,+1 555 0176,Disqualified,SDR Pool,
+rosa@hazelcotehealth.example,Rosa,Ruiz,CFO,Hazelcote Health,https://www.hazelcotehealth.example/,United States,+1 555 0180,Open,AE East,met at summit
+mateo.castell@granmoorfoods.example,Mateo,Castell,Controller,Granmoor Foods,https://www.granmoorfoods.example/,united states,+1 555 0184,Working,AE West,do not call
+unakamura@meadowfensystems.example,Uma,Nakamura,Revenue Accounting Lead,Meadowfen Systems,https://www.meadowfensystems.example/,united states,+1 555 0113,Nurture,SDR Pool,
+boduya@thistlemooroutfitters.example,Bea,Oduya,Revenue Accounting Lead,Thistlemoor Outfitters,,USA,+1 555 0190,Open,SDR Pool,
+omar.pryce@quillfenfoods.example,Omar,Pryce,Controller,Quillfen Foods,http://quillfenfoods.example/about-us,CA,+1 555 0181,Customer,AE Central,do not call
+rosa@siltmoorhealth.example,Rosa,Pryce,CFO,Siltmoor Health,https://siltmoorhealth.example:8443/home,united states,+1 555 0133,Working,AE East,
+nadia@umberlyfreight.example,Nadia,Ruiz,Accounting Manager,Umberly Freight,https://www.umberlyfreight.example/,united states,+1 555 0119,Customer,AE Central,
+ccastell@birchwoldrobotics.example,Carla,Castell,Revenue Accounting Lead,Birchwold Robotics,http://birchwoldrobotics.example/about-us,Canada,+1 555 0157,Open,SDR Pool,
+tueda@cobaltryoutfitters.example,Tara,Ueda,Head of Finance Operations,Cobaltry Outfitters,cobaltryoutfitters.example/contact?ref=crm,CA,+1 555 0185,Open,SDR Pool,met at summit
+nadiacastell55@freemail.example,Nadia,Castell,Revenue Accounting Lead,Pebblecove Packaging,https://www.pebblecovepackaging.example/,united states,+1 555 0190,Nurture,AE Central,
+skerr@wrenhollowenergy.example,Sami,Kerr,CFO,Wrenhollow Energy,https://www.wrenhollowenergy.example/,CA,+1 555 0173,Open,AE East,met at summit
+tara@driftmoorworks.example,Tara,Castell,Accounting Manager,Driftmoor Works,https://www.driftmoorworks.example/,USA,+1 555 0125,Customer,AE East,
+dachebe@tidewellsystems.example,Devin,Achebe,CFO,Tidewell Systems,tidewellsystems.example,united states,+1 555 0113,Working,AE West,met at summit
+iris.varga@willowmeresystems.example,Iris,Varga,VP Finance,Willowmere Systems,willowmeresystems.example,USA,+1 555 0161,Customer,SDR Pool,asked for pricing
+tara@indigrovesupply.example,Tara,Ruiz,Senior Accountant,Indigrove Supply,indigrovesupply.example,USA,+1 555 0162,Open,AE West,met at summit
+femi@fernhollowrobotics.example,Femi,Achebe,Revenue Accounting Lead,Fernhollow Robotics,https://www.fernhollowrobotics.example/,Canada,+1 555 0143,Customer,SDR Pool,asked for pricing
+sami.castell@indigroveworks.example,Sami,Castell,CFO,Indigrove Works,https://www.indigroveworks.example/,U.S.,+1 555 0168,Open,AE West,
+jquist@siltmooroutfitters.example,Jonas,Quist,Assistant Controller,Siltmoor Outfitters,https://www.siltmooroutfitters.example/,USA,+1 555 0152,Open,SDR Pool,
+viktor@lumenorlogistics.example,Viktor,Marsh,CFO,Lumenor Logistics,lumenorlogistics.example,Canada,+1 555 0173,Working,AE West,met at summit
+vhale@onyxbrookhealth.example,Viktor,Hale,Assistant Controller,Onyxbrook Health,https://www.onyxbrookhealth.example/,united states,+1 555 0154,Customer,SDR Pool,do not call
+iachebe@cobaltryanalytics.example,Iris,Achebe,Senior Accountant,Cobaltry Analytics,https://www.cobaltryanalytics.example/,USA,+1 555 0131,Working,AE East,met at summit
+lena@larchwickretail.example,Lena,Lund,Head of Finance Operations,Larchwick Retail,WWW.LARCHWICKRETAIL.EXAMPLE,CA,+1 555 0150,Open,SDR Pool,
+Dana@Flintmeresystems.Example,Dana,Hale,Director of FP&A,Flintmere Systems,,CA,+1 555 0143,Customer,AE West,
+dana.ferreira@sablecrestretail.example,Dana,Ferreira,Controller,Sablecrest Retail,sablecrestretail.example,United States,+1 555 0115,Nurture,SDR Pool,
+uma@valefennfreight.example,Uma,Kowal,Assistant Controller,Valefenn Freight,http://valefennfreight.example/about-us,USA,+1 555 0145,Customer,AE East,met at summit
+wen@harborinemanufacturing.example,Wen,Nakamura,Head of Finance Operations,Harborine Manufacturing,harborinemanufacturing.example,CA,+1 555 0131,Disqualified,SDR Pool,do not call
+rdimitrov@quarrifenenergy.example,Rosa,Dimitrov,CFO,Quarrifen Energy,,CA,+1 555 0145,Working,AE West,
+devin.sorensen@rookhollowrobotics.example,Devin,Sorensen,Director of FP&A,Rookhollow Robotics,rookhollowrobotics.example/contact?ref=crm,USA,+1 555 0162,Disqualified,SDR Pool,
+aokafor@saffronbyanalytics.example,Ana,Okafor,Head of Finance Operations,Saffronby Analytics,http://saffronbyanalytics.example/about-us,USA,+1 555 0113,Customer,AE Central,met at summit
+mbrennan@flintmeremanufacturing.example,Mateo,Brennan,Assistant Controller,Flintmere Manufacturing,https://www.flintmeremanufacturing.example/,united states,+1 555 0141,Disqualified,SDR Pool,met at summit
+lenaueda55@freemail.example,Lena,Ueda,Revenue Accounting Lead,Basaltine Supply,basaltinesupply.example,united states,+1 555 0170,Open,AE Central,
+aruiz@slatewickclinics.example,Ana,Ruiz,Assistant Controller,Slatewick Clinics,https://www.slatewickclinics.example/,U.S.,+1 555 0132,Customer,AE West,
+elif@valefennsystems.example,Elif,Jaramillo,VP Finance,Valefenn Systems,valefennsystems.example/contact?ref=crm,Canada,+1 555 0147,Customer,SDR Pool,met at summit
+zoe@siltmoorfoods.example,Zoe,Marsh,CFO,Siltmoor Foods,https://www.siltmoorfoods.example/,United States,+1 555 0157,Nurture,SDR Pool,
+rosa@tamarelpackaging.example,Rosa,Varga,VP Finance,Tamarel Packaging,,United States,+1 555 0142,Working,SDR Pool,do not call
+kai.varga@flintmerefreight.example,Kai,Varga,Assistant Controller,Flintmere Freight,https://www.flintmerefreight.example/,US,+1 555 0158,Customer,SDR Pool,
+ben@onyxbrooklogistics.example,Ben,Toivonen,Senior Accountant,Onyxbrook Logistics,onyxbrooklogistics.example,United States,+1 555 0127,Open,AE Central,do not call
+lquist@sorrelbyfreight.example,Lena,Quist,Assistant Controller,Sorrelby Freight,https://www.sorrelbyfreight.example/,united states,+1 555 0168,Customer,SDR Pool,
+mateo.patel@valefennsystems.example,Mateo,Patel,Finance Director,Valefenn Systems,valefennsystems.example/contact?ref=crm,USA,+1 555 0156,Nurture,AE West,asked for pricing
+iris.varga@driftmoorsystems.example,Iris,Varga,Finance Director,Driftmoor Systems,driftmoorsystems.example,U.S.,+1 555 0137,Open,AE Central,met at summit

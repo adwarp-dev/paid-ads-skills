@@ -1,0 +1,202 @@
+{
+  "_note": "Made-up example. The plan shown for confirmation for Northwind Analytics (fictional), and the Adwarp calls Connected mode would send after a yes. URNs in angle brackets get resolved with search_targeting and list_facet_entities. The seniority and company size URNs follow LinkedIn's reference tables; confirm them with list_facet_entities. Every account, audience, conversion and Page ID is invented.",
+  "status": "waiting: Competitor employees must be re-uploaded and Ready, and the budget decision made, before creation",
+  "brief": {
+    "program": "5-Day Close Guide",
+    "objective": "Website visits",
+    "offer": "The 5-day close guide (12-page PDF, gated by a form)",
+    "landing_page": "https://www.northwind-analytics.example/guides/5-day-close",
+    "locations": [
+      "United States",
+      "Canada"
+    ],
+    "audience": {
+      "job_functions": [
+        "Finance",
+        "Accounting"
+      ],
+      "seniorities": [
+        "Director",
+        "VP",
+        "CXO"
+      ],
+      "company_sizes": [
+        "201-500",
+        "501-1,000",
+        "1,001-5,000"
+      ]
+    },
+    "exclusions": [
+      "Customers - all contacts",
+      "Employees",
+      "Competitor employees"
+    ],
+    "estimate": {
+      "target_audience_size": 137500,
+      "read": "2026-10-20",
+      "from": "Forecasted results pane",
+      "note": "excludes Customers and Employees only; re-read after Competitor employees is added"
+    },
+    "format": "Single image",
+    "ads": 4,
+    "budget": {
+      "cap": 3000,
+      "daily": 107,
+      "flight_total": 2996,
+      "currency": "USD"
+    },
+    "bidding": "Maximum delivery, landing page clicks",
+    "schedule": {
+      "start": "2026-11-03",
+      "end": "2026-11-30",
+      "days": 28,
+      "timezone": "UTC"
+    },
+    "conversion": {
+      "name": "Guide download",
+      "id": "7000101"
+    },
+    "rotation": "Rotate ads evenly",
+    "audience_expansion": "off",
+    "linkedin_audience_network": "off"
+  },
+  "adwarp_calls": [
+    {
+      "tool": "create_campaign_group",
+      "args": {
+        "accountId": "500000123",
+        "name": "5-Day Close Guide | Q4 2026",
+        "status": "DRAFT",
+        "runSchedule": {
+          "start": 1793664000000,
+          "end": 1796083199000
+        }
+      }
+    },
+    {
+      "tool": "create_campaign",
+      "args": {
+        "accountId": "500000123",
+        "campaignGroupId": "<id from create_campaign_group>",
+        "name": "WV | Finance Dir+ 201-5k | US CA | 5-Day Close Guide | Single image",
+        "status": "DRAFT",
+        "type": "SPONSORED_UPDATES",
+        "objectiveType": "WEBSITE_VISIT",
+        "optimizationTargetType": "MAX_CLICK",
+        "costType": "CPM",
+        "dailyBudget": {
+          "amount": "107.00",
+          "currencyCode": "USD"
+        },
+        "runSchedule": {
+          "start": 1793664000000,
+          "end": 1796083199000
+        },
+        "locale": {
+          "country": "US",
+          "language": "en"
+        },
+        "creativeSelection": "ROUND_ROBIN",
+        "targeting": {
+          "include": {
+            "locations": [
+              "urn:li:geo:103644278",
+              "<Canada geo URN>"
+            ],
+            "jobFunctions": [
+              "<Finance function URN>",
+              "<Accounting function URN>"
+            ],
+            "seniorities": [
+              "urn:li:seniority:6",
+              "urn:li:seniority:7",
+              "urn:li:seniority:8"
+            ],
+            "staffCountRanges": [
+              "urn:li:staffCountRange:(201,500)",
+              "urn:li:staffCountRange:(501,1000)",
+              "urn:li:staffCountRange:(1001,5000)"
+            ]
+          },
+          "exclude": {
+            "audienceMatchingSegments": [
+              "urn:li:adSegment:80000001",
+              "urn:li:adSegment:80000002",
+              "urn:li:adSegment:80000003"
+            ]
+          }
+        },
+        "applyDefaultExclusions": false,
+        "conversionIds": [
+          "7000101"
+        ]
+      }
+    },
+    {
+      "tool": "create_image_ad",
+      "args": {
+        "accountId": "500000123",
+        "campaignId": "<id from create_campaign>",
+        "organizationUrn": "urn:li:organization:90000001",
+        "name": "5-Day Close Guide | A outcome",
+        "commentary": "What would your team do with 5 extra days every month? The 5-day close guide lays out the order of work that gets you there.",
+        "headline": "Close the books in 5 days",
+        "callToAction": "DOWNLOAD",
+        "clickUri": "https://www.northwind-analytics.example/guides/5-day-close?utm_source=linkedin&utm_medium=paid_social&utm_campaign=5-day-close-guide-q4-2026&utm_content=outcome",
+        "status": "DRAFT"
+      }
+    },
+    {
+      "tool": "create_image_ad",
+      "args": {
+        "accountId": "500000123",
+        "campaignId": "<id from create_campaign>",
+        "organizationUrn": "urn:li:organization:90000001",
+        "name": "5-Day Close Guide | B checklist",
+        "commentary": "23 month-end close tasks, in the order that saves the most days. Print it, assign owners, run your next close from it.",
+        "headline": "The 23-task month-end close checklist",
+        "callToAction": "DOWNLOAD",
+        "clickUri": "https://www.northwind-analytics.example/guides/5-day-close?utm_source=linkedin&utm_medium=paid_social&utm_campaign=5-day-close-guide-q4-2026&utm_content=checklist",
+        "status": "DRAFT"
+      }
+    },
+    {
+      "tool": "create_image_ad",
+      "args": {
+        "accountId": "500000123",
+        "campaignId": "<id from create_campaign>",
+        "organizationUrn": "urn:li:organization:90000001",
+        "name": "5-Day Close Guide | C peer proof",
+        "commentary": "We asked 40 controllers what they changed to close faster. Their answers fit in 12 pages you can read before Friday.",
+        "headline": "What 40 controllers changed to close faster",
+        "callToAction": "DOWNLOAD",
+        "clickUri": "https://www.northwind-analytics.example/guides/5-day-close?utm_source=linkedin&utm_medium=paid_social&utm_campaign=5-day-close-guide-q4-2026&utm_content=peer-proof",
+        "status": "DRAFT"
+      }
+    },
+    {
+      "tool": "create_image_ad",
+      "args": {
+        "accountId": "500000123",
+        "campaignId": "<id from create_campaign>",
+        "organizationUrn": "urn:li:organization:90000001",
+        "name": "5-Day Close Guide | D template",
+        "commentary": "Copy a close calendar your team can use this month: who does what on day 1 through day 5, ready to edit.",
+        "headline": "A close calendar template for days 1 to 5",
+        "callToAction": "DOWNLOAD",
+        "clickUri": "https://www.northwind-analytics.example/guides/5-day-close?utm_source=linkedin&utm_medium=paid_social&utm_campaign=5-day-close-guide-q4-2026&utm_content=template",
+        "status": "DRAFT"
+      }
+    },
+    {
+      "tool": "log_ad_change",
+      "args": {
+        "entityType": "campaign",
+        "entityId": "<id from create_campaign>",
+        "name": "WV | Finance Dir+ 201-5k | US CA | 5-Day Close Guide | Single image",
+        "note": "Launched as draft",
+        "label": "5-day close guide: which of 4 angles earns the highest landing page CTR"
+      }
+    }
+  ]
+}

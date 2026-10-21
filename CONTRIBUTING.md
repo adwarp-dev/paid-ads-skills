@@ -41,7 +41,7 @@ Directories like marketingskills.sh score skills on insight, objectivity, action
 ## House rules
 
 - Never put real account data in a skill or example. Example data is made up and says so.
-- Plain words. No em dashes. Numbers as digits.
+- Plain words. No em dashes. Numbers as digits. Write "default" in lowercase, or reword ("14 by default"): adwarp.dev renders every skill, and its site check rejects the word with a capital D.
 - Read-only by default. A change happens only after the user confirms the exact change, and only through a tool that creates drafts or paused entities.
 - Keep each `SKILL.md` under about 500 lines. Move long playbooks into `references/`.
 
@@ -51,7 +51,10 @@ Run the skill on the made-up data in `examples/` in at least 1 agent (Claude Cod
 
 ```bash
 node scripts/check-skills.mjs
+node scripts/build-readmes.mjs
 ```
+
+The second command writes the `README.md` in each skill folder from its `SKILL.md`, so GitHub shows a summary on the folder page. Don't edit those READMEs by hand; CI fails when one is out of date.
 
 ## Pull requests
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Checks every skill folder against CONTRIBUTING.md: frontmatter, required sections, plugin and README listings,
-// and the house rule against em dashes in any Markdown file. Exits 1 with a list of problems, 0 when clean.
+// and the house rules against em dashes and a capitalized "Default" in any Markdown file. Exits 1 with a list of
+// problems, 0 when clean.
 
 import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
@@ -79,7 +80,8 @@ for (const name of skills) {
 const missing = [...listed].filter((name) => !skills.includes(name));
 if (missing.length) console.warn(`Listed but not in skills/ yet: ${missing.join(", ")}`);
 
-// No em dashes in any Markdown file.
+// No em dashes in any Markdown file, and no capitalized "Default": adwarp.dev renders the skills and its site check
+// rejects that word, so write "default" or reword ("14 by default").
 function walk(dir) {
   for (const entry of readdirSync(dir)) {
     if (entry === ".git" || entry === "node_modules") continue;
@@ -88,6 +90,7 @@ function walk(dir) {
     else if (p.endsWith(".md")) {
       readFileSync(p, "utf8").split("\n").forEach((line, i) => {
         if (line.includes("—")) fail(`${relative(root, p)}:${i + 1}: em dash`);
+        if (/\bDefault\b|\bDEFAULT\b/.test(line)) fail(`${relative(root, p)}:${i + 1}: capitalized "Default"`);
       });
     }
   }

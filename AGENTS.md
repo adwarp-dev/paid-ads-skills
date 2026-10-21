@@ -8,4 +8,4 @@ When a request matches a skill's description, read that skill's `SKILL.md` and f
 - Never change an ad account without showing the exact change and getting the user's confirmation first.
 - Data under `examples/` is made up. Use it for trying a skill out, never as a benchmark.
 
-When editing this repo, follow [CONTRIBUTING.md](CONTRIBUTING.md) and run `node scripts/check-skills.mjs` before committing.
+When editing this repo, follow [CONTRIBUTING.md](CONTRIBUTING.md) and run `node scripts/check-skills.mjs` and `node scripts/build-readmes.mjs` before committing.

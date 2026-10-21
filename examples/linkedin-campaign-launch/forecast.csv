@@ -1,0 +1,6 @@
+# Made-up example data for linkedin-campaign-launch. Northwind Analytics is fictional and no estimate is a real LinkedIn count. Target audience size read from the Forecasted results pane on 2026-10-20 after each step.
+step,change,target_audience_size
+1,Location: United States OR Canada; AND Job function: Finance OR Accounting,4350000
+2,AND Seniority: Director OR VP OR CXO,505000
+3,"AND Company size: 201-500 OR 501-1,000 OR 1,001-5,000",141000
+4,"Exclude: Customers - all contacts, Employees (Competitor employees is Expired and can't be added)",137500

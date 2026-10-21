@@ -1,0 +1,26 @@
+{
+  "_note": "Made-up example. Northwind Analytics is fictional, and every ID and URN below is invented.",
+  "saved": "2026-10-20",
+  "ad_account_id": "500000123",
+  "currency": "USD",
+  "organization_urn": "urn:li:organization:90000001",
+  "default_locations": ["United States", "Canada"],
+  "language": "en",
+  "exclusion_audiences": [
+    { "name": "Customers - all contacts", "kind": "contact list", "facet": "audienceMatchingSegments", "urn": "urn:li:adSegment:80000001" },
+    { "name": "Employees", "kind": "contact list", "facet": "audienceMatchingSegments", "urn": "urn:li:adSegment:80000002" },
+    { "name": "Competitor employees", "kind": "company list", "facet": "audienceMatchingSegments", "urn": "urn:li:adSegment:80000003" }
+  ],
+  "conversions": [
+    { "name": "Guide download", "id": "7000101", "use_for": "content offers" },
+    { "name": "Demo request", "id": "7000102", "use_for": "demo offers" }
+  ],
+  "naming": {
+    "campaign": "{program} | {quarter}",
+    "ad_set": "{objective} | {audience} | {geo} | {program} | {format}",
+    "ad": "{program} | {angle}"
+  },
+  "utm_template": "utm_source=linkedin&utm_medium=paid_social&utm_campaign={campaign_slug}&utm_content={ad_slug}",
+  "audience_network": "off",
+  "rotation": "optimize unless comparing angles"
+}

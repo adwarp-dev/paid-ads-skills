@@ -14,3 +14,4 @@ jobs:
         with:
           node-version: 20
       - run: node scripts/check-skills.mjs
+      - run: node scripts/build-readmes.mjs --check

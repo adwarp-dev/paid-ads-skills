@@ -20,14 +20,19 @@
       "skills": [
         "./skills/linkedin-ads-audit",
         "./skills/linkedin-ads-performance-review",
+        "./skills/linkedin-ads-spend-analysis",
+        "./skills/linkedin-ads-lead-drivers",
         "./skills/linkedin-ads-pause-rules",
         "./skills/linkedin-audience-sizing",
+        "./skills/linkedin-audience-ops",
         "./skills/linkedin-abm-builder",
+        "./skills/linkedin-campaign-launch",
         "./skills/linkedin-ad-library-teardown",
         "./skills/google-ads-account-audit",
         "./skills/google-ads-search-campaign-builder",
         "./skills/google-ads-search-terms",
         "./skills/paid-media-weekly-report",
+        "./skills/paid-media-health-check",
         "./skills/ad-experiment-lift",
         "./skills/ad-budget-pacing"
       ]

@@ -15,7 +15,7 @@ Conversion action: Demo request | Max CPC: $12.00
 | Locations | United States, people in the area (presence) | Adwarp default; Google recommends presence or interest, which suits businesses people travel to |
 | Bidding | Manual CPC, $6.13 campaign default, set per ad group below | Adwarp default until about 30 conversions in 30 days, then test Maximize conversions or Target CPA |
 | AI Max | Off | Adwarp does not set it |
-| Ad schedule | All hours and days | Default until the data says otherwise |
+| Ad schedule | All hours and days | Keep until the data says otherwise |
 | Status | Paused | Adwarp creates everything paused |
 
 ## Research

@@ -1,0 +1,607 @@
+Ad Set Performance Report (in UTC)
+"Report Start: 8/21/2026, 12:00 AM"
+"Report End: 10/19/2026, 11:59 PM"
+"Date Generated: 10/20/2026, 8:41 AM"
+"Account Name: Northwind Analytics (made-up example data, not a real account)"
+
+Start Date (in UTC),Account Name,Currency,Campaign Name,Campaign ID,Ad Set Name,Ad Set ID,Ad Set Status,Ad Set Objective,Cost Type,Daily Budget,Total Spent,Impressions,Clicks,Click Through Rate,Average CPM,Average CPC,Landing Page Clicks,Conversions,Post-Click Conversions,View-Through Conversions,Leads,Lead Form Opens
+8/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,137.16,2210,16,0.0072,62.06,8.57,16,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,115.64,1692,9,0.0053,68.35,12.85,8,1,1,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,78.66,958,10,0.0104,82.11,7.87,7,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,89.59,1491,12,0.0080,60.09,7.47,0,0,0,0,2,8
+8/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,67.82,1448,18,0.0124,46.84,3.77,17,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,76.00,1102,7,0.0064,68.97,10.86,8,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,23.86,279,2,0.0072,85.52,11.93,0,0,0,0,0,1
+8/21/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,42.03,602,5,0.0083,69.82,8.41,5,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,50.47,444,4,0.0090,113.67,12.62,2,0,0,0,0,0
+8/21/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,36.73,337,3,0.0089,108.99,12.24,1,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,152.75,2461,19,0.0077,62.07,8.04,16,1,0,1,0,0
+8/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,101.40,1484,7,0.0047,68.33,14.49,7,1,1,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,62.76,764,6,0.0079,82.15,10.46,6,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,93.49,1553,12,0.0077,60.20,7.79,0,0,0,0,1,10
+8/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,66.27,1415,17,0.0120,46.83,3.90,16,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,75.33,1091,6,0.0055,69.05,12.55,6,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,23.54,277,2,0.0072,84.98,11.77,0,0,0,0,0,1
+8/22/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.92,759,7,0.0092,69.72,7.56,5,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,60.11,529,3,0.0057,113.63,20.04,3,0,0,0,0,0
+8/22/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,27.82,255,3,0.0118,109.10,9.27,1,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,155.04,2500,18,0.0072,62.02,8.61,17,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.44,1615,10,0.0062,68.38,11.04,7,1,0,1,0,0
+8/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,68.04,828,8,0.0097,82.17,8.51,6,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,94.43,1571,12,0.0076,60.11,7.87,0,0,0,0,1,8
+8/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.48,1206,15,0.0124,46.83,3.77,14,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,73.45,1064,6,0.0056,69.03,12.24,8,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,24.54,287,2,0.0070,85.51,12.27,0,0,0,0,1,2
+8/23/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.53,708,5,0.0071,69.96,9.91,5,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,54.03,476,4,0.0084,113.51,13.51,3,0,0,0,0,0
+8/23/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.25,277,1,0.0036,109.21,30.25,1,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,164.64,2654,19,0.0072,62.03,8.67,18,2,2,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,130.05,1902,11,0.0058,68.38,11.82,9,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,71.83,874,7,0.0080,82.19,10.26,7,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,91.56,1523,11,0.0072,60.12,8.32,0,0,0,0,1,8
+8/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,65.10,1391,16,0.0115,46.80,4.07,16,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,95.37,1383,8,0.0058,68.96,11.92,8,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.99,268,3,0.0112,85.78,7.66,0,0,0,0,0,2
+8/24/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.17,746,6,0.0080,69.93,8.70,7,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.79,500,5,0.0100,113.58,11.36,4,0,0,0,0,0
+8/24/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,36.50,335,2,0.0060,108.96,18.25,3,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,162.12,2612,20,0.0077,62.07,8.11,18,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,108.05,1581,8,0.0051,68.34,13.51,8,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,64.12,782,6,0.0077,81.99,10.69,7,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,95.51,1587,12,0.0076,60.18,7.96,0,0,0,0,1,9
+8/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,58.51,1249,16,0.0128,46.85,3.66,14,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,96.64,1400,8,0.0057,69.03,12.08,10,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,23.42,273,2,0.0073,85.79,11.71,0,0,0,0,0,1
+8/25/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,45.17,646,4,0.0062,69.92,11.29,4,0,0,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.64,456,4,0.0088,113.25,12.91,4,1,1,0,0,0
+8/25/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,29.58,273,1,0.0037,108.35,29.58,1,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,145.12,2338,17,0.0073,62.07,8.54,16,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,131.62,1925,10,0.0052,68.37,13.16,9,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,78.94,960,11,0.0115,82.23,7.18,7,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,102.39,1701,14,0.0082,60.19,7.31,0,0,0,0,1,11
+8/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.28,1203,15,0.0125,46.78,3.75,13,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.69,1271,9,0.0071,68.99,9.74,7,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.84,243,2,0.0082,85.76,10.42,0,0,0,0,0,2
+8/26/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.52,767,7,0.0091,69.78,7.65,6,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,47.80,422,4,0.0095,113.27,11.95,3,0,0,0,0,0
+8/26/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,28.85,265,2,0.0075,108.87,14.43,2,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,130.48,2102,16,0.0076,62.07,8.15,14,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,131.44,1922,10,0.0052,68.39,13.14,12,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,61.70,750,6,0.0080,82.27,10.28,6,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.60,1638,14,0.0085,60.20,7.04,0,0,0,0,1,9
+8/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,52.69,1125,13,0.0116,46.84,4.05,13,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.80,1272,8,0.0063,69.03,10.97,9,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.57,241,4,0.0166,85.35,5.14,0,0,0,0,0,1
+8/27/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,44.57,638,5,0.0078,69.86,8.91,6,1,0,1,0,0
+8/27/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,59.90,528,3,0.0057,113.45,19.97,4,0,0,0,0,0
+8/27/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,28.45,261,1,0.0038,109.00,28.45,1,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,123.87,1996,15,0.0075,62.06,8.26,13,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,117.43,1717,9,0.0052,68.39,13.05,8,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,63.07,768,7,0.0091,82.12,9.01,6,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,106.69,1773,13,0.0073,60.17,8.21,0,0,0,0,1,10
+8/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,52.44,1122,13,0.0116,46.74,4.03,13,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,84.53,1225,9,0.0073,69.00,9.39,7,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.04,234,3,0.0128,85.64,6.68,0,0,0,0,0,1
+8/28/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,55.15,789,6,0.0076,69.90,9.19,6,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,47.97,423,3,0.0071,113.40,15.99,3,0,0,0,0,0
+8/28/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.77,328,2,0.0061,109.05,17.89,4,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,141.99,2288,16,0.0070,62.06,8.87,15,2,2,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,124.69,1823,10,0.0055,68.40,12.47,8,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,71.85,875,7,0.0080,82.11,10.26,8,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,92.80,1543,14,0.0091,60.14,6.63,0,0,0,0,1,8
+8/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,63.49,1356,19,0.0140,46.82,3.34,16,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,75.98,1101,7,0.0064,69.01,10.85,6,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.21,249,2,0.0080,85.18,10.61,0,0,0,0,0,1
+8/29/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.24,677,5,0.0074,69.78,9.45,4,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,62.57,552,3,0.0054,113.35,20.86,4,0,0,0,0,0
+8/29/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.19,314,2,0.0064,108.89,17.09,1,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,149.43,2408,18,0.0075,62.06,8.30,17,1,1,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,114.04,1669,10,0.0060,68.33,11.40,8,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,61.04,742,6,0.0081,82.26,10.17,6,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,104.11,1732,15,0.0087,60.11,6.94,0,0,0,0,1,9
+8/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,50.98,1090,14,0.0128,46.77,3.64,12,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,89.98,1304,8,0.0061,69.00,11.25,8,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.52,239,3,0.0126,85.86,6.84,0,0,0,0,0,1
+8/30/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,48.14,689,7,0.0102,69.87,6.88,6,2,2,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,47.16,416,2,0.0048,113.37,23.58,2,0,0,0,0,0
+8/30/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,29.49,270,1,0.0037,109.22,29.49,3,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,162.65,2622,19,0.0072,62.03,8.56,18,3,2,1,0,0
+8/31/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.36,1614,8,0.0050,68.38,13.79,8,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,72.18,877,7,0.0080,82.30,10.31,8,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.79,1608,13,0.0081,60.19,7.45,0,0,0,0,1,10
+8/31/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.74,1318,17,0.0129,46.84,3.63,15,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,73.45,1064,6,0.0056,69.03,12.24,6,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.94,245,2,0.0082,85.47,10.47,0,0,0,0,1,2
+8/31/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,46.19,661,5,0.0076,69.88,9.24,4,1,1,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,49.91,439,3,0.0068,113.69,16.64,2,0,0,0,0,0
+8/31/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.30,315,2,0.0063,108.89,17.15,3,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,132.20,2130,15,0.0070,62.07,8.81,14,1,1,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,114.16,1669,10,0.0060,68.40,11.42,8,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,68.80,836,8,0.0096,82.30,8.60,8,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,104.23,1733,14,0.0081,60.14,7.45,0,0,0,0,1,9
+9/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.34,1203,14,0.0116,46.83,4.02,13,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,86.58,1254,8,0.0064,69.04,10.82,7,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.56,228,2,0.0088,85.79,9.78,0,0,0,0,1,1
+9/1/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,46.75,670,5,0.0075,69.78,9.35,5,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,52.19,459,3,0.0065,113.70,17.40,3,0,0,0,0,0
+9/1/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,27.64,253,1,0.0040,109.25,27.64,1,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,161.88,2609,20,0.0077,62.05,8.09,17,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.94,1623,8,0.0049,68.35,13.87,8,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,74.07,900,9,0.0100,82.30,8.23,8,1,1,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,105.10,1746,14,0.0080,60.19,7.51,0,0,0,0,1,9
+9/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.02,1305,15,0.0115,46.76,4.07,14,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.48,1267,8,0.0063,69.04,10.94,7,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,24.61,287,2,0.0070,85.75,12.30,0,0,0,0,0,1
+9/2/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,54.89,786,7,0.0089,69.83,7.84,5,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,48.07,424,4,0.0094,113.37,12.02,2,0,0,0,0,0
+9/2/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.01,294,1,0.0034,108.88,32.01,1,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,163.79,2640,19,0.0072,62.04,8.62,19,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,123.66,1808,9,0.0050,68.40,13.74,9,1,0,1,0,0
+9/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,79.66,969,9,0.0093,82.21,8.85,8,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,80.80,1342,10,0.0075,60.21,8.08,0,0,0,0,3,7
+9/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,50.72,1083,13,0.0120,46.83,3.90,13,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,94.42,1369,9,0.0066,68.97,10.49,8,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.41,251,2,0.0080,85.30,10.71,0,0,0,0,0,1
+9/3/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.63,724,5,0.0069,69.93,10.13,5,1,1,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,50.05,442,3,0.0068,113.24,16.68,2,0,0,0,0,0
+9/3/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.50,307,2,0.0065,109.12,16.75,1,1,1,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,133.70,2154,15,0.0070,62.07,8.91,14,1,0,1,0,0
+9/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.14,1611,9,0.0056,68.37,12.24,7,0,0,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,60.52,737,6,0.0081,82.12,10.09,6,0,0,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,88.79,1475,12,0.0081,60.20,7.40,0,0,0,0,1,8
+9/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,67.78,1448,18,0.0124,46.81,3.77,17,0,0,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,97.81,1417,10,0.0071,69.03,9.78,10,0,0,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.28,261,3,0.0115,85.36,7.43,0,0,0,0,0,2
+9/4/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.85,685,5,0.0073,69.85,9.57,4,0,0,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,59.42,523,3,0.0057,113.61,19.81,3,1,1,0,0,0
+9/4/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.96,322,3,0.0093,108.57,11.65,1,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,143.53,2314,17,0.0073,62.03,8.44,15,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,109.29,1598,9,0.0056,68.39,12.14,7,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,73.05,888,9,0.0101,82.26,8.12,7,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.22,1601,12,0.0075,60.10,8.02,0,0,0,0,1,8
+9/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.35,1290,15,0.0116,46.78,4.02,14,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,92.06,1335,10,0.0075,68.96,9.21,8,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.99,245,2,0.0082,85.67,10.49,0,0,0,0,0,1
+9/5/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.17,718,6,0.0084,69.87,8.36,5,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,60.10,529,3,0.0057,113.61,20.03,3,0,0,0,0,0
+9/5/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,31.70,291,1,0.0034,108.93,31.70,1,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,127.97,2062,15,0.0073,62.06,8.53,15,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,120.24,1758,10,0.0057,68.40,12.02,8,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,63.92,777,6,0.0077,82.27,10.65,6,1,1,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,104.57,1737,13,0.0075,60.20,8.04,0,0,0,0,1,9
+9/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.06,1283,15,0.0117,46.81,4.00,16,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,81.62,1182,7,0.0059,69.05,11.66,6,1,1,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.36,238,4,0.0168,85.55,5.09,0,0,0,0,1,1
+9/6/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,45.34,649,4,0.0062,69.86,11.34,4,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,50.39,444,3,0.0068,113.49,16.80,2,0,0,0,0,0
+9/6/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.44,298,1,0.0034,108.86,32.44,1,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,150.04,2417,17,0.0070,62.08,8.83,17,1,1,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,100.47,1469,8,0.0054,68.39,12.56,7,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,76.57,931,8,0.0086,82.24,9.57,7,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,97.94,1628,12,0.0074,60.16,8.16,0,0,0,0,1,10
+9/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.00,1305,15,0.0115,46.74,4.07,15,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,80.43,1166,8,0.0069,68.98,10.05,6,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.45,263,2,0.0076,85.36,11.22,0,0,0,0,0,1
+9/7/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,46.35,663,5,0.0075,69.91,9.27,4,0,0,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,52.20,459,4,0.0087,113.73,13.05,4,1,1,0,0,0
+9/7/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.64,309,2,0.0065,108.87,16.82,1,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,142.85,2302,18,0.0078,62.05,7.94,17,1,1,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,119.36,1746,9,0.0052,68.36,13.26,9,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,78.91,960,8,0.0083,82.20,9.86,7,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.92,1643,13,0.0079,60.21,7.61,0,0,0,0,1,9
+9/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,53.01,1133,13,0.0115,46.79,4.08,14,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,97.50,1413,8,0.0057,69.00,12.19,9,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.73,242,2,0.0083,85.66,10.37,0,0,0,0,0,2
+9/8/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.84,770,5,0.0065,69.92,10.77,5,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,49.47,436,4,0.0092,113.46,12.37,3,0,0,0,0,0
+9/8/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,28.41,260,1,0.0038,109.27,28.41,4,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,123.78,1994,14,0.0070,62.08,8.84,14,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,100.20,1465,8,0.0055,68.40,12.53,7,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,60.00,729,6,0.0082,82.30,10.00,5,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,99.61,1656,13,0.0079,60.15,7.66,0,0,0,0,1,9
+9/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,63.67,1360,16,0.0118,46.82,3.98,15,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,99.10,1436,9,0.0063,69.01,11.01,8,0,0,0,0,0
+9/9/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.56,228,3,0.0132,85.79,6.52,0,0,0,0,0,1
+9/9/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,41.74,597,4,0.0067,69.92,10.44,5,1,0,1,0,0
+9/9/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,61.70,545,3,0.0055,113.21,20.57,3,1,0,1,0,0
+9/9/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,36.06,331,3,0.0091,108.94,12.02,3,0,0,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,165.00,2660,19,0.0071,62.03,8.68,19,1,1,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,127.34,1863,9,0.0048,68.35,14.15,10,1,1,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,62.08,755,6,0.0079,82.23,10.35,7,1,1,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,88.02,1463,11,0.0075,60.16,8.00,0,0,0,0,1,8
+9/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.39,1290,16,0.0124,46.81,3.77,15,0,0,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,80.18,1162,8,0.0069,69.00,10.02,6,0,0,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.36,238,2,0.0084,85.55,10.18,0,0,0,0,2,2
+9/10/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.91,714,5,0.0070,69.90,9.98,5,0,0,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,53.06,469,4,0.0085,113.13,13.27,3,0,0,0,0,0
+9/10/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,27.50,253,2,0.0079,108.70,13.75,4,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,136.12,2194,16,0.0073,62.04,8.51,15,2,2,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,114.85,1680,8,0.0048,68.36,14.36,10,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,73.94,899,10,0.0111,82.25,7.39,9,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,102.20,1700,14,0.0082,60.12,7.30,0,0,0,0,1,10
+9/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,52.39,1119,13,0.0116,46.82,4.03,12,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,79.96,1159,7,0.0060,68.99,11.42,6,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.66,241,2,0.0083,85.73,10.33,0,0,0,0,0,1
+9/11/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,44.26,633,4,0.0063,69.92,11.06,4,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,47.48,418,5,0.0120,113.59,9.50,4,0,0,0,0,0
+9/11/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.81,302,3,0.0099,108.64,10.94,2,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,151.57,2445,21,0.0086,61.99,7.22,16,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,120.60,1765,11,0.0062,68.33,10.96,8,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,72.84,887,8,0.0090,82.12,9.11,7,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.78,1642,12,0.0073,60.16,8.23,0,0,0,0,1,11
+9/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,55.29,1181,15,0.0127,46.82,3.69,14,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,93.10,1350,8,0.0059,68.96,11.64,7,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.35,238,3,0.0126,85.50,6.78,0,0,0,0,0,1
+9/12/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,42.20,604,4,0.0066,69.87,10.55,4,1,0,1,0,0
+9/12/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,58.14,513,3,0.0058,113.33,19.38,5,0,0,0,0,0
+9/12/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.43,325,2,0.0062,109.02,17.71,1,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,131.66,2121,16,0.0075,62.07,8.23,14,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,124.70,1825,10,0.0055,68.33,12.47,8,1,1,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,63.29,769,6,0.0078,82.30,10.55,7,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.85,1642,12,0.0073,60.20,8.24,0,0,0,0,1,9
+9/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,52.06,1113,14,0.0126,46.77,3.72,12,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,73.92,1071,6,0.0056,69.02,12.32,6,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.42,238,3,0.0126,85.80,6.81,0,0,0,0,0,2
+9/13/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.22,706,7,0.0099,69.72,7.03,4,1,0,1,0,0
+9/13/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,47.27,416,2,0.0048,113.63,23.64,2,0,0,0,0,0
+9/13/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.62,309,3,0.0097,108.80,11.21,1,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,144.38,2326,17,0.0073,62.07,8.49,18,2,2,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,128.24,1875,9,0.0048,68.39,14.25,12,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,74.89,910,8,0.0088,82.30,9.36,9,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,106.13,1763,14,0.0079,60.20,7.58,0,0,0,0,1,9
+9/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,51.53,1100,13,0.0118,46.85,3.96,14,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,88.81,1286,9,0.0070,69.06,9.87,8,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.68,244,2,0.0082,84.75,10.34,0,0,0,0,0,1
+9/14/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.66,754,5,0.0066,69.84,10.53,5,2,0,2,0,0
+9/14/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,55.91,493,3,0.0061,113.41,18.64,4,0,0,0,0,0
+9/14/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.03,304,1,0.0033,108.65,33.03,2,1,1,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,165.16,2661,20,0.0075,62.07,8.26,18,3,1,2,0,0
+9/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,123.70,1809,9,0.0050,68.38,13.74,8,1,1,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,70.11,852,8,0.0094,82.29,8.76,6,1,1,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,104.25,1733,14,0.0081,60.16,7.45,0,0,0,0,1,10
+9/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,67.36,1439,17,0.0118,46.81,3.96,18,0,0,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,83.17,1205,7,0.0058,69.02,11.88,7,0,0,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.39,239,4,0.0167,85.31,5.10,0,0,0,0,0,4
+9/15/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.32,720,6,0.0083,69.89,8.39,5,1,0,1,0,0
+9/15/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,50.00,441,3,0.0068,113.38,16.67,2,0,0,0,0,0
+9/15/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.70,318,3,0.0094,109.12,11.57,2,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,134.06,2160,16,0.0074,62.06,8.38,15,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.92,1622,8,0.0049,68.38,13.87,9,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,72.93,887,8,0.0090,82.22,9.12,7,1,0,1,0,0
+9/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,104.13,1730,14,0.0081,60.19,7.44,0,0,0,0,3,11
+9/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.17,1306,15,0.0115,46.84,4.08,14,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,76.21,1107,7,0.0063,68.84,10.89,6,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,25.78,302,6,0.0199,85.36,4.30,0,0,0,0,0,1
+9/16/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,45.27,648,4,0.0062,69.86,11.32,4,1,1,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.16,450,3,0.0067,113.69,17.05,4,0,0,0,0,0
+9/16/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,36.54,335,3,0.0090,109.07,12.18,2,0,0,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,126.17,2033,18,0.0089,62.06,7.01,13,2,1,1,0,0
+9/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,106.46,1557,8,0.0051,68.38,13.31,7,1,1,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,61.68,750,6,0.0080,82.24,10.28,6,0,0,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,79.93,1328,10,0.0075,60.19,7.99,0,0,0,0,1,8
+9/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,54.38,1162,14,0.0120,46.80,3.88,13,0,0,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,84.69,1227,8,0.0065,69.02,10.59,7,0,0,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.62,252,2,0.0079,85.79,10.81,0,0,0,0,0,1
+9/17/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.89,716,7,0.0098,69.68,7.13,5,1,1,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.91,457,3,0.0066,113.59,17.30,3,1,1,0,0,0
+9/17/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.18,324,3,0.0093,108.58,11.73,1,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,135.25,2179,16,0.0073,62.07,8.45,14,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,102.08,1494,7,0.0047,68.33,14.58,7,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,75.15,915,8,0.0087,82.13,9.39,7,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,83.30,1384,11,0.0079,60.19,7.57,0,0,0,0,2,7
+9/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,55.25,1180,15,0.0127,46.82,3.68,14,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,78.89,1143,8,0.0070,69.02,9.86,7,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,24.60,288,3,0.0104,85.42,8.20,0,0,0,0,0,1
+9/18/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.77,726,5,0.0069,69.93,10.15,5,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.76,500,3,0.0060,113.52,18.92,5,0,0,0,0,0
+9/18/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.46,310,2,0.0065,107.94,16.73,2,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,155.64,2508,18,0.0072,62.06,8.65,18,2,2,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,117.49,1719,9,0.0052,68.35,13.05,8,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,63.40,771,8,0.0104,82.23,7.92,6,1,1,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,92.27,1534,13,0.0085,60.15,7.10,0,0,0,0,2,9
+9/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,64.43,1377,16,0.0116,46.79,4.03,15,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.85,1274,9,0.0071,68.96,9.76,7,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.72,242,2,0.0083,85.62,10.36,0,0,0,0,0,1
+9/19/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,51.31,735,5,0.0068,69.81,10.26,7,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.37,497,4,0.0080,113.42,14.09,3,0,0,0,0,0
+9/19/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.44,325,2,0.0062,109.05,17.72,1,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,136.68,2266,14,0.0062,60.32,9.76,18,1,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,148.56,2130,11,0.0052,69.75,13.51,9,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,64.33,791,7,0.0088,81.33,9.19,5,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,99.49,1681,14,0.0083,59.19,7.11,0,0,0,0,1,12
+9/20/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,55.70,1202,15,0.0125,46.34,3.71,14,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,92.67,1338,7,0.0052,69.26,13.24,9,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.68,220,1,0.0045,84.91,18.68,0,0,0,0,0,1
+9/20/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,45.65,666,5,0.0075,68.54,9.13,3,1,1,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,58.67,516,3,0.0058,113.70,19.56,6,0,0,0,0,0
+9/20/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.04,296,2,0.0068,108.24,16.02,3,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,153.67,2544,16,0.0063,60.40,9.60,15,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,140.76,2016,10,0.0050,69.82,14.08,9,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,63.11,774,6,0.0078,81.54,10.52,8,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,99.19,1679,15,0.0089,59.08,6.61,0,0,0,0,2,7
+9/21/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.03,1320,15,0.0114,46.23,4.07,15,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,86.89,1266,9,0.0071,68.63,9.65,8,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.71,222,2,0.0090,84.28,9.36,0,0,0,0,0,1
+9/21/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,46.85,685,5,0.0073,68.39,9.37,4,1,0,1,0,0
+9/21/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,53.65,470,4,0.0085,114.15,13.41,2,0,0,0,0,0
+9/21/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.25,308,4,0.0130,107.95,8.31,2,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,146.38,2425,15,0.0062,60.36,9.76,16,1,0,1,0,0
+9/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,139.29,1997,9,0.0045,69.75,15.48,8,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,59.58,731,11,0.0150,81.50,5.42,8,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.44,1627,11,0.0068,59.27,8.77,0,0,0,0,1,11
+9/22/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,54.71,1180,13,0.0110,46.36,4.21,14,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,89.36,1290,8,0.0062,69.27,11.17,9,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.47,240,3,0.0125,85.29,6.82,0,0,0,0,1,1
+9/22/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,51.38,750,5,0.0067,68.51,10.28,4,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,55.16,485,3,0.0062,113.73,18.39,2,0,0,0,0,0
+9/22/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.04,278,2,0.0072,108.06,15.02,1,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,141.58,2338,15,0.0064,60.56,9.44,14,3,2,1,0,0
+9/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,142.93,2049,13,0.0063,69.76,10.99,9,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,62.03,761,6,0.0079,81.51,10.34,6,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,94.69,1599,11,0.0069,59.22,8.61,0,0,0,0,2,9
+9/23/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,59.72,1291,16,0.0124,46.26,3.73,15,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,89.19,1296,11,0.0085,68.82,8.11,7,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.95,224,1,0.0045,84.60,18.95,0,0,0,0,0,2
+9/23/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,48.38,706,5,0.0071,68.53,9.68,4,1,0,1,0,0
+9/23/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,52.16,456,2,0.0044,114.39,26.08,4,0,0,0,0,0
+9/23/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.30,280,1,0.0036,108.21,30.30,2,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,147.59,2443,15,0.0061,60.41,9.84,15,1,1,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,153.29,2195,9,0.0041,69.84,17.03,11,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,59.84,736,7,0.0095,81.30,8.55,6,1,1,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,101.04,1706,13,0.0076,59.23,7.77,0,0,0,0,0,11
+9/24/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.35,1215,17,0.0140,46.38,3.31,16,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,78.18,1137,7,0.0062,68.76,11.17,6,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.55,265,3,0.0113,85.09,7.52,0,0,0,0,0,3
+9/24/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.86,727,8,0.0110,68.58,6.23,5,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,50.19,443,5,0.0113,113.30,10.04,2,0,0,0,0,0
+9/24/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.09,297,2,0.0067,108.05,16.05,2,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,152.38,2522,15,0.0059,60.42,10.16,15,1,1,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,133.39,1910,10,0.0052,69.84,13.34,7,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,53.48,660,8,0.0121,81.03,6.68,6,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,106.79,1806,14,0.0078,59.13,7.63,0,0,0,0,0,11
+9/25/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,54.91,1184,14,0.0118,46.38,3.92,13,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,88.39,1293,10,0.0077,68.36,8.84,7,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.34,251,3,0.0120,85.02,7.11,0,0,0,0,0,1
+9/25/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.73,784,6,0.0077,68.53,8.96,6,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.51,453,3,0.0066,113.71,17.17,3,0,0,0,0,0
+9/25/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.51,330,2,0.0061,107.61,17.75,2,0,0,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,148.71,2456,17,0.0069,60.55,8.75,16,1,1,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.38,1566,8,0.0051,70.49,13.80,8,0,0,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,57.98,714,6,0.0084,81.20,9.66,5,1,1,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,105.42,1782,15,0.0084,59.16,7.03,0,0,0,0,4,11
+9/26/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,63.82,1375,19,0.0138,46.41,3.36,18,0,0,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,85.23,1239,7,0.0056,68.79,12.18,9,0,0,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.51,242,1,0.0041,84.75,20.51,0,0,0,0,0,2
+9/26/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,45.81,669,4,0.0060,68.48,11.45,4,1,1,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,53.84,472,3,0.0064,114.07,17.95,3,0,0,0,0,0
+9/26/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.55,301,2,0.0066,108.14,16.27,1,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,147.67,2439,17,0.0070,60.55,8.69,20,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,108.62,1542,6,0.0039,70.44,18.10,8,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,60.96,751,8,0.0107,81.17,7.62,6,1,1,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,89.36,1511,13,0.0086,59.14,6.87,0,0,0,0,0,8
+9/27/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,59.08,1276,15,0.0118,46.30,3.94,14,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,90.04,1304,9,0.0069,69.05,10.00,11,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.27,240,1,0.0042,84.46,20.27,0,0,0,0,0,1
+9/27/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.43,735,5,0.0068,68.61,10.09,4,1,0,1,0,0
+9/27/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.94,457,3,0.0066,113.65,17.31,2,0,0,0,0,0
+9/27/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.21,317,2,0.0063,107.92,17.11,1,0,0,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,145.91,2418,17,0.0070,60.34,8.58,13,1,1,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,112.90,1600,8,0.0050,70.56,14.11,7,1,1,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,44.54,546,5,0.0092,81.58,8.91,3,0,0,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.19,1658,14,0.0084,59.22,7.01,0,0,0,0,1,9
+9/28/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,58.93,1271,17,0.0134,46.37,3.47,15,0,0,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,83.13,1204,7,0.0058,69.04,11.88,7,0,0,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.12,235,1,0.0043,85.62,20.12,0,0,0,0,1,1
+9/28/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.70,696,4,0.0057,68.53,11.93,4,0,0,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,55.24,485,3,0.0062,113.90,18.41,2,1,1,0,0,0
+9/28/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.64,321,3,0.0093,107.91,11.55,2,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,155.91,2583,18,0.0070,60.36,8.66,16,1,1,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,113.56,1608,8,0.0050,70.62,14.20,10,2,1,1,0,0
+9/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,46.30,567,4,0.0071,81.66,11.57,3,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,95.59,1618,12,0.0074,59.08,7.97,0,0,0,0,2,11
+9/29/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,55.23,1191,13,0.0109,46.37,4.25,15,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,89.08,1308,9,0.0069,68.10,9.90,9,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.65,243,2,0.0082,84.98,10.32,0,0,0,0,0,3
+9/29/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.62,697,5,0.0072,68.32,9.52,7,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,61.08,537,5,0.0093,113.74,12.22,3,0,0,0,0,0
+9/29/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,26.98,249,3,0.0120,108.35,8.99,1,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,149.60,2473,17,0.0069,60.49,8.80,16,1,1,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,107.43,1523,8,0.0053,70.54,13.43,9,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,45.34,556,4,0.0072,81.55,11.34,7,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,94.82,1609,16,0.0099,58.93,5.93,0,0,0,0,1,13
+9/30/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,63.88,1376,16,0.0116,46.42,3.99,15,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,83.63,1218,9,0.0074,68.66,9.29,5,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.07,248,3,0.0121,84.96,7.02,0,0,0,0,0,2
+9/30/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,49.24,720,5,0.0069,68.39,9.85,5,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,52.22,462,2,0.0043,113.03,26.11,4,0,0,0,0,0
+9/30/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.73,285,1,0.0035,107.82,30.73,3,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,131.24,2175,15,0.0069,60.34,8.75,13,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.91,1570,8,0.0051,70.64,13.86,6,1,1,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,44.37,544,4,0.0074,81.56,11.09,4,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,99.38,1682,13,0.0077,59.08,7.64,0,0,0,0,1,11
+10/1/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,57.16,1234,15,0.0122,46.32,3.81,13,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,84.14,1229,7,0.0057,68.46,12.02,8,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.76,223,2,0.0090,84.13,9.38,0,0,0,0,0,2
+10/1/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,48.37,707,6,0.0085,68.42,8.06,6,0,0,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,51.43,451,2,0.0044,114.04,25.71,2,1,1,0,0,0
+10/1/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.86,332,3,0.0090,108.01,11.95,1,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,147.99,2455,17,0.0069,60.28,8.71,14,2,2,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,112.57,1596,10,0.0063,70.53,11.26,7,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,42.09,517,3,0.0058,81.41,14.03,4,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,86.35,1463,9,0.0062,59.02,9.59,0,0,0,0,2,6
+10/2/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,67.48,1455,17,0.0117,46.38,3.97,18,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.65,1276,8,0.0063,68.69,10.96,10,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.06,213,3,0.0141,84.79,6.02,0,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.00,759,7,0.0092,68.51,7.43,5,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,59.78,526,3,0.0057,113.65,19.93,3,0,0,0,0,0
+10/2/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,26.72,247,1,0.0040,108.18,26.72,2,0,0,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,139.46,2310,17,0.0074,60.37,8.20,15,2,2,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,113.83,1617,7,0.0043,70.40,16.26,8,0,0,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,42.37,519,6,0.0116,81.64,7.06,3,0,0,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,107.72,1820,14,0.0077,59.19,7.69,0,0,0,0,3,11
+10/3/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.69,1225,15,0.0122,46.28,3.78,14,0,0,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,82.16,1199,10,0.0083,68.52,8.22,7,0,0,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.29,261,3,0.0115,85.40,7.43,0,0,0,0,0,1
+10/3/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,48.78,712,5,0.0070,68.51,9.76,6,1,1,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,49.71,436,2,0.0046,114.01,24.86,3,1,1,0,0,0
+10/3/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,29.71,277,1,0.0036,107.26,29.71,2,0,0,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,145.39,2406,18,0.0075,60.43,8.08,16,1,1,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,102.98,1460,8,0.0055,70.53,12.87,11,0,0,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,39.65,486,5,0.0103,81.58,7.93,4,0,0,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,105.11,1778,14,0.0079,59.12,7.51,0,0,0,0,0,11
+10/4/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.80,1334,18,0.0135,46.33,3.43,16,0,0,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,81.10,1189,6,0.0050,68.21,13.52,7,0,0,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.69,257,2,0.0078,84.40,10.85,0,0,0,0,0,1
+10/4/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.97,699,6,0.0086,68.63,8.00,3,1,1,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.01,494,4,0.0081,113.38,14.00,5,1,1,0,0,0
+10/4/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.20,307,3,0.0098,108.14,11.07,3,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,154.73,2562,19,0.0074,60.39,8.14,16,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,102.91,1460,6,0.0041,70.49,17.15,5,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,37.95,465,5,0.0108,81.61,7.59,5,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,91.29,1544,16,0.0104,59.13,5.71,0,0,0,0,1,9
+10/5/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.28,1215,14,0.0115,46.32,4.02,15,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,80.55,1170,7,0.0060,68.85,11.51,6,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.21,243,2,0.0082,83.17,10.11,0,0,0,0,0,0
+10/5/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.79,741,5,0.0067,68.54,10.16,5,1,0,1,0,0
+10/5/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,59.59,524,3,0.0057,113.72,19.86,5,1,0,1,0,0
+10/5/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.29,280,2,0.0071,108.18,15.14,1,0,0,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,135.61,2246,14,0.0062,60.38,9.69,13,1,1,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,107.30,1523,9,0.0059,70.45,11.92,6,1,0,1,0,0
+10/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,36.05,441,3,0.0068,81.75,12.02,3,0,0,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.83,1637,13,0.0079,59.15,7.45,0,0,0,0,0,9
+10/6/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.65,1306,16,0.0123,46.44,3.79,15,0,0,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,95.16,1374,9,0.0066,69.26,10.57,7,0,0,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,20.36,242,1,0.0041,84.13,20.36,0,0,0,0,0,0
+10/6/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.36,691,4,0.0058,68.54,11.84,3,1,0,1,0,0
+10/6/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.31,495,4,0.0081,113.76,14.08,3,1,0,1,0,0
+10/6/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,28.73,267,1,0.0037,107.60,28.73,1,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,146.34,2421,17,0.0070,60.45,8.61,14,1,0,1,0,0
+10/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,102.94,1460,9,0.0062,70.51,11.44,7,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,33.44,410,3,0.0073,81.56,11.15,7,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,108.72,1839,16,0.0087,59.12,6.79,0,0,0,0,1,11
+10/7/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,62.24,1343,17,0.0127,46.34,3.66,16,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,86.43,1256,9,0.0072,68.81,9.60,7,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.07,260,4,0.0154,84.88,5.52,0,0,0,0,0,3
+10/7/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,47.85,699,4,0.0057,68.45,11.96,4,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,54.62,478,3,0.0063,114.27,18.21,3,0,0,0,0,0
+10/7/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,29.27,271,2,0.0074,108.01,14.63,1,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,145.06,2401,16,0.0067,60.42,9.07,17,1,0,1,0,0
+10/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.13,1561,7,0.0045,70.55,15.73,8,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,31.85,392,3,0.0077,81.25,10.62,2,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,100.95,1703,14,0.0082,59.28,7.21,0,0,0,0,1,10
+10/8/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,62.67,1351,18,0.0133,46.39,3.48,16,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,93.69,1350,10,0.0074,69.40,9.37,9,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.96,235,1,0.0043,84.94,19.96,0,0,0,0,0,1
+10/8/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.21,776,5,0.0064,68.57,10.64,5,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,57.81,507,4,0.0079,114.02,14.45,3,0,0,0,0,0
+10/8/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,26.98,250,2,0.0080,107.92,13.49,3,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,141.63,2345,15,0.0064,60.40,9.44,15,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.02,1561,10,0.0064,70.48,11.00,8,1,1,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,25.59,313,3,0.0096,81.76,8.53,3,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,98.17,1664,12,0.0072,59.00,8.18,0,0,0,0,1,8
+10/9/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.67,1308,16,0.0122,46.38,3.79,14,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,98.19,1428,10,0.0070,68.76,9.82,12,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,18.52,221,3,0.0136,83.80,6.17,0,0,0,0,0,1
+10/9/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.21,762,8,0.0105,68.52,6.53,7,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,48.42,427,3,0.0070,113.40,16.14,2,0,0,0,0,0
+10/9/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,30.40,281,1,0.0036,108.19,30.40,1,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,156.15,2579,21,0.0081,60.55,7.44,18,1,1,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,113.90,1613,11,0.0068,70.61,10.35,7,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,22.86,280,1,0.0036,81.64,22.86,1,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.55,1631,13,0.0080,59.20,7.43,0,0,0,0,0,8
+10/10/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.51,1326,16,0.0121,46.39,3.84,15,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,87.54,1291,6,0.0046,67.81,14.59,6,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.97,237,2,0.0084,84.26,9.98,0,0,0,0,1,0
+10/10/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,46.46,677,4,0.0059,68.63,11.62,3,1,0,1,0,0
+10/10/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.42,494,5,0.0101,114.21,11.28,2,0,0,0,0,0
+10/10/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,33.33,309,2,0.0065,107.86,16.66,1,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,141.87,2357,16,0.0068,60.19,8.87,14,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,114.58,1627,7,0.0043,70.42,16.37,8,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,22.45,277,1,0.0036,81.05,22.45,1,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,102.52,1729,12,0.0069,59.29,8.54,0,0,0,0,2,9
+10/11/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,55.28,1192,14,0.0117,46.38,3.95,13,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,94.88,1377,7,0.0051,68.90,13.55,8,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.57,231,2,0.0087,84.72,9.79,0,0,0,0,1,2
+10/11/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.46,780,6,0.0077,68.54,8.91,5,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,55.21,483,3,0.0062,114.31,18.40,3,0,0,0,0,0
+10/11/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.36,299,1,0.0033,108.23,32.36,1,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,150.06,2487,16,0.0064,60.34,9.38,16,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,102.67,1457,9,0.0062,70.47,11.41,7,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,21.18,259,2,0.0077,81.78,10.59,3,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,95.04,1609,12,0.0075,59.07,7.92,0,0,0,0,2,9
+10/12/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,64.98,1401,18,0.0128,46.38,3.61,16,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,90.35,1321,7,0.0053,68.40,12.91,6,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.44,228,3,0.0132,85.26,6.48,0,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.22,761,4,0.0053,68.62,13.05,8,1,0,1,0,0
+10/12/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,56.66,499,4,0.0080,113.55,14.16,4,0,0,0,0,0
+10/12/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,31.09,289,2,0.0069,107.58,15.54,2,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,149.65,2478,17,0.0069,60.39,8.80,15,3,2,1,0,0
+10/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,110.12,1561,8,0.0051,70.54,13.77,10,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,18.86,232,1,0.0043,81.29,18.86,1,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,93.38,1584,15,0.0095,58.95,6.23,0,0,0,0,1,10
+10/13/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,61.61,1329,16,0.0120,46.36,3.85,15,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,86.62,1263,10,0.0079,68.58,8.66,7,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.22,249,3,0.0120,85.22,7.07,0,0,0,0,0,1
+10/13/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,48.22,703,4,0.0057,68.59,12.05,5,1,0,1,0,0
+10/13/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,54.28,478,5,0.0105,113.56,10.86,4,0,0,0,0,0
+10/13/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.66,330,2,0.0061,108.06,17.83,2,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,144.93,2404,19,0.0079,60.29,7.63,13,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,109.82,1555,8,0.0051,70.62,13.73,7,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,16.04,196,0,0.0000,81.84,0.00,0,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,95.57,1623,13,0.0080,58.88,7.35,0,0,0,0,0,9
+10/14/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,57.99,1251,16,0.0128,46.35,3.62,15,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,81.37,1185,8,0.0068,68.67,10.17,6,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.46,254,4,0.0157,84.49,5.37,0,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.11,730,6,0.0082,68.64,8.35,5,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,57.61,508,4,0.0079,113.41,14.40,6,0,0,0,0,0
+10/14/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,31.42,291,1,0.0034,107.97,31.42,3,1,1,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,160.69,2660,18,0.0068,60.41,8.93,19,1,1,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,121.92,1731,9,0.0052,70.43,13.55,7,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,12.54,153,1,0.0065,81.96,12.54,1,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,110.54,1868,14,0.0075,59.18,7.90,0,0,0,0,2,11
+10/15/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,60.73,1311,15,0.0114,46.32,4.05,15,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,89.58,1294,8,0.0062,69.23,11.20,7,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.00,247,2,0.0081,85.02,10.50,0,0,0,0,0,2
+10/15/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,50.41,736,4,0.0054,68.49,12.60,6,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,52.74,463,4,0.0086,113.91,13.19,2,0,0,0,0,0
+10/15/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,34.63,321,2,0.0062,107.88,17.32,2,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,140.79,2334,17,0.0073,60.32,8.28,14,1,1,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,121.08,1717,9,0.0052,70.52,13.45,9,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,11.79,144,0,0.0000,81.87,0.00,0,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.90,1641,12,0.0073,59.05,8.08,0,0,0,0,1,11
+10/16/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,59.28,1279,17,0.0133,46.35,3.49,14,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,86.28,1261,9,0.0071,68.42,9.59,6,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,21.09,247,3,0.0121,85.38,7.03,0,0,0,0,0,3
+10/16/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,52.35,764,6,0.0079,68.52,8.72,5,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,54.10,474,5,0.0105,114.14,10.82,2,0,0,0,0,0
+10/16/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.03,297,3,0.0101,107.85,10.68,2,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,154.47,2554,17,0.0067,60.48,9.09,13,2,1,1,0,0
+10/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,104.57,1483,7,0.0047,70.51,14.94,7,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,9.59,118,0,0.0000,81.27,0.00,0,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,87.47,1481,13,0.0088,59.06,6.73,0,0,0,0,3,7
+10/17/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,59.52,1283,15,0.0117,46.39,3.97,15,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,95.50,1382,8,0.0058,69.10,11.94,7,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,22.34,265,5,0.0189,84.30,4.47,0,0,0,0,0,1
+10/17/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,44.19,644,3,0.0047,68.62,14.73,4,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,61.19,538,4,0.0074,113.74,15.30,4,0,0,0,0,0
+10/17/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,32.54,302,1,0.0033,107.75,32.54,2,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,148.97,2462,15,0.0061,60.51,9.93,16,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,107.18,1520,8,0.0053,70.51,13.40,9,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,7.34,89,1,0.0112,82.47,7.34,0,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,96.53,1630,14,0.0086,59.22,6.90,0,0,0,0,2,8
+10/18/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,53.21,1149,14,0.0122,46.31,3.80,15,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,91.06,1319,10,0.0076,69.04,9.11,9,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.29,228,4,0.0175,84.61,4.82,0,0,0,0,0,1
+10/18/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,44.27,647,4,0.0062,68.42,11.07,4,1,1,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,54.64,480,4,0.0083,113.83,13.66,4,0,0,0,0,0
+10/18/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,27.68,257,1,0.0039,107.70,27.68,1,0,0,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Ops Leaders | US | Demo,402115001,Active,Website conversions,CPM,150.00,148.89,2457,16,0.0065,60.60,9.31,13,1,1,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | Finance Leaders | US | Demo,402115002,Active,Website conversions,CPM,120.00,119.46,1692,8,0.0047,70.60,14.93,8,1,1,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WC | IT Leaders | US | Demo,402115004,Active,Website conversions,CPC,70.00,6.50,78,0,0.0000,83.33,0.00,0,0,0,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,LG | Data Teams | US | Benchmark Report,402115003,Active,Lead generation,CPM,100.00,99.96,1698,13,0.0077,58.87,7.69,0,0,0,0,4,9
+10/19/2026,Northwind Analytics,USD,NA | Demand | Q4 2026,618400101,WV | Data Teams | US | Blog,402115005,Active,Website visits,CPM,60.00,56.89,1227,15,0.0122,46.37,3.79,13,0,0,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,WC | Competitor Users | US | Switch,402116001,Active,Website conversions,CPM,90.00,91.96,1343,8,0.0060,68.47,11.49,9,0,0,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | Competitor Takeout | Q4 2026,618400102,LG | Competitor Users | EMEA | Guide,402116002,Active,Lead generation,CPC,60.00,19.38,229,3,0.0131,84.63,6.46,0,0,0,0,1,1
+10/19/2026,Northwind Analytics,USD,NA | Retargeting | Q4 2026,618400103,WC | Site Visitors 90d | Demo,402117001,Active,Website conversions,CPM,50.00,53.12,777,8,0.0103,68.37,6.64,6,1,1,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Decision Makers,402118001,Active,Website conversions,CPM,,57.81,509,3,0.0059,113.58,19.27,4,0,0,0,0,0
+10/19/2026,Northwind Analytics,USD,NA | ABM | Tier 1 | Q4 2026,618400104,WC | Tier 1 | Champions,402118002,Active,Website conversions,CPM,,35.76,331,3,0.0091,108.04,11.92,1,0,0,0,0,0

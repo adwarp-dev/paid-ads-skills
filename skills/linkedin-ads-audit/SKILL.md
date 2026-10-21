@@ -85,29 +85,29 @@ Setup: [adwarp.dev/docs/install](https://adwarp.dev/docs/install). Audits and op
 | T1 | Insight Tag firing | Status Unverified | [a488323] |
 | T2 | Business conversion exists | No Active business conversion | [a422123] |
 | T3 | Right conversion attached | Website conversions ad set with no Active conversion | [capi] |
-| T4 | Clean conversion count | Warn only: page views or duplicates counted with demos | Default |
+| T4 | Clean conversion count | Warn only: page views or duplicates counted with demos | default |
 | T5 | Attribution understood | Warn only: view-through over 50% on a 30-day or longer view window | [a426359], [a426349] |
 | T6 | Lead quality reaches LinkedIn | Warn only: no qualified-stage conversion | [a424570] |
-| S1 | 1 naming pattern | Under 50% of ad sets follow it | Default |
+| S1 | 1 naming pattern | Under 50% of ad sets follow it | default |
 | S2 | 1 objective per campaign | Mixed objectives with budget optimization on | [a422101] |
 | S3 | Objective matches the KPI | Judged on leads but built for Brand awareness or Engagement | [a424570] |
-| S4 | No draft debt | More than 5 drafts older than 14 days | Default |
+| S4 | No draft debt | More than 5 drafts older than 14 days | default |
 | A1 | Audience size | Under 300; prospecting warns under 50,000 | [a423690] |
 | A2 | Matched lists healthy | Under 300 matched | [a424450], [a420595] |
-| A3 | No overlap | 2 ad sets with identical targeting | Default |
-| A4 | Standing exclusions | No customer, employee or competitor exclusion | Default |
+| A3 | No overlap | 2 ad sets with identical targeting | default |
+| A4 | Standing exclusions | No customer, employee or competitor exclusion | default |
 | D1 | Audience Expansion | On with matched-list targeting | [a418929] |
 | D2 | Audience Network | 25% of spend or more at over 2 times the cost per conversion | [a420372], [a418906] |
 | D3 | Rotation fits the goal | Warn only: CTR rotation feeds an ad costing 1.5 times the best | [a423702] |
 | B1 | Spends its budget | Under 50% of budget on a manual bid or cost cap | [a422123] |
 | B2 | Frequency fits audience | Over 12 in 30 days | [a423490] |
-| B3 | Budget reads a test | Weekly budget under active ads x CPM | Default |
+| B3 | Budget reads a test | Weekly budget under active ads x CPM | default |
 | C1 | Enough ads | 1 active ad | [a420488], [a422123], [a423702] |
 | C2 | Creative fatigue | CTR down 2 weeks running and 40% below its best | [a420488] |
 | C3 | Refresh cadence | Newest ad over 90 days old and an ad showing wear | [a420488] |
-| C4 | Format mix | Warn only: 1 format takes 90% of spend | Default |
+| C4 | Format mix | Warn only: 1 format takes 90% of spend | default |
 | C5 | Copy fits | Offer appears only after character 150 | [a426534] |
-| L1 | URLs work | `http://` or an error status | Default |
+| L1 | URLs work | `http://` or an error status | default |
 | L2 | UTMs present | No UTMs anywhere | [a5968064] |
 | L3 | UTMs consistent | A value that files LinkedIn under another channel | [a5968064] |
 

@@ -1,0 +1,5 @@
+audience,type,use,status,status_since,last_audience_count,active_ad_sets
+"Website Visitors - 90 days",Website,target,Ready,2026-08-02,"14,200","Retargeting - Site Visitors"
+"Customer Exclusion List",Company list,exclude,Ready,2026-09-01,"2,900","RevOps Leaders - Demo; Data Leaders - Demo; Finance Leaders - Demo; Competitor Conquest - Demo"
+"Target Accounts - Tier 1",Company list,target,Ready,2026-09-18,"< 300 members",""
+"Webinar Registrants - Oct",Contact list,target,Building,2026-10-11 09:00 UTC,,"Webinar Follow-up"

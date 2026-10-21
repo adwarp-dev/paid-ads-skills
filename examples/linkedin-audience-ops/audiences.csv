@@ -1,0 +1,12 @@
+# Made-up example data for linkedin-audience-ops. Northwind Analytics, every audience, ad set and count is fictional. Copied as if from the Audiences page on 2026-10-20, plus the role, used_in, source and refresh_cadence columns the user adds.
+audience,type,status,last_audience_count,match_rate,last_updated,role,used_in,source,refresh_cadence
+Customers - all contacts,contact list,Ready,6420,58%,2026-06-30,exclude,WV | Finance Dir+ | Guide (Active); WC | Ops VP+ | Demo (Active); Retargeting | Site visitors 90d (Active),Salesforce,monthly
+Employees,contact list,Ready,410,71%,2026-09-28,exclude,WV | Finance Dir+ | Guide (Active); WC | Ops VP+ | Demo (Active); Retargeting | Site visitors 90d (Active),CSV,quarterly
+Competitor employees,company list,Expired,,,2026-05-02,exclude,Q3 Webinar | Ops leaders (Paused),CSV,quarterly
+Tier 1 accounts,company list,Ready,18900,64%,2026-10-01,target,ABM | Tier 1 | Company list (Active),HubSpot,monthly
+Tier 1 accounts (2026-09-01 copy),company list,Ready,18450,63%,2026-09-01,none,,HubSpot,n/a
+Open opportunities - contacts,contact list,Ready,< 300,<5%,2026-10-06,target,WC | Open opps | Case study (Active),Salesforce,monthly
+Webinar registrants Sept,contact list,Building,,,2026-10-15,target,WV | Webinar follow-up (Draft),CSV,per flight
+Site visitors 90 days,website,Ready,12400,,,target,Retargeting | Site visitors 90d (Active),retargeting,n/a
+Demo requesters 2025,contact list,Ready,880,52%,2026-07-28,none,Q2 Demo | Retarget (Paused since 2026-07-28),CSV,n/a
+Event leads Q2,contact list,Archived,2150,49%,2026-08-20,none,,CSV,n/a
