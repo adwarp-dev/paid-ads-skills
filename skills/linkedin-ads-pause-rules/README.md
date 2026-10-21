@@ -29,4 +29,4 @@ More on adwarp.dev: [adwarp.dev/linkedin-ads/optimization](https://adwarp.dev/li
 
 The full method, thresholds, sources and report format are in [SKILL.md](SKILL.md). Docs: [adwarp.dev/docs/skills/linkedin-ads-pause-rules](https://adwarp.dev/docs/skills/linkedin-ads-pause-rules).
 
-Part of [paid-ads-skills](../../README.md), 12 skills for LinkedIn Ads and Google Ads.
+Part of [paid-ads-skills](../../README.md), 17 skills for LinkedIn Ads and Google Ads.

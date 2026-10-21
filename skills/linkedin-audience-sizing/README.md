@@ -30,4 +30,4 @@ More on adwarp.dev: [adwarp.dev/linkedin-ads/audiences](https://adwarp.dev/linke
 
 The full method, thresholds, sources and report format are in [SKILL.md](SKILL.md). Docs: [adwarp.dev/docs/skills/linkedin-audience-sizing](https://adwarp.dev/docs/skills/linkedin-audience-sizing).
 
-Part of [paid-ads-skills](../../README.md), 12 skills for LinkedIn Ads and Google Ads.
+Part of [paid-ads-skills](../../README.md), 17 skills for LinkedIn Ads and Google Ads.

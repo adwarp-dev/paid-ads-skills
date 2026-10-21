@@ -28,4 +28,4 @@ More on adwarp.dev: [adwarp.dev/linkedin-ads/ad-library](https://adwarp.dev/link
 
 The full method, thresholds, sources and report format are in [SKILL.md](SKILL.md). Docs: [adwarp.dev/docs/skills/linkedin-ad-library-teardown](https://adwarp.dev/docs/skills/linkedin-ad-library-teardown).
 
-Part of [paid-ads-skills](../../README.md), 12 skills for LinkedIn Ads and Google Ads.
+Part of [paid-ads-skills](../../README.md), 17 skills for LinkedIn Ads and Google Ads.

@@ -28,4 +28,4 @@ More on adwarp.dev: [adwarp.dev/google-ads/reporting](https://adwarp.dev/google-
 
 The full method, thresholds, sources and report format are in [SKILL.md](SKILL.md). Docs: [adwarp.dev/docs/skills/google-ads-search-terms](https://adwarp.dev/docs/skills/google-ads-search-terms).
 
-Part of [paid-ads-skills](../../README.md), 12 skills for LinkedIn Ads and Google Ads.
+Part of [paid-ads-skills](../../README.md), 17 skills for LinkedIn Ads and Google Ads.
