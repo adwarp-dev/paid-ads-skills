@@ -1,0 +1,74 @@
+Campaign report (made-up example data)
+"October 1, 2026 - October 14, 2026"
+Day,Campaign,Campaign status,Currency code,Cost,Impr.,Clicks,CTR,Avg. CPC,Conversions,Cost / conv.
+2026-10-01,"Search - Brand",Enabled,USD,"96.71","798",96,12.03%,1.01,1.00,"96.71"
+2026-10-01,"Search - BI Dashboards",Enabled,USD,"260.48","2,326",105,4.51%,2.48,3.00,"86.83"
+2026-10-01,"Search - Generic Analytics",Enabled,USD,"307.89","3,165",123,3.89%,2.50,5.00,"61.58"
+2026-10-01,"Search - Competitor Terms",Enabled,USD,"122.59","1,160",40,3.45%,3.06,0.00,0.00
+2026-10-01,"Search - Embedded Analytics",Enabled,USD,"174.68","1,410",77,5.46%,2.27,0.00,0.00
+2026-10-02,"Search - Brand",Enabled,USD,"100.53","833",100,12.00%,1.01,3.00,"33.51"
+2026-10-02,"Search - BI Dashboards",Enabled,USD,"284.72","2,412",114,4.73%,2.50,7.00,"40.67"
+2026-10-02,"Search - Generic Analytics",Enabled,USD,"311.62","3,317",124,3.74%,2.51,9.00,"34.62"
+2026-10-02,"Search - Competitor Terms",Enabled,USD,"119.55","1,109",40,3.61%,2.99,1.00,"119.55"
+2026-10-02,"Search - Embedded Analytics",Enabled,USD,"202.10","1,735",90,5.19%,2.25,1.00,"202.10"
+2026-10-03,"Search - Brand",Enabled,USD,"52.81","428",53,12.38%,1.00,1.00,"52.81"
+2026-10-03,"Search - BI Dashboards",Enabled,USD,"156.42","1,447",63,4.35%,2.48,1.00,"156.42"
+2026-10-03,"Search - Generic Analytics",Enabled,USD,"188.98","1,945",76,3.91%,2.49,2.00,"94.49"
+2026-10-03,"Search - Competitor Terms",Enabled,USD,"73.07","735",25,3.40%,2.92,0.00,0.00
+2026-10-03,"Search - Embedded Analytics",Enabled,USD,"102.49","860",45,5.23%,2.28,1.00,"102.49"
+2026-10-04,"Search - Brand",Enabled,USD,"54.50","464",55,11.85%,0.99,4.00,"13.62"
+2026-10-04,"Search - BI Dashboards",Enabled,USD,"169.75","1,471",68,4.62%,2.50,2.00,"84.87"
+2026-10-04,"Search - Generic Analytics",Enabled,USD,"176.22","1,793",70,3.90%,2.52,6.00,"29.37"
+2026-10-04,"Search - Competitor Terms",Enabled,USD,"76.32","708",26,3.67%,2.94,0.00,0.00
+2026-10-04,"Search - Embedded Analytics",Enabled,USD,"111.66","1,000",50,5.00%,2.23,2.00,"55.83"
+2026-10-05,"Search - Brand",Enabled,USD,"95.29","801",96,11.99%,0.99,2.00,"47.64"
+2026-10-05,"Search - BI Dashboards",Enabled,USD,"265.11","2,225",106,4.76%,2.50,2.00,"132.55"
+2026-10-05,"Search - Generic Analytics",Enabled,USD,"331.47","3,474",133,3.83%,2.49,4.00,"82.87"
+2026-10-05,"Search - Competitor Terms",Enabled,USD,"110.52","1,051",37,3.52%,2.99,2.00,"55.26"
+2026-10-05,"Search - Embedded Analytics",Enabled,USD,"185.29","1,671",83,4.97%,2.23,2.00,"92.65"
+2026-10-06,"Search - Brand",Enabled,USD,"89.23","711",89,12.52%,1.00,1.00,"89.23"
+2026-10-06,"Search - BI Dashboards",Enabled,USD,"279.55","2,381",112,4.70%,2.50,3.00,"93.18"
+2026-10-06,"Search - Generic Analytics",Enabled,USD,"284.72","3,032",114,3.76%,2.50,3.00,"94.91"
+2026-10-06,"Search - Competitor Terms",Enabled,USD,"117.78","1,043",39,3.74%,3.02,2.00,"58.89"
+2026-10-06,"Search - Embedded Analytics",Enabled,USD,"174.44","1,545",78,5.05%,2.24,3.00,"58.15"
+2026-10-07,"Search - Brand",Enabled,USD,"91.77","698",92,13.18%,1.00,2.00,"45.88"
+2026-10-07,"Search - BI Dashboards",Enabled,USD,"277.20","2,414",111,4.60%,2.50,6.00,"46.20"
+2026-10-07,"Search - Generic Analytics",Enabled,USD,"308.05","3,137",123,3.92%,2.50,5.00,"61.61"
+2026-10-07,"Search - Competitor Terms",Enabled,USD,"118.29","1,112",40,3.60%,2.96,1.00,"118.29"
+2026-10-07,"Search - Embedded Analytics",Enabled,USD,"173.90","1,601",77,4.81%,2.26,3.00,"57.97"
+2026-10-08,"Search - Brand",Enabled,USD,"88.86","768",88,11.46%,1.01,2.00,"44.43"
+2026-10-08,"Search - BI Dashboards",Enabled,USD,"278.25","2,507",111,4.43%,2.51,3.00,"92.75"
+2026-10-08,"Search - Generic Analytics",Enabled,USD,"276.86","2,884",111,3.85%,2.49,3.00,"92.29"
+2026-10-08,"Search - Competitor Terms",Enabled,USD,"115.26","1,063",38,3.57%,3.03,1.00,"115.26"
+2026-10-08,"Search - Embedded Analytics",Enabled,USD,"187.09","1,669",83,4.97%,2.25,2.00,"93.54"
+2026-10-09,"Search - Brand",Enabled,USD,"83.85","685",84,12.26%,1.00,2.00,"41.92"
+2026-10-09,"Search - BI Dashboards",Enabled,USD,"269.70","2,451",108,4.41%,2.50,4.00,"67.42"
+2026-10-09,"Search - Generic Analytics",Enabled,USD,"295.98","2,944",118,4.01%,2.51,3.00,"98.66"
+2026-10-09,"Search - Competitor Terms",Enabled,USD,"116.54","1,087",39,3.59%,2.99,0.00,0.00
+2026-10-09,"Search - Embedded Analytics",Enabled,USD,"181.80","1,585",80,5.05%,2.27,3.00,"60.60"
+2026-10-10,"Search - Brand",Enabled,USD,"51.40","425",52,12.24%,0.99,4.00,"12.85"
+2026-10-10,"Search - BI Dashboards",Enabled,USD,"165.98","1,479",66,4.46%,2.51,4.00,"41.49"
+2026-10-10,"Search - Generic Analytics",Enabled,USD,"186.18","1,887",75,3.97%,2.48,4.00,"46.55"
+2026-10-10,"Search - Competitor Terms",Enabled,USD,"64.80","637",22,3.45%,2.95,0.00,0.00
+2026-10-10,"Search - Embedded Analytics",Enabled,USD,"114.82","1,049",51,4.86%,2.25,2.00,"57.41"
+2026-10-11,"Search - Brand",Enabled,USD,"54.84","456",55,12.06%,1.00,2.00,"27.42"
+2026-10-11,"Search - BI Dashboards",Enabled,USD,"159.35","1,365",64,4.69%,2.49,1.00,"159.35"
+2026-10-11,"Search - Generic Analytics",Enabled,USD,"175.30","1,780",70,3.93%,2.50,4.00,"43.82"
+2026-10-11,"Search - Competitor Terms",Enabled,USD,"75.28","689",25,3.63%,3.01,0.00,0.00
+2026-10-11,"Search - Embedded Analytics",Enabled,USD,"113.59","1,061",50,4.71%,2.27,2.00,"56.79"
+2026-10-12,"Search - Brand",Enabled,USD,"96.21","761",97,12.75%,0.99,2.00,"48.11"
+2026-10-12,"Search - BI Dashboards",Enabled,USD,"282.58","2,447",112,4.58%,2.52,6.00,"47.10"
+2026-10-12,"Search - Generic Analytics",Enabled,USD,"305.34","3,075",122,3.97%,2.50,6.00,"50.89"
+2026-10-12,"Search - Competitor Terms",Enabled,USD,"117.20","1,042",39,3.74%,3.01,0.00,0.00
+2026-10-12,"Search - Embedded Analytics",Enabled,USD,"66.52","554",30,5.42%,2.22,1.00,"66.52"
+2026-10-13,"Search - Brand",Enabled,USD,"87.48","753",87,11.55%,1.01,4.00,"21.87"
+2026-10-13,"Search - BI Dashboards",Enabled,USD,"267.41","2,410",107,4.44%,2.50,2.00,"133.71"
+2026-10-13,"Search - Generic Analytics",Enabled,USD,"285.95","2,749",114,4.15%,2.51,0.00,0.00
+2026-10-13,"Search - Competitor Terms",Enabled,USD,"120.96","1,170",41,3.50%,2.95,4.00,"30.24"
+2026-10-13,"Search - Embedded Analytics",Enabled,USD,"70.78","637",31,4.87%,2.28,0.00,0.00
+2026-10-14,"Search - Brand",Enabled,USD,"98.74","761",99,13.01%,1.00,0.00,0.00
+2026-10-14,"Search - BI Dashboards",Enabled,USD,"268.13","2,323",107,4.61%,2.51,3.00,"89.38"
+2026-10-14,"Search - Generic Analytics",Enabled,USD,"310.92","3,386",124,3.66%,2.51,0.00,0.00
+2026-10-14,"Search - Competitor Terms",Enabled,USD,"128.90","3,702",48,1.30%,2.69,0.00,0.00
+2026-10-14,"Search - Embedded Analytics",Enabled,USD,"70.37","596",31,5.20%,2.27,1.00,"70.37"
+Total: Campaigns,,,USD,"11,678.88","110,849",5349,4.83%,2.18,165.00,"70.78"

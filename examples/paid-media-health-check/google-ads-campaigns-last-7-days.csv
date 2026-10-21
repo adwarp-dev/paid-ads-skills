@@ -1,0 +1,9 @@
+Campaign report (made-up example data)
+"October 8, 2026 - October 14, 2026"
+Campaign,Campaign status,Status,Currency code,Cost,Impr.,Clicks,Conversions,Search impr. share,Search lost IS (budget)
+"Search - Brand",Enabled,Eligible,USD,"561.38","4,609","562",16.00,92.00%,0.00%
+"Search - BI Dashboards",Enabled,Limited by budget,USD,"1,691.40","14,982","675",23.00,55.00%,28.00%
+"Search - Generic Analytics",Enabled,Eligible,USD,"1,836.54","18,705","734",20.00,61.00%,3.00%
+"Search - Competitor Terms",Enabled,Eligible,USD,"738.93","9,390","252",5.00,34.00%,0.00%
+"Search - Embedded Analytics",Enabled,Eligible,USD,"804.96","7,151","356",11.00,48.00%,2.00%
+Total: Campaigns,,,USD,"5,633.20","54,837","2,579",75.00,--,--
