@@ -10,7 +10,12 @@ Save the approved rules as `pause-rules.md` in the working folder. A run reads i
 # LinkedIn pause rules, approved <date> by <name>
 window_days: 30
 scope: Sponsored Content in ad sets optimizing for clicks, website visits, leads or conversions
-floor_ctr_percent: 0.40
+floor_ctr_percent:        # by ad format; 70% of the lowest public median
+  single_image: 0.29      # median 0.42%, ZenABM, 2025 data
+  carousel: 0.22          # median 0.32%, ZenABM, 2025 data
+  video: 0.17             # median 0.24%, ZenABM, 2025 data
+  thought_leader: 1.88    # median 2.68%, ZenABM, 2025 data
+                          # any format not listed has no floor and stays out of the run
 min_impressions: 1500
 cap_per_run: 5
 protect_top: 5            # by conversions, then CTR
@@ -19,7 +24,7 @@ target_cost_per_conversion: 200   # or "account average"
 currency: USD
 ```
 
-Change a value only when the user asks, and add a dated line under the header saying what changed and why, for example `2026-11-16: min_impressions 1500 -> 3000, account volume doubled`.
+Change a value only when the user asks, and add a dated line under the header saying what changed and why, for example `2026-11-16: min_impressions 1500 -> 3000, account volume doubled`. To bring a format with no default into the run, such as document ads, add its line under `floor_ctr_percent` with the floor the user set and where it came from, for example `document: 0.25  # user's floor, 70% of the account's document median on 2026-11-16`.
 
 ## Option 1: a scheduled agent
 
@@ -70,8 +75,9 @@ Rules for scheduled jobs:
 After a few runs, look back at what the rules did:
 
 - `list_ad_changes` with `tag: "pause-rules"` (or `adwarp changelog list --tag pause-rules`) lists every pause with its reason.
-- Every run hits the cap: the floor sits above where this account's ads land, or the creative needs a broader refresh than 5 pauses a week.
-- No run pauses anything: the floor sits below every ad and does no work.
+- Read the pauses by format, because each format has its own floor.
+- Every run hits the cap: a floor sits above where this account's ads land (see which format the pauses come from), or the creative needs a broader refresh than 5 pauses a week.
+- A format never has a pause: its floor sits below every ad of that format and does no work.
 - The same ad set loses an ad every week: look at the audience or the offer before writing more ads. Flag it for a performance review.
 
 Propose any new value with the numbers that support it, and change the rules file only after the user approves.

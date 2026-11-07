@@ -1,6 +1,6 @@
 # LinkedIn ads pause rules
 
-Rules-based pausing for LinkedIn ads. You approve the rules once (a click-through rate floor after a minimum of impressions, a cap on pauses per run, protected top ads, the last active ad in each ad set, ads that convert at an acceptable cost), the skill builds a dry-run table, and nothing is paused until you confirm the exact list. Works from a Campaign Manager ad performance export or live through Adwarp, and runs weekly.
+Rules-based pausing for LinkedIn ads. You approve the rules once (a click-through rate floor for each ad format after a minimum of impressions, a cap on pauses per run, protected top ads, the last active ad in each ad set, ads that convert at an acceptable cost), the skill builds a dry-run table, and nothing is paused until you confirm the exact list. Works from a Campaign Manager ad performance export or live through Adwarp, and runs weekly.
 
 ## Ask it
 
