@@ -45,7 +45,7 @@ Some settings never appear in a report: auto-tagging (C9), enhanced conversions 
 Every check has a GAQL query in [references/gaql-checks.md](references/gaql-checks.md). Run them with either tool:
 
 - Adwarp, a free open-source MCP server and CLI for LinkedIn Ads and Google Ads. MCP tools: `gads_search` (any read-only GAQL query), `gads_list_conversion_actions`, `gads_list_campaigns`, `gads_performance` (campaign, ad group, ad, keyword or search term rows). CLI: `adwarp google query "<GAQL>"`, `adwarp google conversions list`, `adwarp google report perf search_term -p last_30_days`. Adwarp pins Google Ads API v25 unless `ADWARP_GOOGLE_API_VERSION` says otherwise, so use the v25 variant of query Q01 for check C7. Pages: [Google Ads hub](https://adwarp.dev/google-ads), [reporting](https://adwarp.dev/google-ads/reporting), [setup](https://adwarp.dev/docs/google-ads-setup).
-- Google's Google Ads MCP server ([github.com/googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp)). Its 3 tools (`search`, `get_resource_metadata`, `list_accessible_customers`) only read [10]. Pass the same GAQL to `search`.
+- Google's Google Ads MCP server ([github.com/googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp)). Pass the same GAQL to its `search` tool, which only reads. Since version 0.0.6 (2026-11-02) the server also has 4 write tools for assets and labels (`create_asset`, `upload_video_asset`, `manage_labels`, `manage_label_associations`). Each one proposes a change first and applies it only on a second call that carries the proposal's checksum, and all 4 are on unless you turn them off. This audit uses only `search`, so set `assets: false` and `labels: false` in the server's `tools_config.yaml`. Since 0.0.3 (2026-09-10) the server no longer requires a developer token [10].
 
 API access now belongs to a Google Cloud project: developer tokens were sunset on September 9, 2026 [9]. The audit only reads, so Explorer access (2,880 production operations a day) is enough. The full catalog is about 30 queries.
 
@@ -243,13 +243,13 @@ Each fix names the exact setting, for example "Campaign settings > Networks: unt
 
 ## Safety
 
-- Reads only: GAQL `SELECT` queries through `gads_search`, `adwarp google query` or Google's MCP `search` tool, or CSV files the user provides.
+- Reads only: GAQL `SELECT` queries through `gads_search`, `adwarp google query` or Google's MCP `search` tool, or CSV files the user provides. It never calls the asset or label tools on Google's MCP server.
 - Changes nothing. No step in this skill writes to the account.
 - If the user asks to apply a fix, show the exact change first and ask for confirmation. Adwarp can't edit existing Google campaigns, so most fixes are made by the user in Google Ads or Google Ads Editor. Negative keyword uploads are covered by `google-ads-search-terms`.
 
 ## Sources
 
-All checked 2026-10-20.
+All checked 2026-10-20, except source 10, checked 2026-11-07.
 
 1. Google Ads API v26 field reference (every resource, field and enum used in the catalog): https://developers.google.com/google-ads/api/fields/v26/overview
 2. Google Ads API release notes (v26 enhanced conversions fields, v25.1 AI Max migration fields): https://developers.google.com/google-ads/api/docs/release-notes
@@ -260,7 +260,7 @@ All checked 2026-10-20.
 7. Google Ads API, Segmentation (core date segments): https://developers.google.com/google-ads/api/docs/reporting/segmentation
 8. Google Ads API, Query grammar: https://developers.google.com/google-ads/api/docs/query/grammar
 9. Google Ads API, Access levels and permissible use: https://developers.google.com/google-ads/api/docs/api-policy/access-levels
-10. Google Ads MCP server: https://github.com/googleads/google-ads-mcp
+10. Google Ads MCP server, README and releases (0.0.6 of 2026-11-02 added the asset and label tools with propose and confirm; 0.0.3 of 2026-09-10 removed the developer token check): https://github.com/googleads/google-ads-mcp
 11. Google Ads Help, About primary and secondary conversion actions: https://support.google.com/google-ads/answer/11461796
 12. Google Ads Help, About conversion counting options: https://support.google.com/google-ads/answer/3438531
 13. Google Ads Help, About enhanced conversions: https://support.google.com/google-ads/answer/9888656
