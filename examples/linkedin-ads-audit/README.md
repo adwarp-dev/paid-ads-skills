@@ -2,7 +2,7 @@
 
 Made-up data for trying `linkedin-ads-audit`. Northwind Analytics is a fictional company, and every campaign, ad, ID, URL and number here is invented. The `.example` domain is reserved and doesn't resolve.
 
-| File | What it stands in for |
+| File | Stands in for |
 | --- | --- |
 | `ad-set-performance.csv` | Ad set performance export, All columns, time breakdown All, 9/19/2026 to 10/18/2026 |
 | `ad-performance-daily.csv` | Ad performance export, All columns, time breakdown Daily, 8/24/2026 to 10/18/2026 |

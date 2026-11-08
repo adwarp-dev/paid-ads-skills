@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Checks every skill folder against CONTRIBUTING.md: frontmatter, required sections, plugin and README listings,
-// and the house rules against em dashes and a capitalized "Default" in any Markdown file. Exits 1 with a list of
+// and the house rules against em dashes, a capitalized "Default" and question-shaped labels in any Markdown file. Exits 1 with a list of
 // problems, 0 when clean.
 
 import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
@@ -12,8 +12,8 @@ const problems = [];
 const fail = (msg) => problems.push(msg);
 
 const REQUIRED_SECTIONS = [
-  "## When to use it",
-  "## What you need",
+  "## Use cases",
+  "## Inputs",
   "### Export mode",
   "### Connected mode",
   "## Method",
@@ -91,6 +91,9 @@ function walk(dir) {
       readFileSync(p, "utf8").split("\n").forEach((line, i) => {
         if (line.includes("—")) fail(`${relative(root, p)}:${i + 1}: em dash`);
         if (/\bDefault\b|\bDEFAULT\b/.test(line)) fail(`${relative(root, p)}:${i + 1}: capitalized "Default"`);
+        // Question-shaped labels read as filler on adwarp.dev: name the section instead ("Use cases", "Inputs", "Out of scope").
+        if (/\b(what it does|where it runs|how it runs|what it (doesn't|does not) do|what you need|when to use it|what you get)\b/i.test(line) && !line.includes("?"))
+          fail(`${relative(root, p)}:${i + 1}: question-shaped label "${line.match(/\b(what it does|where it runs|how it runs|what it (doesn't|does not) do|what you need|when to use it|what you get)\b/i)[0]}"`);
       });
     }
   }

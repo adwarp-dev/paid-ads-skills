@@ -7,7 +7,7 @@ description: Reads a company's ads in LinkedIn's public Ad Library and turns the
 
 Reads a competitor's public LinkedIn ads and explains how they run their account: what they say, what they ask for, how often they launch, which ads they keep paying for, and where they leave room for you. The deliverable is a strategy read that ends in ranked moves, never a dump of ads.
 
-## When to use it
+## Use cases
 
 Use it for:
 
@@ -22,7 +22,7 @@ It doesn't:
 - Estimate a competitor's spend, clicks or leads. The Ad Library shows none of them.
 - Cover Google search ads or other networks. Google's Ads Transparency Center is a separate source and outside this skill.
 
-## What you need
+## Inputs
 
 How the Ad Library works, from LinkedIn's help pages:
 

@@ -7,13 +7,13 @@ description: Follow the money in a LinkedIn Ads account. Spend by campaign, ad s
 
 Answer 1 question: is the money going where the results are? The skill traces every dollar from campaign to ad, puts 1 number on the spend that bought nothing, checks which ad sets can absorb more money and which can't spend what they have, and ends in moves written as "move $X a day from A to B" with the evidence and the exact change.
 
-## When to use it
+## Use cases
 
 - "Where is my LinkedIn budget going?", "what are we wasting money on?", "spend breakdown".
 - Before a budget meeting, or before raising or cutting the LinkedIn budget.
 - An ad set that isn't spending its budget, or 1 that eats the account.
 
-What it doesn't do, and the sibling to use:
+Out of scope, with the sibling to use:
 
 - The broad review of how the account performs (week over week direction, creative fatigue, scale, pause, refresh and watch lists): `linkedin-ads-performance-review`. This skill reads the same numbers from the money side and stops at budget and status moves.
 - Which ads drive leads, the per-ad pause list and the copy angles that convert: `linkedin-ads-lead-drivers`. This skill flags ads only when their spend returned nothing.
@@ -24,7 +24,7 @@ What it doesn't do, and the sibling to use:
 
 It reads only. Every move is a proposal until the user confirms it (see Safety).
 
-## What you need
+## Inputs
 
 **Names first.** Since October 2025 Campaign Manager calls the old "campaign group" a **campaign** and the old "campaign" an **ad set** ([Social Media Today][smt]). The ad set holds the objective, targeting, bid and, usually, the budget; the campaign holds a shared budget when Dynamic Group Budget is on ([a1324756]). LinkedIn's API, and Adwarp with it, still say campaign group, campaign and creative. This skill uses the interface names. In an export, "Campaign Name" means the campaign when an "Ad Set Name" column also exists, and the ad set when it doesn't (an older export).
 
@@ -147,7 +147,7 @@ Every number marked "default" is a judgment call the user can change. Formulas a
 - **Budget-limited isn't proof of headroom.** An ad set spending its whole budget can still hit rising costs when the budget goes up, which is why the step is small and rechecked.
 - **Waste here means no platform result.** A lead that never becomes pipeline still counts as a result. If CRM outcomes by ad set are available, prefer them and say so.
 - **Audience Network.** Its conversions are reported only at ad set level ([a418906]), so judge the Audience Network share of spend per ad set, where its results can be seen, and never call an ad zero-return on its Audience Network rows alone.
-- **What this can't see.** Lead quality in your CRM, landing page experience, settings changed mid-window (in Connected mode `list_ad_changes` shows changes Adwarp made or logged; ask about changes made in Campaign Manager), and anything outside the exports.
+- **Blind spots.** Lead quality in your CRM, landing page experience, settings changed mid-window (in Connected mode `list_ad_changes` shows changes Adwarp made or logged; ask about changes made in Campaign Manager), and anything outside the exports.
 - **No industry benchmarks.** Every comparison is inside the account. Published LinkedIn cost averages vary by source, format and audience, and none was verified for this skill.
 
 ## Output

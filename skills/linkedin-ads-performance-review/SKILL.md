@@ -7,20 +7,20 @@ description: LinkedIn Ads performance review with KPIs by campaign, ad set and a
 
 Turn a LinkedIn Ads account's numbers into a review a growth lead can act on in 10 minutes: what moved, what's winning, what's burning money, what's wearing out, and what to do first. Every verdict rests on a number that cleared a floor, and every ad is judged against peers that face the same kind of audience.
 
-## When to use it
+## Use cases
 
 - A weekly or monthly read of a LinkedIn Ads account.
 - Deciding where the next dollar goes: what to scale, pause, refresh or leave alone.
 - Explaining a jump in cost per lead or cost per conversion.
 
-What it doesn't do:
+Out of scope:
 
 - Check the account's setup (tracking, targeting, toggles, UTMs). Use `linkedin-ads-audit`; setup problems often explain bad numbers.
 - Set standing pause rules or switch ads off. Use `linkedin-ads-pause-rules`.
 - Prove a change caused a result. Use `ad-experiment-lift`.
 - Report across LinkedIn and Google together. Use `paid-media-weekly-report`.
 
-## What you need
+## Inputs
 
 **Names first.** Since October 2025 Campaign Manager calls the old "campaign group" a **campaign** and the old "campaign" an **ad set** ([Social Media Today](https://www.socialmediatoday.com/news/linkedin-updates-advertising-campaign-naming-conventions/761534); LinkedIn's own URL tracking values changed with it, [a5968064]). The ad set is where targeting, objective, bid and budget live, so it's what Google and Meta call an ad group or ad set. This skill uses the new names. In an export, "Campaign Name" means the campaign when an "Ad Set Name" column exists, and the ad set when it doesn't (an older export).
 

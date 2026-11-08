@@ -2,7 +2,7 @@
 
 Made-up data for trying `linkedin-audience-ops`. Northwind Analytics is a fictional company, and every audience, ad set, person, company, ID and number here is invented. The `.example` domains are reserved and don't resolve. `freemail.example` stands in for a free mail provider.
 
-| File | What it stands in for |
+| File | Stands in for |
 | --- | --- |
 | `audiences.csv` | The Audiences page (Plan > Audiences, Matched) copied on 2026-10-20, plus the `role`, `used_in`, `source` and `refresh_cadence` columns the user adds |
 | `ad-set-performance-daily.csv` | Ad set performance export, All columns, time breakdown Daily, 9/22/2026 to 10/19/2026, with the report-info rows Campaign Manager puts above the header |

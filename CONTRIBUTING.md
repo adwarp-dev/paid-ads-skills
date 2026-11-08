@@ -11,7 +11,7 @@ Thanks for improving these skills. The bar is a skill a working performance mark
 ```yaml
 ---
 name: linkedin-ads-audit
-description: What it does in 1 or 2 sentences. Works from an export or live through Adwarp. Use for "audit my LinkedIn ads", "is my account set up right".
+description: The job, in 1 or 2 sentences. Works from an export or live through Adwarp. Use for "audit my LinkedIn ads", "is my account set up right".
 ---
 ```
 
@@ -21,10 +21,10 @@ description: What it does in 1 or 2 sentences. Works from an export or live thro
 Then these sections, in this order:
 
 1. `# Title`, then 1 or 2 sentences on the job the skill does.
-2. `## When to use it`: the asks it covers, and what it doesn't do (with the skill to use instead, if there is one).
-3. `## What you need`: an `### Export mode` subsection naming the exact report to download and the columns used, and a `### Connected mode` subsection naming the Adwarp tools or CLI commands, with a link to the matching adwarp.dev page.
+2. `## Use cases`: the asks it covers, and an "Out of scope:" list (with the skill to use instead, if there is one).
+3. `## Inputs`: an `### Export mode` subsection naming the exact report to download and the columns used, and a `### Connected mode` subsection naming the Adwarp tools or CLI commands, with a link to the matching adwarp.dev page.
 4. `## Method`: numbered steps. Every threshold either cites a source in `## Sources` or is labeled a default the user can change.
-5. `## Judgment floors and caveats`: when the data is too thin to call, and what the data can't tell you.
+5. `## Judgment floors and caveats`: when the data is too thin to call, and its blind spots.
 6. `## Output`: the exact report format, in a code block, ending in ranked actions.
 7. `## Safety`: what the skill reads, what it can change, and the confirmation it asks for first.
 8. `## Sources`: each public source with its URL and the date it was checked.

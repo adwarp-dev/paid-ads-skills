@@ -35,7 +35,7 @@ function readme(name) {
     "",
     "Or copy this folder into `~/.claude/skills/` or your agent's skills folder.",
     "",
-    "## How it runs",
+    "## Modes",
     "",
     "From a CSV export with nothing connected, or live through [Adwarp](https://adwarp.dev), the free, open-source MCP server and CLI for LinkedIn Ads and Google Ads. Adwarp setup: [adwarp.dev/docs/install](https://adwarp.dev/docs/install).",
     "",

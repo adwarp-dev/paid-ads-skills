@@ -7,13 +7,13 @@ description: Scored LinkedIn Ads account audit with 28 checks across tracking, s
 
 Score how a LinkedIn Ads account is set up, check by check, and turn every problem into a fix ranked by the money flowing through it. The score is weighted by spend, so a broken setting on the ad set that spends most of the budget counts for more than the same setting on a test.
 
-## When to use it
+## Use cases
 
 - Taking over an account, or before raising the budget.
 - A quarterly setup review.
 - Results feel expensive and you want to rule out setup before blaming creative.
 
-What it doesn't do:
+Out of scope:
 
 - Judge which ads and ad sets perform. Use `linkedin-ads-performance-review` for winners, losers and week over week movement.
 - Decide what to switch off. Use `linkedin-ads-pause-rules`.
@@ -22,7 +22,7 @@ What it doesn't do:
 
 The checks fit Sponsored Content (single image, video, document, carousel) and Lead Gen Forms. For message ads, text ads and dynamic ads, the tracking, structure, targeting and UTM checks still apply; the creative and rotation checks don't, since most message ads can only rotate evenly.
 
-## What you need
+## Inputs
 
 **Names first.** In October 2025 LinkedIn renamed its levels: the old "campaign group" is now the **campaign**, and the old "campaign" is now the **ad set** ([Social Media Today](https://www.socialmediatoday.com/news/linkedin-updates-advertising-campaign-naming-conventions/761534); the new names also appear in LinkedIn's URL tracking parameter values). The campaign holds the shared budget, schedule and status. The ad set holds targeting, objective, bid, budget and placements, so it's what Google and Meta call an ad group or ad set. The API and many tools, Adwarp included, still use the old names. This skill uses the new ones.
 
@@ -128,7 +128,7 @@ Setup: [adwarp.dev/docs/install](https://adwarp.dev/docs/install). Audits and op
 - **Conversions can double count.** Under "Last touch - Each ad set", every ad set with an interaction in the window gets the conversion ([a426349]), so adding ad set conversions overstates the total.
 - **Audience Network is judged at ad set level.** Its conversions are reported only there ([a418906]).
 - **Overlap cost is partly known.** Splitting 1 audience across 2 ad sets always muddies the read; how the auction treats 2 bids from 1 advertiser isn't published.
-- **What this audit can't see.** Lead quality and pipeline in your CRM, landing page experience beyond the URL and UTMs, brand and creative quality, and anything in an account you didn't export.
+- **Blind spots.** Lead quality and pipeline in your CRM, landing page experience beyond the URL and UTMs, brand and creative quality, and anything in an account you didn't export.
 - **No industry benchmarks.** The audit judges setup, so it never passes or fails an account on CTR or CPC against a published average. Benchmarks vary by source, format and audience, and none was verified for this skill. Use `linkedin-ads-performance-review` to compare results inside the account.
 
 ## Output

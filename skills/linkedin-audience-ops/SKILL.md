@@ -7,7 +7,7 @@ description: Keeps LinkedIn matched audiences healthy and fed. Inventories every
 
 Keeps the matched audience layer under your LinkedIn ad sets in working order: what exists and what state it's in, how a list gets uploaded without wasting a 48-hour build, and how CRM lists stay fresh. Many "the ad set won't deliver" and "customers keep seeing our ads" problems start here.
 
-## When to use it
+## Use cases
 
 It does 3 jobs. Run 1 or all of them.
 
@@ -22,7 +22,7 @@ It doesn't:
 - Judge ad performance. It reads spend only to rank findings by the money at stake.
 - Delete audiences. It lists what to delete, and you delete in Campaign Manager, because a deletion can't be undone.
 
-## What you need
+## Inputs
 
 A note on names: Campaign Manager calls the levels campaign, ad set and ad. LinkedIn's API and Adwarp still call them campaign group, campaign and creative. A matched audience is a "DMP segment" in the API, and the ID an ad set targets is an `adSegment` URN. This skill uses Campaign Manager's names.
 

@@ -7,20 +7,20 @@ description: A fixed-format weekly report for LinkedIn Ads and Google Ads. The l
 
 Writes the same short report every week: the last 7 complete days against the 7 before, for LinkedIn Ads, Google Ads and both combined, ending in exactly 3 actions. The format never changes, so 1 week reads against the next at a glance, and a scheduled agent can run it with nobody watching.
 
-## When to use it
+## Use cases
 
 - "Write the weekly paid report", "how did paid do this week", "Monday ads report".
 - A scheduled run every Monday (or any fixed weekday), by a scheduled agent or a cron job.
 - 1 platform only works too: the report drops the other column and the Combined column.
 
-What it doesn't do:
+Out of scope:
 
 - A deep dive into 1 account (fatigue curves, scale and pause lists, structure). Use `linkedin-ads-performance-review` or `google-ads-account-audit`.
 - Month-to-date spend against a cap. Use `ad-budget-pacing`.
 - Whether a specific change worked. Use `ad-experiment-lift`.
 - Lead quality, pipeline or revenue. The report stops at platform conversions.
 
-## What you need
+## Inputs
 
 Settings, all defaults the user can change: report weekday (Monday), the floors in Method step 5, the flag thresholds in step 6, and the currency (the accounts' own).
 
@@ -158,7 +158,7 @@ Keep every week's LinkedIn file: the CLI has no custom dates, so last week's fil
 - **Different calendar days.** LinkedIn reports in UTC; Google uses the account time zone. Weekly totals compare fine; day-by-day comparisons across platforms are off by some hours.
 - **Daily overspend is normal.** LinkedIn can spend up to 100% above a daily budget on a given day, and Google up to 2 times the average daily budget. Judge spend by the week.
 - **1 week is a short read.** A move that repeats 2 weeks running is a trend; a single week's move is a prompt to look. If last week's report is available, mark repeats.
-- **What this data can't tell you:** lead quality, pipeline or revenue; whether a CPC change came from the auction or your own bids (check the change journal or the platform's change history); anything about entities that didn't deliver, unless you have the structure from Connected mode.
+- **Blind spots:** lead quality, pipeline or revenue; whether a CPC change came from the auction or your own bids (check the change journal or the platform's change history); anything about entities that didn't deliver, unless you have the structure from Connected mode.
 
 ## Output
 

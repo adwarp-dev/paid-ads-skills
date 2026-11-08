@@ -7,7 +7,7 @@ description: Size LinkedIn targeting before you spend. Walks a narrowing ladder 
 
 Sizes LinkedIn targeting before money goes out: the estimate after each targeting step, the step where the audience lands in range for its goal, and the exact targeting to build, checked against the budget.
 
-## When to use it
+## Use cases
 
 - "How big should this audience be?", "is 40,000 too small?", "Campaign Manager says Audience Too Narrow".
 - Planning the targeting for a new ad set: persona prospecting, a 1:1 account-based ad set for 1 company, a company list, or a retargeting pool.
@@ -21,7 +21,7 @@ It doesn't:
 
 Campaign Manager groups ads as campaign, then ad set, then ad, and targeting lives on the ad set. LinkedIn's API calls the ad set a "campaign".
 
-## What you need
+## Inputs
 
 ### Export mode
 
