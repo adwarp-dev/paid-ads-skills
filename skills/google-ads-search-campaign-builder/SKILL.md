@@ -7,7 +7,7 @@ description: Turns a product, landing page, location, language and daily budget 
 
 Builds a Search campaign brief that is right on the first launch: keywords with real search volume and a bid you can afford, ad groups tight enough that the ads match the query, negatives in place before the first click, and responsive search ads that pass Google's limits. The output is a brief a person can review and a JSON file Adwarp can launch, paused.
 
-## When to use it
+## Use cases
 
 - "Build a search campaign for this product", "set up Google Ads for our new page", "which keywords should we bid on", "write the ads and keywords", "launch a Google campaign".
 - A new Search campaign, or a new campaign for a new product line in an existing account.
@@ -19,7 +19,7 @@ It doesn't:
 - Clean up search terms on a live campaign. Use `google-ads-search-terms`.
 - Turn anything on. Campaigns land paused, and switching them on is a human step in Google Ads.
 
-## What you need
+## Inputs
 
 From the user: the product and who buys it, the landing page URL, target locations, language, daily budget in the account currency, and if known the target cost per acquisition (CPA), the highest cost per click (CPC) they will pay, brand terms, competitor names they don't want to bid on, and whether there is a free plan. Ask for what is missing. Never invent a budget, a claim or a price.
 

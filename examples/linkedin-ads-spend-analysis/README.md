@@ -2,7 +2,7 @@
 
 Made-up data for trying `linkedin-ads-spend-analysis`. Northwind Analytics is a fictional company, and every campaign, ad set, ad, ID and number here is invented. This is its own dataset: the numbers don't line up with the other Northwind examples in this folder.
 
-| File | What it stands in for |
+| File | Stands in for |
 | --- | --- |
 | `ad-set-performance-daily.csv` | Ad set performance export, All columns, time breakdown Daily, 8/21/2026 to 10/19/2026 (the 30-day window and the 30 days before) |
 | `ad-set-performance.csv` | Ad set performance export, All columns, time breakdown All, 9/20/2026 to 10/19/2026 (reach and frequency for the window) |

@@ -7,7 +7,7 @@ description: Turns a plain-language ask into a LinkedIn campaign built right the
 
 Takes an ask like "promote our new guide to finance leaders in North America, about 3,000 a month" to a LinkedIn campaign that's right on the first build: a complete brief, an audience estimate before anything exists, the defaults that keep spend on the people you chose, and the exact plan for your yes. Then it creates everything as drafts, or hands you a build sheet. Nothing goes live from this skill.
 
-## When to use it
+## Use cases
 
 Use it for:
 
@@ -22,7 +22,7 @@ It doesn't:
 - Upload or refresh matched lists. Use `linkedin-audience-ops`, then come back with the audience Ready.
 - Activate anything, or edit ad sets that are already running.
 
-## What you need
+## Inputs
 
 LinkedIn's interface names the levels campaign, ad set and ad. The API, and Adwarp's tools, still use the old names:
 

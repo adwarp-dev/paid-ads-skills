@@ -7,20 +7,20 @@ description: Disciplined ad tests on LinkedIn Ads and Google Ads. Log a hypothes
 
 Turns ad changes into tests you can read later. Before a change, it writes down the hypothesis. After the read window, it compares equal-length windows before and after, checks the result against normal week-to-week noise and the rest of the account, states every confound, and gives 1 of 3 verdicts with the reason.
 
-## When to use it
+## Use cases
 
 - "Log this test before I change it", "I'm about to swap the headline".
 - "Did that change work?", "measure the lift", "was the new landing page better?"
 - "What tests are running?", "which changes haven't been read yet?"
 - "Should I A/B test this or just change it?"
 
-What it doesn't do:
+Out of scope:
 
 - The weekly scoreboard. Use `paid-media-weekly-report`.
 - Pick which ads to pause by performance. Use `linkedin-ads-pause-rules` or `linkedin-ads-performance-review`.
 - Prove causation. A before and after read is evidence with stated limits. A platform A/B split (step 1) is the stronger design whenever it's available.
 
-## What you need
+## Inputs
 
 A change log with the hypothesis written before the change, plus daily performance covering 3 equal windows: a placebo window, the before window, and the after window (Method step 4). The default window is 14 days, so about 6 weeks of data.
 
@@ -37,7 +37,7 @@ A change log with the hypothesis written before the change, plus daily performan
 | `entity` | Name exactly as it appears in the exports. |
 | `type` | `test` (has a hypothesis) or `change` (anything else: budgets, bids, targeting, tracking, new ads). |
 | `change` | What changed, from what to what. |
-| `hypothesis` | Why it should work. Tests only. |
+| `hypothesis` | The reason it should work. Tests only. |
 | `metric` | The 1 primary metric. Tests only. |
 | `expected` | Direction and size, like `-15%`. Tests only. |
 | `window_days` | Days in each window, 14 by default. |

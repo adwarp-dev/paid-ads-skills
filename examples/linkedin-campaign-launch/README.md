@@ -2,7 +2,7 @@
 
 Made-up data for trying `linkedin-campaign-launch`. Northwind Analytics is a fictional company, and every ID, URN, audience, conversion and number here is invented. The `.example` domain is reserved and doesn't resolve.
 
-| File | What it stands in for |
+| File | Stands in for |
 | --- | --- |
 | `ask.md` | The plain-language ask, and the answers to the skill's follow-up questions |
 | `linkedin-launch-defaults.json` | The account's standing defaults, saved by the skill on first run |

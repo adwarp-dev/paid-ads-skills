@@ -7,21 +7,21 @@ description: Daily guardrail check for LinkedIn Ads and Google Ads that stays si
 
 An alarm for LinkedIn Ads and Google Ads. Every morning it reads yesterday against the days before and runs 9 checks. When nothing trips, the whole output is 1 line. When something does, it prints 1 line per problem, ordered by the money at stake per day, each with the number that tripped it and the exact fix.
 
-## When to use it
+## Use cases
 
 - "Anything on fire?", "health check", "daily ads check", "are my ads running?"
 - A specific morning question: "did tracking break?", "why did spend jump yesterday?", "why is this ad set not serving?"
 - A scheduled run every morning that posts only its output. The 1-line all clear is the normal day.
 - LinkedIn Ads, Google Ads, or both. Run with 1 platform and the other drops out.
 
-What it doesn't do:
+Out of scope:
 
 - Project month-end spend against a cap. Use `ad-budget-pacing`; it runs daily too, and the 2 don't overlap (pacing asks where the month lands, this asks whether yesterday looked normal).
 - Write the weekly scoreboard with movers and 3 actions. Use `paid-media-weekly-report`.
 - Review an account in depth: creative fatigue, structure, scale and pause lists. Use `linkedin-ads-performance-review` for LinkedIn and `google-ads-account-audit` for Google.
 - Change anything. Every fix is a proposal (Safety).
 
-## What you need
+## Inputs
 
 **Windows.** Each platform uses its own reporting days: UTC for LinkedIn, the account time zone for Google. Today is never read.
 
@@ -254,7 +254,7 @@ Replace `123456789` with each segment id you track. Schedule after both reportin
 - **Daily overspend is allowed.** A single high day within the platform's limits is normal; the spike check asks about the cause, not the bill.
 - **Offline and imported conversions arrive in batches.** CRM imports can show 0 for days and then catch up. Leave those actions out of check 1, or raise its floor for them.
 - **When clicks fall with conversions,** check 1 stays silent on purpose: that is delivery or demand, and checks 2 and 6 cover it.
-- **What this can't tell you:** lead quality or pipeline; why LinkedIn rejected an ad (the status says Rejected; the reason sits in Campaign Manager); problems on entities with no history yet; audiences Adwarp didn't upload, unless you read them from Plan > Audiences; whether a spike was intended.
+- **Blind spots:** lead quality or pipeline; why LinkedIn rejected an ad (the status says Rejected; the reason sits in Campaign Manager); problems on entities with no history yet; audiences Adwarp didn't upload, unless you read them from Plan > Audiences; whether a spike was intended.
 
 ## Output
 

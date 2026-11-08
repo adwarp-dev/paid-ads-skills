@@ -7,19 +7,19 @@ description: Daily monthly-pacing check for LinkedIn Ads and Google Ads. Spend t
 
 Answers 1 question every morning: at the current rate, where does each platform's spend land at month end against its cap? When the answer is close enough, it prints 1 line. When it isn't, it prints a short alert with the daily budget change that lands the month on the cap, and checks whether a budget change can fix it at all.
 
-## When to use it
+## Use cases
 
 - "Are we on pace this month?", "will we overspend?", "projected month-end spend".
 - A daily scheduled run that stays quiet unless spend is off pace.
 - LinkedIn Ads, Google Ads, or both, with a cap per platform, a combined cap, or both.
 
-What it doesn't do:
+Out of scope:
 
 - Judge whether the money is well spent. Use `paid-media-weekly-report` for the weekly scoreboard, or `linkedin-ads-performance-review` and `google-ads-account-audit` for depth.
 - Change budgets on its own. It shows the change and waits (Safety).
 - Pace lifetime or flight budgets that don't follow the calendar month. Swap the month for the flight dates and the same math works.
 
-## What you need
+## Inputs
 
 - **Monthly caps**, from the user: per platform, combined, or both. Keep them in `pacing-caps.csv` (`scope,monthly_cap,currency`, with scope `LinkedIn Ads`, `Google Ads` or `Combined`) so a scheduled run can read them.
 - **Thresholds:** alert when projected spend is above 105% or below 85% of a cap. These are defaults; change them per cap.
@@ -136,7 +136,7 @@ Run after the reporting day has closed: LinkedIn days end at midnight UTC, Googl
 - **Overspend and underspend are not symmetric.** Over-pace is fixed with a budget cut, which works at once. Under-pace is often a delivery problem that a bigger budget won't touch, which step 7 checks.
 - **LinkedIn daily overspend is allowed.** Daily spend can run up to 100% above the daily budget; total spend stays within 7 times the daily budget per week on a continuous schedule, the daily budget times the scheduled days on a fixed schedule, and a lifetime budget when set. A single high day is not an alert.
 - **Spend is not final until the day closes.** Reading after midnight in each platform's reporting time zone keeps yesterday complete.
-- **What this can't tell you:** whether the spend is working, invoices or billing adjustments (Google credits costs above its spending limits, so billed amounts can sit below reported cost), or budgets on entities that didn't deliver.
+- **Blind spots:** whether the spend is working, invoices or billing adjustments (Google credits costs above its spending limits, so billed amounts can sit below reported cost), or budgets on entities that didn't deliver.
 
 ## Output
 

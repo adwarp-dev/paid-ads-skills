@@ -7,13 +7,13 @@ description: Rank which LinkedIn ads actually produce leads or conversions and w
 
 Sort every ad that's meant to produce leads or conversions into drivers, promising, middle, costly, non-converters and too early, then say what to do with each. The pause list, with the money each ad burned, is usually worth the most today. The angle read, which hooks, offers and formats win against each other inside the same ad set, is worth the most next month, because it says what to make instead of only what to kill.
 
-## When to use it
+## Use cases
 
 - "Which ads drive leads?", "which ads don't convert?", "cost per lead by ad", "which creative is working?".
 - Before writing new ads: which angles to repeat and which to drop.
 - After a launch, once each ad has had time to spend.
 
-What it doesn't do, and the sibling to use:
+Out of scope, with the sibling to use:
 
 - The broad account review (week over week direction, fatigue, ad set scale and watch lists): `linkedin-ads-performance-review`.
 - Standing weekly pause rules: `linkedin-ads-pause-rules` pauses on a click-through rate floor. That floor can't see an ad people click and never convert from; this skill judges ads on results, so the 2 catch different losers. For a single "what isn't converting" read, use this; for a rule that runs every Monday, use pause rules.
@@ -23,7 +23,7 @@ What it doesn't do, and the sibling to use:
 
 It reads only. Pauses happen after the user confirms the exact list (see Safety).
 
-## What you need
+## Inputs
 
 **Names first.** Since October 2025 Campaign Manager calls the old "campaign group" a **campaign** and the old "campaign" an **ad set** ([Social Media Today][smt]). Ads sit in ad sets, and the ad set holds the objective, audience, bid and budget. LinkedIn's API, and Adwarp with it, still say campaign group, campaign and creative. This skill uses the interface names. In an export, "Campaign Name" means the campaign when an "Ad Set Name" column also exists, and the ad set when it doesn't.
 
@@ -134,7 +134,7 @@ Every number marked "default" is a judgment call the user can change.
 - **Platform results aren't pipeline.** A Lead Gen Form lead and a demo request are different results with different value, which is why the 2 are never added. If CRM outcomes by ad exist (through UTM content or a lead source field), rank on qualified leads instead and say so.
 - **Small audiences.** ABM and retargeting ads may never reach 1,000 impressions in 30 days. Judge them over the whole flight.
 - **Tags are judgment.** 2 people can tag the same ad differently. Keep the tagging sheet with the report so the read can be rechecked.
-- **What this can't tell you:** why an angle won (the line, the image, the audience fit) or whether the next ad with that angle will win. The angle read says where to aim; the new ads are the test.
+- **Blind spots:** why an angle won (the line, the image, the audience fit) or whether the next ad with that angle will win. The angle read says where to aim; the new ads are the test.
 - **No industry benchmarks.** Every comparison is inside the account. Published cost per lead and form completion averages vary by source, format and audience, and none was verified for this skill.
 
 ## Output

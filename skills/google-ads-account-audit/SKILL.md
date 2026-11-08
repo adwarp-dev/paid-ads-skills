@@ -7,7 +7,7 @@ description: Read-only Google Ads account audit with 50 checks across conversion
 
 Runs 50 read-only checks on a Google Ads account and turns them into a scorecard plus a short list of fixes ranked by the money each one puts at risk. Tracking problems come first, because every cost per conversion below them depends on tracking being right.
 
-## When to use it
+## Use cases
 
 - "Audit my Google Ads account", "health check", "is this account set up right", "what's wrong with this account", "why did our CPA jump".
 - A new account handed over by an agency or a colleague, or a quarterly review.
@@ -19,7 +19,7 @@ It doesn't:
 - Mine search terms for every negative keyword. It sizes the waste (checks Q1 to Q4); use `google-ads-search-terms` for the full negative list and the upload file.
 - Build new campaigns. Use `google-ads-search-campaign-builder`.
 
-## What you need
+## Inputs
 
 A date window (default: the last 30 days) and the target cost per acquisition. If the user has no target, use the account's own cost per conversion over the window and label it "account average, used as target".
 

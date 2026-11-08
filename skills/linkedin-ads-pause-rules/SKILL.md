@@ -7,7 +7,7 @@ description: Rules-based pausing for LinkedIn ads. You approve the rules once (a
 
 Turns "pause the losers" into rules the user approves once, led by a click-through rate (CTR) floor for each ad format, and applies them the same way every week: a dry-run table first, a confirmed list second, and a logged reason for every pause.
 
-## When to use it
+## Use cases
 
 - "Which LinkedIn ads should I pause?", "pause my losing ads", "clean up the account every Monday".
 - Setting up or changing the rules themselves: the floors, the cap, what is protected.
@@ -22,7 +22,7 @@ It doesn't:
 
 A naming note, because it decides what "the last ad" means. Campaign Manager now groups ads as campaign, then ad set, then ad. LinkedIn's Marketing API, and tools built on it, still call the ad set a "campaign" and the campaign a "campaign group". This skill says ad set for the level that holds the ads.
 
-## What you need
+## Inputs
 
 ### Export mode
 

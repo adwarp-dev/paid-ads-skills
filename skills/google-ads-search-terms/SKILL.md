@@ -7,7 +7,7 @@ description: Finds wasted spend and negative keyword candidates in the Google Ad
 
 Reads the search terms report, prices the waste, and turns it into negatives you can upload in 1 step, plus the converting terms that deserve their own keyword. Every negative is tested against your keywords first, so the cleanup can't switch off traffic that converts.
 
-## When to use it
+## Use cases
 
 - "Where is my search budget leaking", "find negative keywords", "clean up my search terms", "which searches waste money", "what should I exclude".
 - Search campaigns, AI Max for Search, and Performance Max search terms.
@@ -18,7 +18,7 @@ It doesn't:
 - Audit settings, tracking or structure. Use `google-ads-account-audit`, whose checks Q1 to Q4 size the waste this skill removes.
 - Add the negatives itself. Adwarp has no tool that adds negative keywords to an existing campaign, ad group or list; its launch tool sets negatives only on a new campaign. So the skill writes a CSV for Google Ads Editor and a paste list for shared lists, and the user uploads them.
 
-## What you need
+## Inputs
 
 The target cost per acquisition (CPA). If the user has none, use the cost per conversion of the campaigns in the file and label it "account average, used as target". A short description of what the business sells and doesn't, so intent calls are right.
 

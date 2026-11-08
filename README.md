@@ -8,7 +8,7 @@ They work in Claude Code, Codex, Cursor and any agent that reads `SKILL.md` file
 
 ### LinkedIn Ads
 
-| Skill | Ask it | What you get |
+| Skill | Ask it | Output |
 | --- | --- | --- |
 | [`linkedin-ads-audit`](skills/linkedin-ads-audit) | "Audit my LinkedIn ads account" | A scored check of tracking, structure, targeting, delivery settings, bidding, creative and UTMs, with fixes ranked by the spend at risk |
 | [`linkedin-ads-performance-review`](skills/linkedin-ads-performance-review) | "How are my LinkedIn ads doing?" | Scale, pause and watch lists, week over week direction and creative fatigue, with floors so small numbers don't drive decisions |
@@ -23,7 +23,7 @@ They work in Claude Code, Codex, Cursor and any agent that reads `SKILL.md` file
 
 ### Google Ads
 
-| Skill | Ask it | What you get |
+| Skill | Ask it | Output |
 | --- | --- | --- |
 | [`google-ads-account-audit`](skills/google-ads-account-audit) | "Audit my Google Ads account" | 40 to 50 checks with a GAQL query for each, and the fixes ranked |
 | [`google-ads-search-campaign-builder`](skills/google-ads-search-campaign-builder) | "Build a search campaign for this product" | Keywords, structure and responsive search ads, ending in a paused launch brief |
@@ -31,7 +31,7 @@ They work in Claude Code, Codex, Cursor and any agent that reads `SKILL.md` file
 
 ### Both platforms
 
-| Skill | Ask it | What you get |
+| Skill | Ask it | Output |
 | --- | --- | --- |
 | [`paid-media-weekly-report`](skills/paid-media-weekly-report) | "Write the weekly paid report" | The last 7 days against the 7 before, the movers, flags and 3 actions |
 | [`paid-media-health-check`](skills/paid-media-health-check) | "Anything on fire in our ads?" | A daily check that stays silent unless something is wrong: no delivery, spend spikes, cost blowouts, spend with nothing back |

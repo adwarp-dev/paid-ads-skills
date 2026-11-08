@@ -2,7 +2,7 @@
 
 Made-up data for trying `linkedin-ads-lead-drivers`. Northwind Analytics is a fictional company, and every campaign, ad set, ad, ID and number here is invented. The 2 exports are the same ones as in the `linkedin-ads-spend-analysis` example, so you can run both skills and see how the ad-level and money-level reads fit together. They don't line up with the other Northwind examples.
 
-| File | What it stands in for |
+| File | Stands in for |
 | --- | --- |
 | `ad-performance.csv` | Ad performance export, All columns, time breakdown All, 9/20/2026 to 10/19/2026 |
 | `ad-set-performance.csv` | Ad set performance export, All columns, time breakdown All, same window (objectives and landing page clicks) |

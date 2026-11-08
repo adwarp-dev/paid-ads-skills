@@ -13,7 +13,7 @@ The detail behind Method steps 3 to 6 and 9 in `SKILL.md`. Sources are listed in
 
 From LinkedIn's Targeting Criteria Facet URNs reference (Microsoft Learn):
 
-| You use | You can't add in the include clause | What it means for ABM |
+| You use | You can't add in the include clause | Meaning for ABM |
 | --- | --- | --- |
 | Company name (`employers`) | Industry, Company size | You can't narrow a big account by industry or headcount. Use function, seniority, location or titles. |
 | Job title (`titles`) | Job function, Seniority | Titles replace the function and seniority pair. They never stack on top of it. |

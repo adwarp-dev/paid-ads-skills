@@ -7,7 +7,7 @@ description: Turns a target account list into 1:1 account-based LinkedIn ad set 
 
 Turns a list of target accounts into 1 LinkedIn ad set per account: the account's buying group sized so it serves, 3 ads that each give a different reason to care, a fixed flight and budget, and a coverage file sales can check outbound against. The result is a launch brief you approve. Nothing is created until you confirm it.
 
-## When to use it
+## Use cases
 
 Use it for:
 
@@ -24,7 +24,7 @@ It doesn't:
 - Research what competitors run. Use `linkedin-ad-library-teardown`.
 - Make images. It writes the copy and a 1-line image brief per ad.
 
-## What you need
+## Inputs
 
 A note on names: LinkedIn's help pages now call the levels campaign, ad set and ad. The Marketing API, and Adwarp's tool names, still say campaign group, campaign and creative. This skill uses the help-page names.
 
@@ -42,7 +42,7 @@ For either mode, collect:
 
 **1. The account list CSV.** Only `account_name` and `domain` are required. The rest make the plan better.
 
-| Column | Why it helps |
+| Column | Benefit |
 | --- | --- |
 | `account_name`, `domain` | Required. The domain tells apart companies with similar names. |
 | `linkedin_company_url` | The surest match. LinkedIn's company list guide asks for the URL that ends in the company name, not a number ID. |

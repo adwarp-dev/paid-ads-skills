@@ -4,7 +4,7 @@ Facts here come from LinkedIn's help pages listed in the skill's Sources (checke
 
 ## What each rung targets
 
-| Rung | Campaign Manager attribute | What LinkedIn bases it on | Why it sits here |
+| Rung | Campaign Manager attribute | Basis in LinkedIn | Reason for this rung |
 | --- | --- | --- | --- |
 | Base | Location (required) | Where the member lives, or lives and visits | Required on every ad set |
 | 1 | Job Function | Member job titles mapped to functions with LinkedIn's taxonomy, no AI inference | Broad and well populated |
